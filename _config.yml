@@ -24,11 +24,12 @@ github_username:  chemistzombie
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+exclude: [vendor]
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
