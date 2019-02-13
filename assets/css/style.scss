@@ -3,7 +3,14 @@
 
 @import "{{ site.theme }}";
 
-.page-header{background-image:files/background.jpg;}
+.page-header{background:url("/files/background.jpg"); background-position: center;}
+.project-name{
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+}
 
 @font-face {
     font-family: Proxima Nova Regular;
