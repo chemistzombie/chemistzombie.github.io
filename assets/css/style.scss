@@ -1,0 +1,44 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header{background-image:files/background.jpg;}
+
+@font-face {
+    font-family: Proxima Nova Regular;
+    src: url('https://img2.wikia.nocookie.net/__cb20150529112831/plantsvszombies/images/9/96/ProximaNova-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: Proxima Nova Regular;
+    src: url('https://img3.wikia.nocookie.net/__cb20150601031337/plantsvszombies/images/c/cd/ProximaNova-RegularItalic.ttf') format('truetype');
+    font-style: italic;
+}
+@font-face {
+    font-family: Proxima Nova Regular;
+    src: url('https://img3.wikia.nocookie.net/__cb20150601031337/plantsvszombies/images/c/cd/ProximaNova-RegularItalic.ttf') format('truetype');
+    font-style: oblique;
+}
+@font-face {
+    font-family: Proxima Nova Regular;
+    src: url('https://img2.wikia.nocookie.net/__cb20150601031337/plantsvszombies/images/1/12/ProximaNova-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+@font-face {
+    font-family: Proxima Nova Regular;
+    src: url('https://img1.wikia.nocookie.net/__cb20150601031337/plantsvszombies/images/6/6d/ProximaNova-BoldIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: Proxima Nova Regular;
+    src: url('https://img1.wikia.nocookie.net/__cb20150601031337/plantsvszombies/images/6/6d/ProximaNova-BoldIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: oblique;
+}
+
+body {font-family:'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Default font */
+h1 {font-family: 'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Page title font. Other stuff that uses the h1 tag is also affected. */
+h2 {font-family: 'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Heading 2 font. Other stuff that uses the h2 tag is also affected. */
+h3 {font-family: 'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Heading 3 font. Other stuff that uses the h3 tag is also affected. */
+h4 {font-family: 'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Heading 4 font. Other stuff that uses the h4 tag is also affected. */
