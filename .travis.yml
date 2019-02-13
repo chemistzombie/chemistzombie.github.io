@@ -1,0 +1,20 @@
+sudo: false
+language: ruby
+cache:
+  bundler: true
+  directories:
+    - node_modules
+rvm:
+- 2.1
+
+script:
+  - npm install
+  - bundle exec jekyll build
+
+before_deploy:
+  - chmod +x deploy.sh
+
+deploy:
+  provider: script
+  script: ./deploy.sh
+  skip_cleanup: true
