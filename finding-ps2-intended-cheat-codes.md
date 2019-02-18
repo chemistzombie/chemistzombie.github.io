@@ -30,7 +30,9 @@ Note that some of the intended cheat codes they published don't really make much
 **Confidence**: Not really sure.
 
 **Notes:** Although there are cheat codes that have completely random button combos, I'm not 100% sure if this is true. This pattern doesn't seem to make that much of a sense not to mention that there are some other combos as well.
+
 ---
+
 **Always midnight**: ![X](/images/x.gif) ![Down](/images/d.gif) ![Down](/images/d.gif) ![X](/images/x.gif) ![Up](/images/u.gif) ![Up](/images/u.gif) ![L1](/images/l1.gif) ![L2](/images/l2.gif) ![L2](/images/l2.gif) ![L1](/images/l1.gif)
 
 **Orange sky 21:00**: ![X](/images/x.gif) ![Down](/images/d.gif) ![Down](/images/d.gif) ![X](/images/x.gif) ![Up](/images/u.gif) ![Up](/images/u.gif) ![L1](/images/l1.gif) ![R2](/images/r2.gif) ![R2](/images/r2.gif) ![L1](/images/l1.gif)
