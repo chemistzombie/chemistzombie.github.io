@@ -14,6 +14,8 @@ The problem is that this tool is quite buggy (and shitty, considering Micro$oft 
 
 Also, not all these "paired" cheat codes have these similar combinations. For example, the Hotring A and B spawn cheat codes are completely different despite being both official and them being fairly similar vehicles.
 
+I have to tell you about this: I don't think the "prostitutes pay you" cheat code has an intended cheat code, as it has a nulled hash indicating it was actually supposed to be scrapped, so I won't bother finding that one.
+
 ## Frequent traits of intended cheat codes
 Judging from the already-discovered intended cheats that came straight from Rockstar as well as a bit of common sense, there are a few traits that intended cheat codes have. The rule of thumb is as follows:
 - Intended cheat codes usually have very regular button patterns not commonly found on the random "unintended" ones, such as the one from the spawn jetpack cheat code.
@@ -43,3 +45,31 @@ Note that some of the intended cheat codes they published don't really make much
 
 **Notes**: I'm pretty sure this is the correct cheat code for both cheats considering how the pattern looks very regular.
 
+---
+
+**Infinite health**: ![Triangle](/images/t.gif) ![X](/images/x.gif) ![X](/images/x.gif) ![Circle](/images/c.gif) ![Circle](/images/c.gif) ![Square](/images/s.gif) ![L1](/images/l1.gif) ![R2](/images/r2.gif) ![L2](/images/l2.gif) ![R1](/images/r1.gif)
+
+**Confidence**: rather high
+
+**Notes**: This is most likely the intended cheat code, judging by the pattern.
+
+---
+
+**Cars float away when hit**: ![L2](/images/l2.gif) ![R1](/images/r1.gif) ![R2](/images/r2.gif) ![L1](/images/l1.gif) ![X](/images/x.gif) ![X](/images/x.gif) ![Circle](/images/c.gif) ![Circle](/images/c.gif) ![Square](/images/s.gif) ![Square](/images/s.gif)
+
+**Confidence**: rather high
+
+**Notes**: This is most likely the intended one, for the same reason
+
+---
+
+**Riot mode**: ![Down](/images/d.gif) ![Right](/images/r.gif) ![Square](/images/s.gif) ![Square](/images/s.gif) ![Triangle](/images/t.gif) ![Triangle](/images/t.gif) ![X](/images/x.gif) ![X](/images/x.gif) ![L1](/images/l1.gif) ![L2](/images/l2.gif)
+
+**Confidence**: rather high
+
+## Commonly known cheat codes that are probably intended
+I'm gonna exclude some commonly known cheat codes that aren't published by Rockstar from the search list because they seem legit and regular enough that they're most likely the intended ones. They are:
+
+1. Never wanted
+2. Six star wanted level
+3. Sandstorm
