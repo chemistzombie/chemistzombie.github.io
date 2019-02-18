@@ -35,37 +35,95 @@ Note that some of the intended cheat codes they published don't really make much
 
 ---
 
-**Always midnight**: ![X](/images/x.gif) ![Down](/images/d.gif) ![Down](/images/d.gif) ![X](/images/x.gif) ![Up](/images/u.gif) ![Up](/images/u.gif) ![L1](/images/l1.gif) ![L2](/images/l2.gif) ![L2](/images/l2.gif) ![L1](/images/l1.gif)
+**Always midnight**: :x: :d: :d: :x: :u: :u: :L1: :L2: :L2: :L1:
 
-**Orange sky 21:00**: ![X](/images/x.gif) ![Down](/images/d.gif) ![Down](/images/d.gif) ![X](/images/x.gif) ![Up](/images/u.gif) ![Up](/images/u.gif) ![L1](/images/l1.gif) ![R2](/images/r2.gif) ![R2](/images/r2.gif) ![L1](/images/l1.gif)
+**Orange sky 21:00**: :x: :d: :d: :x: :u: :u: :L1: :R2: :R2: :L1:
 
 **Fuzzy lookup similarity**: Not documented
 
-**Confidence**: high!
+**Confidence**: very high!
 
-**Notes**: I'm pretty sure this is the correct cheat code for both cheats considering how the pattern looks very regular.
+**Notes**: I'm sure this is the correct cheat code for both cheats considering how the pattern looks very regular and similar.
 
 ---
 
-**Infinite health**: ![Triangle](/images/t.gif) ![X](/images/x.gif) ![X](/images/x.gif) ![Circle](/images/c.gif) ![Circle](/images/c.gif) ![Square](/images/s.gif) ![L1](/images/l1.gif) ![R2](/images/r2.gif) ![L2](/images/l2.gif) ![R1](/images/r1.gif)
+**Infinite health**: :t: :x: :x: :c: :c: :s: :L1: :R2: :L2: :R1:
 
-**Confidence**: rather high
+**Confidence**: high
 
 **Notes**: This is most likely the intended cheat code, judging by the pattern.
 
 ---
 
-**Cars float away when hit**: ![L2](/images/l2.gif) ![R1](/images/r1.gif) ![R2](/images/r2.gif) ![L1](/images/l1.gif) ![X](/images/x.gif) ![X](/images/x.gif) ![Circle](/images/c.gif) ![Circle](/images/c.gif) ![Square](/images/s.gif) ![Square](/images/s.gif)
+**Cars float away when hit**: :L2: :R1: :R2: :L1: :X: :x: :c: :c: :s: :s:
 
-**Confidence**: rather high
+**Confidence**: high
 
-**Notes**: This is most likely the intended one, for the same reason
+**Notes**: Same reason as above
 
 ---
 
-**Riot mode**: ![Down](/images/d.gif) ![Right](/images/r.gif) ![Square](/images/s.gif) ![Square](/images/s.gif) ![Triangle](/images/t.gif) ![Triangle](/images/t.gif) ![X](/images/x.gif) ![X](/images/x.gif) ![L1](/images/l1.gif) ![L2](/images/l2.gif)
+**Riot mode**: :d: :r: :s: :s: :t: :t: :x: :x: :L1: :L2:
 
-**Confidence**: rather high
+**Confidence**: high
+
+**Notes**: Same reason as above
+
+---
+
+**Thunderstorm**: :R2: :T: :R2: :T: :C: :C: :L: :R: :U: :U:
+
+**Confidence**: high
+
+**Notes**: I didn't notice this one until now when I started to peruse these patterns more carefully. It appears that this is most likely the intended one, and the fact that it's 10 button presses long just like the sandstorm cheat code further implies it.
+
+---
+
+**Adrenaline mode**: :T: :R: :D: :1: :2: :S: :S: :3: :4:
+
+**Confidence**: unsure
+
+**Notes**: Not sure about this one, but that :1: :2: :3: :4: pattern might not be a coincidence.
+
+---
+
+**Infinite ammo**: :D: :X: :D: :X: :3: :4: :U: :T: :L: :C:
+
+**Confidence**: unsure
+
+**Notes**: This might be a coincidence but it might be the intended one since both :d: and :x: buttons are both located at the bottom while :u: and :t: are at the top, creating a pattern, but :l: and :c: aren't (they contradict each other), but considering how Rockstar deliberately does this kind of thing in these regular cheat patterns sometimes, it might be possible they did this intentionally to prevent people from discovering it too quickly while fiddling around with the controller (e.g. the weapon set 1 cheat where it's :3: :4: :1: :4: instead of the more regular :3: :4: :1: :2:).
+
+## Not yet found:
+1. Infinite oxygen
+2. Adrenaline mode (?)
+3. Infinite ammo (?)
+4. Mega punch
+5. Max respect
+6. Max sex appeal
+7. Hitman in all weapon stats
+8. Max all vehicle skill stats
+9. Spawn Hunter
+10. Spawn Tanker
+11. Spawn Dozer
+12. Country traffic
+13. Traffic is cheap cars
+14. Traffic is fast cars
+15. Country traffic + born 2 truck outfit
+16. Cars fly
+17. All cars have nitro
+18. Free aim while driving
+19. Reduced traffic
+20. Peds attack you with weapons
+21. Gang members everywhere
+22. Gangs control the streets
+23. Ninja theme
+24. Slut magnet
+25. Funhouse theme
+26. Recruit anyone (9mm)
+27. Do nothing
+
+
+<!-- do nothing SS2RR1122S1 -->
 
 ## Commonly known cheat codes that are probably intended
 I'm gonna exclude some commonly known cheat codes that aren't published by Rockstar from the search list because they seem legit and regular enough that they're most likely the intended ones. They are:
@@ -73,3 +131,60 @@ I'm gonna exclude some commonly known cheat codes that aren't published by Rocks
 1. Never wanted
 2. Six star wanted level
 3. Sandstorm
+
+<script type="text/javascript">
+ 
+    var emoticons = {
+        ':1:'   : '/images/l1.gif',
+        ':2:'   : '/images/l2.gif',
+        ':3:'   : '/images/r1.gif',
+		':4:'	: '/images/r2.gif',
+		':u:'   : '/images/u.gif',
+        ':d:'   : '/images/d.gif',
+        ':l:'   : '/images/l.gif',
+		':r:'	: '/images/r.gif',
+		':t:'   : '/images/t.gif',
+        ':s:'   : '/images/s.gif',
+        ':c:'   : '/images/c.gif',
+		':x:'	: '/images/x.gif',
+		':l1:'	: '/images/l1.gif',
+        ':l2:'	: '/images/l2.gif',
+        ':r1:'	: '/images/r1.gif',
+		':r2:'	: '/images/r2.gif',
+		':L1:'	: '/images/l1.gif',
+        ':L2:'	: '/images/l2.gif',
+        ':R1:'	: '/images/r1.gif',
+		':R2:'	: '/images/r2.gif',
+		':U:'   : '/images/u.gif',
+        ':D:'   : '/images/d.gif',
+        ':L:'   : '/images/l.gif',
+		':R:'	: '/images/r.gif',
+		':T:'   : '/images/t.gif',
+        ':S:'   : '/images/s.gif',
+        ':C:'   : '/images/c.gif',
+		':X:'	: '/images/x.gif'
+    }
+
+document.querySelectorAll('p').forEach(e => e.innerHTML = replaceEmoticons(e.innerHTML, emoticons));
+
+function replaceEmoticons(text, emotes) {
+   return Object.keys(emotes).reduce((result, emote) => {
+      return result.replace(new RegExp(RegExpEscape(emote), 'gi'), function(match) {
+        return (img => img != null ? '<img src="' + img + '"/>' : match)(emotes[match]);
+      });
+    }, text);
+}
+
+// helper function to escape special characters in regex
+function RegExpEscape(text) {
+  return text.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, "\\$&");
+}
+
+// Map emote ids to their URLs.
+function mapIdsToPaths(emotes, url, prefix, size) {
+  Object.keys(emotes).forEach((id) => {
+    emotes[id] = url + prefix + emotes[id] + '-' + size + '.png';
+  });
+}
+
+</script>
