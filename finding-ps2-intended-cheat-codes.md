@@ -12,52 +12,38 @@ I've been trying to find some of them using common sense as well as an Excel add
 
 The problem is that this tool is quite buggy (and shitty, considering Micro$oft made it) because it continuously drains memory while finding the results, causing an "out of memory" error after a while and preventing some progress.
 
-Also, not all these "paired" cheat codes have these similar combinations. For example, the Hotring A and B spawn cheat codes are completely different despite being both official and them being fairly similar vehicles.
-
 I have to tell you about this: I don't think the "prostitutes pay you" cheat code has an intended cheat code, as it has a nulled hash indicating it was actually supposed to be scrapped, so I won't bother finding that one.
 
+<!-- Presumably, Rockstar originally wanted to publish these unreleased cheat codes slowly, releasing them to gaming sites and magazines such as IGN or Tips & Tricks, possibly to increase its replay value by luring people into testing out these fun cheats. However, fans obviously couldn't afford to wait and wanted to get them as soon as possible, and thus, brute-forcing methods were used in order to find these unreleased cheats. As a result, Rockstar eventually didn't bother releasing them. -->
+
 ## Frequent traits of intended cheat codes
-Judging from the already-discovered intended cheats that came straight from Rockstar as well as a bit of common sense, there are a few traits that intended cheat codes have. The rule of thumb is as follows:
+Judging from the already-discovered intended cheats that came straight from Rockstar as well as a bit of common sense, there are a few traits that intended cheat codes have:
 - Intended cheat codes usually have very regular button patterns not commonly found on the random "unintended" ones, such as the one from the spawn jetpack cheat code.
 - A pair of cheat codes that are adjacent to each other in the cheat index number and have some similarities in their effects usually have fairly similar combinations, save for a few differences (e.g. jetpack and parachute cheat codes)
-Note that some of the intended cheat codes they published don't really make much sense, so chances are we're only going to be able to find a few of them, unless if Rockstar for some reason published all the intended ones or some leaks revealed the whole thing.
+
+Note that these are just the general rule of thumb. Some of the cheat codes they released do have combinations that don't seem to make much sense, such as some of the spawn cheat codes (e.g. Rhino, Bloodring, or Rancher), so most likely we can only find those that make sense, as those that don't make sense are likely to be misinterpreted as "unintended" chat codes.
+
+Also, not all of these "paired" cheat codes have these similar combinations. For example, the Hotring A and B spawn cheat codes are completely different despite being both official and them being fairly similar vehicles.
 
 ## Some results
-**Traffic is fast cars:** ![R1](/images/l1.gif) ![Right](/images/r.gif) ![Right](/images/r.gif) ![Up](/images/u.gif) ![R2](/images/r2.gif) ![Down](/images/d.gif) ![Square](/images/s.gif) ![L1](/images/l1.gif) ![Up](/images/u.gif) ![Down](/images/d.gif) ![L2](/images/l2.gif) ![L2](/images/l2.gif)
-
-**Traffic is cheap cars:** ![R1](/images/l1.gif) ![Right](/images/r.gif) ![Right](/images/r.gif) ![Circle](/images/c.gif) ![R2](/images/r2.gif) ![L1](/images/l1.gif) ![Down](/images/d.gif) ![Square](/images/s.gif) ![L1](/images/l1.gif) ![Down](/images/d.gif) ![Square](/images/s.gif) ![L2](/images/l2.gif)
-
-**Fuzzy lookup similarity:** 77%
-
-**Confidence**: Not really sure.
-
-**Notes:** Although there are cheat codes that have completely random button combos, I'm not 100% sure if this is true. This pattern doesn't seem to make that much of a sense not to mention that there are some other combos as well.
-
----
-
+### A. Most likely to be intended
 **Always midnight**: :x: :d: :d: :x: :u: :u: :L1: :L2: :L2: :L1:
 
 **Orange sky 21:00**: :x: :d: :d: :x: :u: :u: :L1: :R2: :R2: :L1:
 
 **Fuzzy lookup similarity**: Not documented
 
-**Confidence**: very high!
-
-**Notes**: I'm sure this is the correct cheat code for both cheats considering how the pattern looks very regular and similar.
+**Notes**: I'm sure this is the correct cheat code for both cheats considering how the combinations look regular and similar.
 
 ---
 
 **Infinite health**: :t: :x: :x: :c: :c: :s: :L1: :R2: :L2: :R1:
 
-**Confidence**: high
-
-**Notes**: This is most likely the intended cheat code, judging by the pattern.
+**Notes**: This is most likely the intended cheat code, judging by the combo.
 
 ---
 
 **Cars float away when hit**: :L2: :R1: :R2: :L1: :X: :x: :c: :c: :s: :s:
-
-**Confidence**: high
 
 **Notes**: Same reason as above
 
@@ -65,23 +51,33 @@ Note that some of the intended cheat codes they published don't really make much
 
 **Riot mode**: :d: :r: :s: :s: :t: :t: :x: :x: :L1: :L2:
 
-**Confidence**: high
-
 **Notes**: Same reason as above
 
 ---
 
 **Thunderstorm**: :R2: :T: :R2: :T: :C: :C: :L: :R: :U: :U:
 
-**Confidence**: high
-
 **Notes**: I didn't notice this one until now when I started to peruse these patterns more carefully. It appears that this is most likely the intended one, and the fact that it's 10 button presses long just like the sandstorm cheat code further implies it.
 
 ---
 
-**Adrenaline mode**: :T: :R: :D: :1: :2: :S: :S: :3: :4:
+All cars have nitro: :D: :T: :D: :4: :X: :4: :C: :U: :C:
 
-**Confidence**: unsure
+Forms an ABA-CDC-EFE pattern.
+## B. Not really sure if intended
+These are some of the cheat codes that do form some kinda pattern but I'm unsure if they're the intended ones. Be aware that I might just be misinterpreting random noises here, because it's hard to tell the difference between an intended cheat code and the random ones sometimes.
+
+**Traffic is fast cars:** ![R1](/images/l1.gif) ![Right](/images/r.gif) ![Right](/images/r.gif) ![Up](/images/u.gif) ![R2](/images/r2.gif) ![Down](/images/d.gif) ![Square](/images/s.gif) ![L1](/images/l1.gif) ![Up](/images/u.gif) ![Down](/images/d.gif) ![L2](/images/l2.gif) ![L2](/images/l2.gif)
+
+**Traffic is cheap cars:** ![R1](/images/l1.gif) ![Right](/images/r.gif) ![Right](/images/r.gif) ![Circle](/images/c.gif) ![R2](/images/r2.gif) ![L1](/images/l1.gif) ![Down](/images/d.gif) ![Square](/images/s.gif) ![L1](/images/l1.gif) ![Down](/images/d.gif) ![Square](/images/s.gif) ![L2](/images/l2.gif)
+
+**Fuzzy lookup similarity:** 77%
+
+**Notes:** Although there are cheat codes that have completely random button combos, I'm not 100% sure if this one is true. This pattern doesn't seem to make that much of a sense not to mention that there are some other combos as well.
+
+---
+
+**Adrenaline mode**: :T: :R: :D: :1: :2: :S: :S: :3: :4:
 
 **Notes**: Not sure about this one, but that :1: :2: :3: :4: pattern might not be a coincidence.
 
@@ -89,9 +85,25 @@ Note that some of the intended cheat codes they published don't really make much
 
 **Infinite ammo**: :D: :X: :D: :X: :3: :4: :U: :T: :L: :C:
 
-**Confidence**: unsure
+**Notes**: This might be a coincidence but it might be the intended one since both :d: and :x: buttons are both located at the bottom while :u: and :t: are at the top, creating a pattern, but :l: and :c: aren't (they contradict each other), but considering how Rockstar deliberately does this kind of thing in their own cheat combinations sometimes, it might be possible they did this intentionally to prevent people from discovering it too quickly while fiddling around with the controller (e.g. the weapon set 1 cheat where it's :3: :4: :1: :4: instead of the more regular :3: :4: :1: :2:).
 
-**Notes**: This might be a coincidence but it might be the intended one since both :d: and :x: buttons are both located at the bottom while :u: and :t: are at the top, creating a pattern, but :l: and :c: aren't (they contradict each other), but considering how Rockstar deliberately does this kind of thing in these regular cheat patterns sometimes, it might be possible they did this intentionally to prevent people from discovering it too quickly while fiddling around with the controller (e.g. the weapon set 1 cheat where it's :3: :4: :1: :4: instead of the more regular :3: :4: :1: :2:).
+---
+
+**Spawn Hunter**: :U: :L: :U: :R: :U: :C: :S: :D: :4: :1:
+
+**Notes**: Again, not really sure about this one, but "up-left-up-right-up" seems to form a pattern, so this might be it.
+
+---
+
+Hitman in all weapon stats: :X: :D: :X: :D: :C: :1: :D: :C: :1: :1:
+
+Max all vehicle skill stats: :X: :D: :X: :X: :C: :L: :L: :1: :3: :1:
+
+While they might not look very similar, these are the only 10-button combinations for them that have a bit of similarity to it, particularly at that :X: :D: :X: _ :C: part
+
+---
+
+Country traffic + born 2 truck outfit: :3: :2: :1: :L: :R: :1: :2: :3: :T: :4: :D:
 
 ## Not yet found:
 1. Infinite oxygen
@@ -100,17 +112,16 @@ Note that some of the intended cheat codes they published don't really make much
 4. Mega punch
 5. Max respect
 6. Max sex appeal
-7. Hitman in all weapon stats
-8. Max all vehicle skill stats
-9. Spawn Hunter
+7. Hitman in all weapon stats (?)
+8. Max all vehicle skill stats (?)
+9. Spawn Hunter (?)
 10. Spawn Tanker
 11. Spawn Dozer
 12. Country traffic
 13. Traffic is cheap cars
 14. Traffic is fast cars
-15. Country traffic + born 2 truck outfit
+15. Country traffic + born 2 truck outfit (?)
 16. Cars fly
-17. All cars have nitro
 18. Free aim while driving
 19. Reduced traffic
 20. Peds attack you with weapons
@@ -123,7 +134,7 @@ Note that some of the intended cheat codes they published don't really make much
 27. Do nothing
 
 
-<!-- do nothing SS2RR1122S1 -->
+<!-- do nothing SS2RR1122S1 - mega punch possibly RR44CS43RDU, CCUU33RC412 - max sex appeal R1LSSRRXX1D -->
 
 ## Commonly known cheat codes that are probably intended
 I'm gonna exclude some commonly known cheat codes that aren't published by Rockstar from the search list because they seem legit and regular enough that they're most likely the intended ones. They are:
