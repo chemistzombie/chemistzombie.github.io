@@ -8,7 +8,13 @@
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/authagraph-recreated.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/example.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/favorite-map-projections.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/finding-ps2-intended-cheat-codes.html</loc>

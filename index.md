@@ -14,3 +14,7 @@ layout: default
 <p><a href="https://steamcommunity.com/profiles/76561194001942516">Steam profile</a></p>
 <p><a href="https://discord.gg/jeg5fSP">My free games notifier Discord server</a></p>
 <p><a href="https://twitter.com/ChemistZombie">Twitter</a></p>
+
+# Other pages
+## [AuthaGraph recreated (with images)](authagraph-recreated)
+AuthaGraph, an award-winning compromise projection, has been reverse-engineered thanks to some ingenious people.
