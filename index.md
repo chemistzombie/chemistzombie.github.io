@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 ---
 
 <h1>Hello</h1>
@@ -18,3 +18,5 @@ layout: default
 # Other pages
 ## [AuthaGraph recreated (with images)](authagraph-recreated)
 AuthaGraph, an award-winning compromise projection, has been reverse-engineered thanks to some ingenious people.
+
+# Blog post archives
