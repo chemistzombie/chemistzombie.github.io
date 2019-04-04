@@ -14,6 +14,7 @@ gem "jekyll", "~> 3.7.4"
 #gem "minima", "~> 2.0"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-theme-slate", group: :jekyll_plugins
+gem 'jekyll-titles-from-headings'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

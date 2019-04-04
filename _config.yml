@@ -27,6 +27,7 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-titles-from-headings
 
 exclude: [vendor]
 # Exclude from processing.
