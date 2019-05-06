@@ -31,3 +31,46 @@ I then loaded the map in QGIS to reproject it, using EPSG 3785 (Popular Visualis
 
 One thing I noticed is that because Mercator can't show the entire world and Flex Projector outputs the map that's cropped at 85 N/S, the aspect ratio for the map isn't 2:1. Also, the output file's resolution is way bigger than the input, so to fix this I resized it back to a smaller image with a width of 4256 pixels, and fixed the aspect ratio to 2:1, which leaves even more empty spaces, but again, necessary for further reprojections. The above image is actually the one with these adjustments already added.
 
+# Interrupting pseudocylindrical maps
+It turns out that most, if not all, pseudocylindrical and similar types of maps can be interrupted. NASA's G-Projector software supports interruptions of some pseudocylindrical projections (Goode homolosine, Mollweide, Sinusoidal) but unfortunately doesn't offer it for most other pseudocylindrical projections. For example, the McBryde P3, which is based on Craster parabolic projection can be interrupted (and is in interrupted format by default), but the original parabolic projection itself can't.
+
+I looked up for a way to interrupt these projections myself and found [this answer](https://gis.stackexchange.com/a/1798) on Stack Exchange. It basically requires an image editing tool (I used Photoshop) and a bit of patience. I'll just put it here for convenience:
+
+> If you look at a random example of the interrupted sinusoidal, each perfectly vertical meridian corresponds to a single sinusoidal projection.
+>
+> For that example, you're looking at sinusoidals centered on longitudes: -160,-100,-60, ...
+>
+> Then, cut and shift the parts to line up: The bottom left part is composed of longitudes -180..-100 and latitudes 0..-90, and projected with a center longitude of -160. The next part is longitudes -180..-40 and latitudes 0..90, projected w/ a center of -100. And so on (the example I linked was pretty intricate & there might be funny business going on in Russia; it doesn't look like a vanilla sinusoidal there).
+
+It doesn't have to be sinusoidal; any pseudocylindrical, lenticular and other similar projections can be used, such as the Robinson or Hammer projection. However, it's best to use a projection that has a straight equatorial line to make it easier to cut the north and south parts. The projection also doesn't need to be equal area; while most of the commonly used interrupted projections are equal area (e.g. Goode homolosine), compromise projections (e.g. Winkel tripel) can still be used, resulting in an even more minimum-error map.
+
+Here are some examples.
+
+## Equal Earth
+The Equal Earth projection is a new pseudocylindrical equal-area projection designed by Tom Patterson in 2018, and was inspired by the Eckert IV and Robinson projections. It was made in response to the adoption of the Gall-Peters map by Boston public schools.	
+
+This example uses the Goode interruption pattern (displayed as "Interrupted: Continents" in G.Projector), but any interruptions can be used.
+
+<center><a href="https://1.bp.blogspot.com/-TahxeZQdPOE/XMfEpvdMd3I/AAAAAAAAAXc/Z5vP4kk8XXkmroOC76Amx81G6D3_USjEQCLcBGAs/s0/equalearth-goode-unextended.png"><img src="https://1.bp.blogspot.com/-TahxeZQdPOE/XMfEpvdMd3I/AAAAAAAAAXc/Z5vP4kk8XXkmroOC76Amx81G6D3_USjEQCLcBGAs/s640/equalearth-goode-unextended.png"></a><br />Interrupting this map reveals a substantial vertical stretching on low- and mid-latitude regions.</center>
+
+## Fahey
+The Fahey projection is a modification of the cylindrical stereographic projection designed by Lawrence Fahey in 1975.  The parallels are spaced for a Gall stereographic based on a cylinder secant at about 35° instead of 45°, making it closer to the less-known BSAM cylindrical, which uses a standard parallel of 30°.
+
+This example uses the Baker interruption pattern, which is used for the Baker dinomic projection.
+
+<center><a href="https://3.bp.blogspot.com/-RStgjpPgPJA/XMfUuXLa0cI/AAAAAAAAAX0/DsZ_tTH8dlkxPZdsF_9lv-PlJXOsZGsywCLcBGAs/s0/fahey-baker.png"><img src="https://3.bp.blogspot.com/-RStgjpPgPJA/XMfUuXLa0cI/AAAAAAAAAX0/DsZ_tTH8dlkxPZdsF_9lv-PlJXOsZGsywCLcBGAs/s640/fahey-baker.png"></a><br /></center>
+
+## Ortelius oval
+I know that literally no one uses this very old projection, but this one is interesting because although it appears to be a pseudocylindrical projection, it doesn't qualify as one because the meridians are not equally spaced along the parallels, so it doesn't belong to any common types of projection. If I had to name what kind of projection this is, I'd say it's a "pseudopseudocylindrical projection".	
+
+<center><a href="https://2.bp.blogspot.com/-0ybNZqncwQU/XMnquVFErRI/AAAAAAAAAYo/lLNdBopGUUcQIsMB2SmWpSRniZPikdqVQCLcBGAs/s0/ortel-baker.png"><img src="https://2.bp.blogspot.com/-0ybNZqncwQU/XMnquVFErRI/AAAAAAAAAYo/lLNdBopGUUcQIsMB2SmWpSRniZPikdqVQCLcBGAs/s640/ortel-baker.png"></a><br />This actually looks pretty neat for an obsolete projection.</center>
+
+## Winkel tripel
+Here's something you might have been waiting for: the Winkel tripel projection, now in interrupted form. If you like Nat Geo's preferred compromise projection, you better see this.
+
+<center><a href="https://1.bp.blogspot.com/-QhegUUdL8ZY/XMnhskckm1I/AAAAAAAAAYM/PYYO7IM9p4oAy5nhUt0Vk9UVt_xtBVxRQCLcBGAs/s0/winkel-goode.png"><img src="https://1.bp.blogspot.com/-QhegUUdL8ZY/XMnhskckm1I/AAAAAAAAAYM/PYYO7IM9p4oAy5nhUt0Vk9UVt_xtBVxRQCLcBGAs/s640/winkel-goode.png"></a><br />Looks nice.</center>
+
+## Robinson
+Another excellent minimum-error projection in interrupted form. To be honest it looks better than the interrupted Winkel tripel.
+
+<center><a href="https://1.bp.blogspot.com/-FKZRUBQhSGQ/XMnqkI_MB_I/AAAAAAAAAYk/9Cg2Vha2U2cHRLsSC5iZPpRZtE4AFiR0ACLcBGAs/s0/robinson-goode.png"><img src="https://1.bp.blogspot.com/-FKZRUBQhSGQ/XMnqkI_MB_I/AAAAAAAAAYk/9Cg2Vha2U2cHRLsSC5iZPpRZtE4AFiR0ACLcBGAs/s640/robinson-goode.png"></a><br />I prefer Robinson because it's got less vertical stretching on the low- and mid-latitude regions</center>

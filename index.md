@@ -15,6 +15,8 @@ layout: archive
 <p><a href="https://discord.gg/jeg5fSP">My free games notifier Discord server</a></p>
 <p><a href="https://twitter.com/ChemistZombie">Twitter</a></p>
 
+<iframe src="https://discordapp.com/widget?id=246209752332238850&theme=dark" width="300" height="360" allowtransparency="true" frameborder="0"></iframe>
+
 # Other pages
 ## [AuthaGraph recreated (with images)](authagraph-recreated)
 AuthaGraph, an award-winning compromise projection, has been reverse-engineered thanks to some ingenious people.

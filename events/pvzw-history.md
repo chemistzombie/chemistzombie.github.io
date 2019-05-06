@@ -3,7 +3,9 @@ layout: default
 ---
 
 # A detailed breakdown of PvZW's history and events that I still remember
-This is a detailed breakdown of PvZW's history that I compiled for the 10th anniversary event. Note that I mainly focus on 2012-2013 because I feel like those were the best years of the wiki.
+This is a detailed breakdown of PvZW's history that I compiled for the 10th anniversary event, down to the many minor events, mostly from my perspective. Note that I mainly focus on 2012-2013 here because everything was less mundane back then so it's easier to remember those time periods.
+
+The timeline is sorted in chronological order, with subsequent events being merged into the same day as the first event.
 
 ## 2012
 ### May
@@ -18,4 +20,16 @@ This is a detailed breakdown of PvZW's history that I compiled for the 10th anni
 	* The last one occurred on 10 February 2013, three months after the fourth attack. Only four pages were vandalized but they also managed to vandalize my userpage with a very inappropriate content.
 
 ### September
-* Wordbubble was added. This template was used for talk page messages, intended to make them look nicer. It is also customizable, allowing for users to modify it to suit their needs. The template still exists today but is no longer used due to the switch to message walls.
+* 8 September: Wordbubble was added. This template was used for talk page messages, intended to make them look nicer. It is also customizable, allowing for users to modify it to suit their needs. The template still exists today but is no longer used due to the switch to message walls.
+
+## 2013
+### February
+* 26 February
+[Wiki revamp](https://plantsvszombies.fandom.com/wiki/Thread:42567) made by Gwaine. He didn't really contribute to the mainspace and wanted to be an admin dealing with wiki styles but we accepted it anyway back then because why not. Some of the changes he made include adding the lawn background to elements such as buttons and wiki navigation.
+
+### June
+* 3 June
+[First excited, then disappointed](https://plantsvszombies.fandom.com/wiki/Thread:54280): Rant over PvZ2 coming to iOS first before Android, just like what many app devs do. If I have to guess it's because iOS has much less device segmentation, which makes it it easier to perform things like bugfixes there.
+
+Despite rumors of it coming out to PC, it never did (Android emulators don't count).
+
