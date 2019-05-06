@@ -19,6 +19,11 @@ The timeline is sorted in chronological order, with subsequent events being merg
 	* The fourth one occurred on 9 November 2012, after over four months of break, under the name of Nazi Peashooter 682. However, it is unknown whether this was a real Nazi Peashooter or simply an impostor because the only article edit done with this account was on the [Hypno-shroom page](https://plantsvszombies.fandom.com/wiki/Hypno-shroom?diff=prev&oldid=124626) and it didn't look like a vandal edit at all, and the rest were edits on their own userpage.
 	* The last one occurred on 10 February 2013, three months after the fourth attack. Only four pages were vandalized but they also managed to vandalize my userpage with a very inappropriate content.
 
+### July
+* 28 July: Promoted to chatmod, along with Jackass
+
+###
+
 ### September
 * 8 September: Wordbubble was added. This template was used for talk page messages, intended to make them look nicer. It is also customizable, allowing for users to modify it to suit their needs. The template still exists today but is no longer used due to the switch to message walls.
 
@@ -33,3 +38,5 @@ The timeline is sorted in chronological order, with subsequent events being merg
 
 Despite rumors of it coming out to PC, it never did (Android emulators don't count).
 
+### July
+* 9 July: Initial release of PvZ2 on iOS. It was soft launched in Australia first before the international release.

@@ -13,7 +13,7 @@ Pros:
 Cons:
 * Its equations is proprietary and has never been published anywhere, requiring people to resort to alternatives such as its [reverse-engineered clone](https://kunimune.home.blog/2017/11/23/the-secrets-of-the-authagraph-revealed/) to make similar maps.
 	* Because of this, it's impossible to use the original projection in any GIS software.
-	* Not only that, every single image of this projection on the internet uses THE SAME SHITTY LOW-RESOLUTION POLITICAL MAP, WHICH IS THE ONLY MAP THEY WERE WILLING TO PUBLISH ON THEIR WEBSITE (see above).
+	* Not only that, every single image of this projection on the internet uses THE SAME SHITTY ~~LOW-RESOLUTION~~ POLITICAL MAP, WHICH IS THE ONLY MAP THEY WERE WILLING TO PUBLISH ON THEIR WEBSITE (see above). **UPDATE**: I've managed to find a high resolution image of the map. See here.
 * Landmasses such as Australia or Brazil look weird with this projection despite the its minimum-error properties.
 * Compromise projection means that it's not really equal-area as it name claims it to be.
 
