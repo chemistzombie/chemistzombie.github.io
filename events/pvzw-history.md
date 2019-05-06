@@ -40,3 +40,6 @@ Despite rumors of it coming out to PC, it never did (Android emulators don't cou
 
 ### July
 * 9 July: Initial release of PvZ2 on iOS. It was soft launched in Australia first before the international release.
+
+## 2014
+Unfortunately I don't remember much about 2014, since that was when I left the wiki for a few months and didn't make a return until the end of the year, but I do know there was a drama involving Napalm Rosalina. Nonetheless I still don't really get what happened.
