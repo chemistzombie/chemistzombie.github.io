@@ -30,9 +30,10 @@ Forums were added. It initially only saw limited use, mainly for wiki discussion
 
 ## 2013
 ### Early 2013
-PvZ Adventures released as a closed beta. Everyone WANTED to join the beta testing program but it only had a limited amount of invite links that can only be used for up to 500 users for each link. Princess Kitty was the only more active person on the wiki to successfully join the beta program, and I, along with Jack, literally asked her to leak the contents of it (IIRC). This didn't go well though, as a PopCap employee by the name of PopCapDemian approached us immediately and [warned us](https://plantsvszombies.fandom.com/wiki/Thread:49038) to not leak the contents of the game until its release because the contents were of the game were bound to an NDA. All articles leaking the game's content were shortly removed thereafter. Quoting MignightHawk's post:
+PvZ Adventures released as a closed beta. Everyone WANTED to join the beta testing program but it only had a limited amount of invite links that can only be used for up to 500 users for each link. Princess Kitty was the only more active person on the wiki to successfully join the beta program, and I, along with Jack, literally asked her to leak the contents of it (IIRC). This didn't go well though, as a PopCap employee by the name of PopCapDemian approached us immediately and [warned us](https://plantsvszombies.fandom.com/wiki/Thread:49038) to not leak the contents of the game until its release because they were bound to an NDA. All articles leaking the game's content were shortly removed thereafter. Quoting MignightHawk's post:
 
 >To participate in the Beta, you must agree to a terms and conditions statment, and among the list is the refusal to state any information about PvZA outside of the publically stated info.
+
 ### February
 * 26 February
 [Wiki revamp](https://plantsvszombies.fandom.com/wiki/Thread:42567) made by Gwaine. He didn't really contribute to the mainspace and wanted to be an admin dealing with wiki styles but we accepted it anyway back then because why not. Some of the changes he made include adding the lawn background to elements such as buttons and wiki navigation.
