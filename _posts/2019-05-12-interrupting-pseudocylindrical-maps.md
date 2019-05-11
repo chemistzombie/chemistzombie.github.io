@@ -33,12 +33,12 @@ This example uses the Baker interruption pattern, which is used for the Baker di
 The Foucaut stereographic equivalent is a novelty equal-area map projection, named so because the spacing of the parallels along the central meridian
 is the same as that of the equatorial stereographic azimuthal projection (or of Braun's stereographic cylindrical). It has very sharp poles and much more extreme shearing in the polar regions than that of the sinusoidal, so it's essentially useless for general-purpose maps.
 
-<center><a href="https://2.bp.blogspot.com/-4kS2KhOSJxs/XNcVsdqHSuI/AAAAAAAAAdY/k4dlVTgROKMx-EcRM6KXLKt0knnhNgjdQCLcBGAs/s0/foucaut-goode.png><img src="https://2.bp.blogspot.com/-4kS2KhOSJxs/XNcVsdqHSuI/AAAAAAAAAdY/k4dlVTgROKMx-EcRM6KXLKt0knnhNgjdQCLcBGAs/s640/foucaut-goode.png"></a><br />The Foucaut stereographic equivalent projection with Goode interruption pattern. Clearly, not even interruptions can help save this map from being really distorted.</center>
+<center><a href="https://2.bp.blogspot.com/-4kS2KhOSJxs/XNcVsdqHSuI/AAAAAAAAAdY/k4dlVTgROKMx-EcRM6KXLKt0knnhNgjdQCLcBGAs/s0/foucaut-goode.png"><img src="https://2.bp.blogspot.com/-4kS2KhOSJxs/XNcVsdqHSuI/AAAAAAAAAdY/k4dlVTgROKMx-EcRM6KXLKt0knnhNgjdQCLcBGAs/s640/foucaut-goode.png"></a><br />The Foucaut stereographic equivalent projection with Goode interruption pattern. Clearly, not even interruptions can help save this map from being really distorted.</center>
 
 ## Larrivee
 The Larrivee projection somewhat resembles Van der Grinten I in terms of maintaining distortions but has somewhat less distortion and no circular arcs. The poles are also of curved lines.
 
-<center><a href="https://2.bp.blogspot.com/-Hir9oexQ0cY/XNcWUP97-vI/AAAAAAAAAdg/aaDXnpNsjMkk2pg9FPEiIaLihh8a5ANTQCLcBGAs/s0/larrivee-mcbryde.png><img src="https://2.bp.blogspot.com/-Hir9oexQ0cY/XNcWUP97-vI/AAAAAAAAAdg/aaDXnpNsjMkk2pg9FPEiIaLihh8a5ANTQCLcBGAs/s640/larrivee-mcbryde.png"></a><br />The Larrivee stereographic equivalent projection with McBryde interruption pattern. Because the poles are curved inwards, each lobes have different pole sizes.</center>
+<center><a href="https://2.bp.blogspot.com/-Hir9oexQ0cY/XNcWUP97-vI/AAAAAAAAAdg/aaDXnpNsjMkk2pg9FPEiIaLihh8a5ANTQCLcBGAs/s0/larrivee-mcbryde.png"><img src="https://2.bp.blogspot.com/-Hir9oexQ0cY/XNcWUP97-vI/AAAAAAAAAdg/aaDXnpNsjMkk2pg9FPEiIaLihh8a5ANTQCLcBGAs/s640/larrivee-mcbryde.png"></a><br />The Larrivee stereographic equivalent projection with McBryde interruption pattern. Because the poles are curved inwards, each lobes have different pole sizes.</center>
 
 ## Loximuthal
 The loximuthal projection is a compromise projection that was designed so that straight lines from a chosen center are loxodromes or rhumb lines of true length, path, and direction from the center. Its reference (central) latitude is adjustable to the user's needs.
