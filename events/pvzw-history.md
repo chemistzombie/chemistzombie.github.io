@@ -7,18 +7,24 @@ This is a detailed breakdown of PvZW's history that I compiled for the 10th anni
 
 The timeline is sorted in chronological order, with subsequent events being merged into the same day as the first event.
 
+I'll add more once I could recollect those past events better.
+
 ## 2011
 ### May
 * 7 May
-I saved the Crazy Dave article from the wiki, and I still have it today. This was the only evidence that I knew about the wiki even a year before joining it, but I didn't realize the game's anniversary until 2013 (7 May was essentially 2 days after the game's 2nd anniversary).
+I [saved](https://plantsvszombies.fandom.com/wiki/User_blog:Drek%27TharSuperSword/I_found_this_saved_Crazy_Dave_wiki_page_from_2011) the Crazy Dave article from the wiki, and I still have it today. This was the only evidence that I knew about the wiki even a year before joining it, but I didn't realize the game's anniversary until 2013 (7 May was essentially 2 days after the game's 2nd anniversary).
+
+Some of the blog posts featured in it are: "[What's your plants and zombies idea?](http://plantsvszombies.wikia.com/wiki/User_blog:CattailsWelove/Whats_your_Idea_for_a_New_Plant_and_Zombie_in_Plants_Versus_Zombies%3F)", "[iPod achievements](http://plantsvszombies.wikia.com/wiki/User_blog:IPod_achievements/iPhone/iPod_Achievements)", "[Stupidest thing in PvZ](http://plantsvszombies.wikia.com/wiki/User_blog:Hypno_boy/Most_Stupid_Thing_in_PVZ)", "[Survival Endless setup](http://plantsvszombies.wikia.com/wiki/User_blog:PvZ/Survival_Endless_Setup)", "[I, Zombie Endless](http://plantsvszombies.wikia.com/wiki/User_blog:PvZ/I,_Zombie_Endless)", and "[Recent Vandalism](http://plantsvszombies.wikia.com/wiki/User_blog:HellPikachu/Recent_Vandalism)". Note that this was when the wiki was still in a low quality state, so it makes sense that some of the blogposts were a bit weird.
 
 ## 2012
 ### Early-mid 2012
-AJCatlove drama. I'm not sure about the details but he globally disabled his account after this.
+AJCatlove drama. I'm not sure about the details but he globally disabled his account after this. This was shortly after I joined.
 
 ### May
 * 5 May
 I joined the wiki. Coincidentally, I actually joined on PvZ's anniversary date but I wasn't aware of it back then.
+
+Snowttail was the first user to ever leave a message on my talk page.
 
 ### June
 * An infamous vandal known as Nazi Peashooter attacked the wiki several times. These series of attacks were done under five different accounts and lasted until February 2013.
@@ -32,6 +38,8 @@ I joined the wiki. Coincidentally, I actually joined on PvZ's anniversary date b
 * 28 July
 Promoted to chatmod, along with Jackass
 
+### Late 2012
+Rumors about PvZ2 being released in 2013 broke out, which was indeed true.
 ### September
 * 8 September
 Wordbubble was added. This template was used for talk page messages, intended to make them look nicer. It is also customizable, allowing for users to modify it to suit their needs. The template still exists today but is no longer used due to the switch to message walls.
@@ -40,6 +48,7 @@ Wordbubble was added. This template was used for talk page messages, intended to
 Forums were added. It initially only saw limited use, mainly for wiki discussions, but it quickly became popular (or abused) with the advent of the "Fun and Games" board.
 
 ## 2013
+This was essentially PvZW's golden era.
 ### Early 2013
 PvZ Adventures released as a closed beta. Everyone WANTED to join the beta testing program but it only had a limited amount of invite links that can only be used for up to 500 users for each link. Princess Kitty was the only more active person on the wiki to successfully join the beta program, and I, along with Jack, literally asked her to leak the contents of it (IIRC). This didn't go well though, as a PopCap employee by the name of PopCapDemian approached us immediately and [warned us](https://plantsvszombies.fandom.com/wiki/Thread:49038) to not leak the contents of the game until its release because they were bound to an NDA. All articles leaking the game's content were shortly removed thereafter. Quoting MignightHawk's post:
 
@@ -72,24 +81,43 @@ Initial release of PvZ2 on iOS. It was soft launched in Australia first before t
 ### August
 International releease of PvZ2 on iOS.
 
+### October
+I made what might be the cringiest blogpost I've ever made here, "[Bye all :(](https://plantsvszombies.fandom.com/wiki/User_blog:Drek%27TharSuperSword/Bye_all_:(?oldid=214884)". It's essentially my rant about how I couldn't manage to be an admin despite everyone else managed to be one with relative ease.
+
 ## 2014
 Unfortunately I don't remember much about 2014, since that was when I left the wiki for a few months and didn't make a return until the end of the year, but I do know there was a drama involving Napalm Rosalina. Nonetheless I still don't really get what happened. Some users have told me that they were blocked due to them having an alt account that was abused to get them promoted easily.
 
 Garden Warfare was released. ~~wonshu jokes incoming from this point on.~~
 
-PvZA was shut down possibly due to its lack of popularity
+PvZA was shut down possibly due to its lack of popularity. This was only a year after it was released.
+### November
+* 2 November
+Demoted to regular user after a few months of inactivity.
 
 ## 2015
 "AbramR" vandal attack. It was suspected ThePurplePi did this, but we decided to unblock him after certain discussions. This was a horrible idea: turns out it was him who did it all along, and he tried to make some excuses to avoid getting blocked. Of course, he also did some sketchy things like cheating edits with automated scripts (which counted as fluff editing, and you weren't allowed to use it in the first place without using bots) and removing warnings and block messages, not to mention he used profanity when removing a message on the forum (this was before swearing was allowed in limited cases), saying ["disqualified vote bitch"](https://plantsvszombies.fandom.com/wiki/Thread:424968?action=history&sort=of&page=3).
 
+### March
+* 27 March
+Promoted to forum (discussion) moderator.
+
 ## 2016
 * Garden Warfare 2 released. ~~I was mostly only hyped for MOAR TWO SHOED ZOMBIES.~~
 * PvZH released. This was when the PvZH fad began.
+
+### March
+* 8 March
+Promoted to admin, finally ending that cringe blogpost after 4 years, although I was a bit disappointed about how everyone have gotten it way earlier than me (e.g. Jack, SO456, etc).
 ## 2017
 * The PvZH fad ended abruptly in mid-2017 due to PopCap mostly abandoning the game at this point.
 
+### March
+* 13 March
+"Demoted" for inactivity, only to finally it admin shortly after. Apparently it was due to some people forcing to demote me after the Mee6 leaderboard reset controversy.
+
 ## 2018
-* Not much interesting things happened, aside from me being promoted to 'crat, which finally ended my quest to become one, and major wiki policy changes.
+* Major meta changes to the wiki: Policy, manual of style, and promotion guidelines were updated.
+* Promoted to bureaucrat, which finally ended my quest to be one.
 
 ## 2019
 ### May

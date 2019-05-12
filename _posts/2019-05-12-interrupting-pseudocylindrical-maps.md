@@ -16,7 +16,7 @@ The rule of thumb is, if both the central parallel and meridian are straight, an
 Here are some examples.
 
 ## Equal Earth
-The Equal Earth projection is a new pseudocylindrical equal-area projection designed by Tom Patterson in 2018, and was inspired by the Eckert IV and Robinson projections. It was made in response to the adoption of the Gall-Peters map by Boston public schools.	
+The Equal Earth projection is a new pseudocylindrical equal-area projection designed by Bojan Savric, Tom Patterson and Bernhard Jenny in 2018, and was inspired by the Eckert IV and Robinson projection. It was made in response to the adoption of the Gall-Peters map by Boston public schools and serves as a visually appealing alternative to it.
 
 This example uses the Goode interruption pattern (displayed as "Interrupted: Continents" in G.Projector), but any interruptions can be used.
 
