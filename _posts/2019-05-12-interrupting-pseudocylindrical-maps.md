@@ -38,7 +38,7 @@ is the same as that of the equatorial stereographic azimuthal projection (or of 
 ## Larrivee
 The Larrivee projection somewhat resembles Van der Grinten I in terms of maintaining distortions but has somewhat less distortion and no circular arcs. The poles are also of curved lines.
 
-<center><a href="https://2.bp.blogspot.com/-Hir9oexQ0cY/XNcWUP97-vI/AAAAAAAAAdg/aaDXnpNsjMkk2pg9FPEiIaLihh8a5ANTQCLcBGAs/s0/larrivee-mcbryde.png"><img src="https://2.bp.blogspot.com/-Hir9oexQ0cY/XNcWUP97-vI/AAAAAAAAAdg/aaDXnpNsjMkk2pg9FPEiIaLihh8a5ANTQCLcBGAs/s640/larrivee-mcbryde.png"></a><br />The Larrivee stereographic equivalent projection with McBryde interruption pattern. Because the poles are curved inwards, each lobes have different pole sizes.</center>
+<center><a href="https://2.bp.blogspot.com/-Hir9oexQ0cY/XNcWUP97-vI/AAAAAAAAAdg/aaDXnpNsjMkk2pg9FPEiIaLihh8a5ANTQCLcBGAs/s0/larrivee-mcbryde.png"><img src="https://2.bp.blogspot.com/-Hir9oexQ0cY/XNcWUP97-vI/AAAAAAAAAdg/aaDXnpNsjMkk2pg9FPEiIaLihh8a5ANTQCLcBGAs/s640/larrivee-mcbryde.png"></a><br />The Larrivee projection with McBryde interruption pattern. Because the poles are curved inwards, each lobes have different pole sizes.</center>
 
 ## Loximuthal
 The loximuthal projection is a compromise projection that was designed so that straight lines from a chosen center are loxodromes or rhumb lines of true length, path, and direction from the center. Its reference (central) latitude is adjustable to the user's needs.
@@ -71,11 +71,13 @@ Another excellent minimum-error projection in interrupted form. To be honest it 
 
 <center><a href="https://1.bp.blogspot.com/-FKZRUBQhSGQ/XMnqkI_MB_I/AAAAAAAAAYk/9Cg2Vha2U2cHRLsSC5iZPpRZtE4AFiR0ACLcBGAs/s0/robinson-goode.png"><img src="https://1.bp.blogspot.com/-FKZRUBQhSGQ/XMnqkI_MB_I/AAAAAAAAAYk/9Cg2Vha2U2cHRLsSC5iZPpRZtE4AFiR0ACLcBGAs/s640/robinson-goode.png"></a><br />I prefer Robinson because it's got less vertical stretching on the low- and mid-latitude regions</center>
 
-# Other projection categories that are interruptible
-## Azimuthal projections
-Azimuthal projections can be interrupted too, at the cost of having more severe stretching on regions farther from the center. The example shown below is an interrupted azimuthal equidistant with Goode interruption patterns.
+# Other projections that are interruptible
+## Azimuthal equidistant projection
+Azimuthal equidistant is the only azimuthal projection that can be interrupted. This comes at the cost of having more severe stretching on regions farther from the center.
 
-<center><a href="https://3.bp.blogspot.com/-BEVrKvwN4Ic/XNcK3vkyNGI/AAAAAAAAAcM/00Lw6Jtm8bUupN0ioY66Rig7tLVaV1nTgCLcBGAs/s0/azimeqdgoode.png"><img src="https://3.bp.blogspot.com/-BEVrKvwN4Ic/XNcK3vkyNGI/AAAAAAAAAcM/00Lw6Jtm8bUupN0ioY66Rig7tLVaV1nTgCLcBGAs/s640/azimeqdgoode.png"></a><br />An interrupted azimuthal equal-area projection.</center>
+Other azimuthal projections can't be interrupted because the spacing between each meridians aren't equal.
+
+<center><a href="https://3.bp.blogspot.com/-BEVrKvwN4Ic/XNcK3vkyNGI/AAAAAAAAAcM/00Lw6Jtm8bUupN0ioY66Rig7tLVaV1nTgCLcBGAs/s0/azimeqdgoode.png"><img src="https://3.bp.blogspot.com/-BEVrKvwN4Ic/XNcK3vkyNGI/AAAAAAAAAcM/00Lw6Jtm8bUupN0ioY66Rig7tLVaV1nTgCLcBGAs/s640/azimeqdgoode.png"></a><br />An interrupted azimuthal equidistant projection with Goode interruption pattern.</center>
 
 ## Polyconic projections
 Polyconic projections can be interrupted and might look somewhat similar to azimuthal projections in certain cases. It also suffers from extreme stretching on regions farther from the center. An advantage of interrupted polyconic projections over the azimuthal projections is that the regions near the central meridian of such projections usually have little to no distortions—a trait found on the sinusoidal projection—which allow for creation of minimum error gore maps suitable for making globes. The American polyconic is an example of a projection having such traits.

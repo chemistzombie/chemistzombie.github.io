@@ -21,7 +21,7 @@ AJCatlove drama. I'm not sure about the details but he globally disabled his acc
 I joined the wiki. Coincidentally, I actually joined on PvZ's anniversary date but I wasn't aware of it back then.
 
 ### June
-An infamous vandal known as Nazi Peashooter attacked the wiki several times. These series of attacks were done under five different accounts and lasted until February 2013.
+* An infamous vandal known as Nazi Peashooter attacked the wiki several times. These series of attacks were done under five different accounts and lasted until February 2013.
 	* The first attack occurred on 2 June 2012, under the name of Nazi Peashooter681, which managed to vandalize 22 pages before being blocked.
 	* The second attack occurred on 12 June 2012, ten days after the first one, under the name of Nazi Peashooter Is Back. Only 6 pages were vandalized before the account was blocked.
 	* The third and most severe attack occurred on 22 June 2012, under the name of Hail Nazi Peashooter, in which 158 pages were vandalized before it was eventually blocked. This happened due to the fact that there were very few active admins at that time, which allowed them to perform attacks that lasted for 15 hours, with a 10 hour break from 1:02 PM to 11:56 PM. It is unknown why they did this, but it might be possible that it was done to avoid detection.
@@ -70,16 +70,17 @@ Despite rumors of it coming out to PC, it never did (Android emulators don't cou
 Initial release of PvZ2 on iOS. It was soft launched in Australia first before the international release. I remember some people asking on how to download it when they're not in Australia.
 
 ### August
+International releease of PvZ2 on iOS.
 
 ## 2014
 Unfortunately I don't remember much about 2014, since that was when I left the wiki for a few months and didn't make a return until the end of the year, but I do know there was a drama involving Napalm Rosalina. Nonetheless I still don't really get what happened. Some users have told me that they were blocked due to them having an alt account that was abused to get them promoted easily.
 
 Garden Warfare was released. ~~wonshu jokes incoming from this point on.~~
 
+PvZA was shut down possibly due to its lack of popularity
+
 ## 2015
 "AbramR" vandal attack. It was suspected ThePurplePi did this, but we decided to unblock him after certain discussions. This was a horrible idea: turns out it was him who did it all along, and he tried to make some excuses to avoid getting blocked. Of course, he also did some sketchy things like cheating edits with automated scripts (which counted as fluff editing, and you weren't allowed to use it in the first place without using bots) and removing warnings and block messages, not to mention he used profanity when removing a message on the forum (this was before swearing was allowed in limited cases), saying ["disqualified vote bitch"](https://plantsvszombies.fandom.com/wiki/Thread:424968?action=history&sort=of&page=3).
-
-
 
 ## 2016
 * Garden Warfare 2 released. ~~I was mostly only hyped for MOAR TWO SHOED ZOMBIES.~~
@@ -88,6 +89,7 @@ Garden Warfare was released. ~~wonshu jokes incoming from this point on.~~
 * The PvZH fad ended abruptly in mid-2017 due to PopCap mostly abandoning the game at this point.
 
 ## 2018
+* Not much interesting things happened, aside from me being promoted to 'crat, which finally ended my quest to become one, and major wiki policy changes.
 
 ## 2019
 ### May
@@ -95,4 +97,4 @@ Well here we are. PvZ's 10th anniversary, the upcoming 10th anniversary of the w
 
 * ZackScott published an interview with George Fan and mentioned the wiki.
 * Laura streamed PvZ's 10th anniversary Q&A and music requests on Twitch and also mentioned the wiki, saying that she uses the wiki and she likes it for being such an awesome community.
-* Upcoming wiki 10th anniversary on 12 May.
+* Wiki 10th anniversary on 12 May.
