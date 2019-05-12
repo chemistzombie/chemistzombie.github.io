@@ -12,6 +12,7 @@ I'll add more once I could recollect those past events better.
 ## 2011
 ### May
 * 7 May
+
 I [saved](https://plantsvszombies.fandom.com/wiki/User_blog:Drek%27TharSuperSword/I_found_this_saved_Crazy_Dave_wiki_page_from_2011) the Crazy Dave article from the wiki, and I still have it today. This was the only evidence that I knew about the wiki even a year before joining it, but I didn't realize the game's anniversary until 2013 (7 May was essentially 2 days after the game's 2nd anniversary).
 
 Some of the blog posts featured in it are: "[What's your plants and zombies idea?](http://plantsvszombies.wikia.com/wiki/User_blog:CattailsWelove/Whats_your_Idea_for_a_New_Plant_and_Zombie_in_Plants_Versus_Zombies%3F)", "[iPod achievements](http://plantsvszombies.wikia.com/wiki/User_blog:IPod_achievements/iPhone/iPod_Achievements)", "[Stupidest thing in PvZ](http://plantsvszombies.wikia.com/wiki/User_blog:Hypno_boy/Most_Stupid_Thing_in_PVZ)", "[Survival Endless setup](http://plantsvszombies.wikia.com/wiki/User_blog:PvZ/Survival_Endless_Setup)", "[I, Zombie Endless](http://plantsvszombies.wikia.com/wiki/User_blog:PvZ/I,_Zombie_Endless)", and "[Recent Vandalism](http://plantsvszombies.wikia.com/wiki/User_blog:HellPikachu/Recent_Vandalism)". Note that this was when the wiki was still in a low quality state, so it makes sense that some of the blogposts were a bit weird.
@@ -22,6 +23,7 @@ AJCatlove drama. I'm not sure about the details but he globally disabled his acc
 
 ### May
 * 5 May
+
 I joined the wiki. Coincidentally, I actually joined on PvZ's anniversary date but I wasn't aware of it back then.
 
 Snowttail was the first user to ever leave a message on my talk page.
