@@ -36,12 +36,14 @@ Snowttail was the first user to ever leave a message on my talk page.
 
 ### July
 * 28 July
+
 Promoted to chatmod, along with Jackass
 
 ### Late 2012
 Rumors about PvZ2 being released in 2013 broke out, which was indeed true.
 ### September
 * 8 September
+
 Wordbubble was added. This template was used for talk page messages, intended to make them look nicer. It is also customizable, allowing for users to modify it to suit their needs. The template still exists today but is no longer used due to the switch to message walls.
 
 ### Late 2012
@@ -56,26 +58,31 @@ PvZ Adventures released as a closed beta. Everyone WANTED to join the beta testi
 
 ### February
 * 26 February
+
 [Wiki revamp](https://plantsvszombies.fandom.com/wiki/Thread:42567) made by Gwaine. He didn't really contribute to the mainspace and wanted to be an admin dealing with wiki styles but we accepted it anyway back then because why not. Some of the changes he made include adding the lawn background to elements such as buttons and wiki navigation.
 
 This was one of the most major changes on the history of the wiki.
 
 ### April
 * 26 April
+
 Staff members [decided](https://plantsvszombies.fandom.com/wiki/Thread:50835) to create articles that were sourced from publicly available contents.
 
 ### May
 * 20 May
+
 PvZA was fully released for public as an open beta. and articles about the game were restored or re-created due to the NDA being lifted.
 
 ### June
 * 3 June
+
 [First excited, then disappointed](https://plantsvszombies.fandom.com/wiki/Thread:54280): Rant over PvZ2 coming to iOS first before Android, just like what many app devs do. If I have to guess it's because iOS has much less device segmentation, which makes it it easier to perform things like bugfixes there.
 
 Despite rumors of it coming out to PC, it never did (Android emulators don't count).
 
 ### July
 * 9 July
+
 Initial release of PvZ2 on iOS. It was soft launched in Australia first before the international release. I remember some people asking on how to download it when they're not in Australia.
 
 ### August
@@ -92,6 +99,7 @@ Garden Warfare was released. ~~wonshu jokes incoming from this point on.~~
 PvZA was shut down possibly due to its lack of popularity. This was only a year after it was released.
 ### November
 * 2 November
+
 Demoted to regular user after a few months of inactivity.
 
 ## 2015
@@ -99,6 +107,7 @@ Demoted to regular user after a few months of inactivity.
 
 ### March
 * 27 March
+
 Promoted to forum (discussion) moderator.
 
 ## 2016
@@ -107,12 +116,15 @@ Promoted to forum (discussion) moderator.
 
 ### March
 * 8 March
+
 Promoted to admin, finally ending that cringe blogpost after 4 years, although I was a bit disappointed about how everyone have gotten it way earlier than me (e.g. Jack, SO456, etc).
+
 ## 2017
 * The PvZH fad ended abruptly in mid-2017 due to PopCap mostly abandoning the game at this point.
 
 ### March
 * 13 March
+
 "Demoted" for inactivity, only to finally it admin shortly after. Apparently it was due to some people forcing to demote me after the Mee6 leaderboard reset controversy.
 
 ## 2018
