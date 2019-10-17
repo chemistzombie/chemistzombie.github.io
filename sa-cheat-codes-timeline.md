@@ -112,7 +112,7 @@ It also contained an interview with Craig Filshie, the game's lead level designe
 >
 >CF: One enterprising player [edisoncarter] hooked a third-party PlayStation 2 controller to his computer and programmed it to input random button combinations. Ingenious... and with that method he discovered a number of cheats. There are still some to unearth, however, so keep looking!
 
-This is most likely from Tips & Tricks issue 121 (March 2005) as issue 122 from April 2005 doesn't have this.
+<s>This is most likely from Tips & Tricks issue 121 (March 2005) as issue 122 from April 2005 doesn't have this.</s> Nope, I've checked out issue 121 on Retromags, which was uploaded only recently, and there's no mentions of interviews or mystery SA cheat codes. Must be from issue 120 (February 2005), which hasn't been uploaded yet, sadly.
 ## 2005-05-03
 Skiller and CMX found the 12 last unknown cheat codes. We dubbed this the "L1 cheat codes" since every single one of them ends with L1 due to the brute-force method they used.
 
@@ -132,7 +132,7 @@ Just two days after the game's release on PC and Xbox, edisoncarter managed to f
 ## 2005-06-23
 Last edited date of edisoncarter's PC cheats thread. Some of the intended cheat codes have been found but many were still missing.
 ## 2015-03-13
-Fast forward to 2015, nick7, a user on GTAForums posted a pair of intended cheats they found for PC: ThugsArmoury and NuttersToys. They noted these codes have a similarity to the ProfessionalsKit cheat code and GTA VC's ThugsTools and NuttersTools cheat codes.
+Fast forward to 2015, nick7, a user on GTAForums posted a pair of intended cheats they found for PC: ThugsArmoury and NuttersToys. They noted these codes have a similarity to the ProfessionalsKit cheat code and GTA VC's ThugsTools, ProfessionalsTools and NuttersTools cheat codes.
 ## 2015-03-31
 Alexander Blade, another GTAForums user, hinted the presence of all the intended PC cheat codes in the Android version.
 ## 2015-04-01
@@ -140,8 +140,8 @@ Alexander Blade hinted the location of the intended cheat codes in the Android v
 ## 2015-04-06
 Deji found the intended Spawn Rhino cheat code (TimeToKickAss)
 
-Alexander Blade published all the intended PC cheat codes hidden in the Android version of the game. By the time he published this, it's been almost 10 years after edisoncarter's last edit to the PC cheats thread.
-## Sometime in 2015
+Alexander Blade published all the intended PC cheat codes hidden in the Android version of the game. By the time he published this, it's been almost 10 years since edisoncarter's last edit to the PC cheats thread.
+## 2015
 tuxxor/rot13's cheat code finder was released. So far this is the only SA cheat code finder that's available on the internet.
 
 <script type="text/javascript">

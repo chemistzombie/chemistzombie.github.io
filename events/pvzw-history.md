@@ -134,6 +134,10 @@ Promoted to admin, finally ending that cringe blogpost after 4 years, although I
 * Promoted to bureaucrat, which finally ended my quest to be one.
 
 ## 2019
+### April
+*30 April
+
+Probably one of the more controversial changes to the server, in which MS was demoted. The community was enraged by this change but it soon died down.
 ### May
 Well here we are. PvZ's 10th anniversary, the upcoming 10th anniversary of the wiki, my 7th year on the wiki. Highlights of this month include:
 

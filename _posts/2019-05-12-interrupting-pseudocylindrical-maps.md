@@ -13,7 +13,64 @@ It doesn't have to be sinusoidal; any pseudocylindrical, lenticular and other si
 
 The rule of thumb is, if both the central parallel and meridian are straight, and the widest part of the projection is on the center, then it's most likely interruptible.
 
-Here are some examples.
+Before proceeding to the manually created examples, let's see all the projections that can be interrupted by G.Projector.
+
+# G.Projector interrupted maps
+## Boggs eumorphic
+The Boggs eumorphic projection is an arithmetic mean of the sinusoidal and Mollweide projections. The difference between this projection and the Goode homolosine is that this one is an average of the two projections, while the latter is simply a fusion of them.
+
+The name "eumorphic" means "good shape"
+## Baker dinomic
+The Baker dinomic projection is a fusion of the Mercator and sinusoidal projections at 45°, with interruptions only on the sinusoidal projection.
+
+## Goode homolosine
+The Goode homolosine is a fusion of the sinusoidal and Mollweide projections at 40°44'11.98'' (approx. 40.737°). The projection was originally copyrighted but then expired, because it's not possible to copyright mathematical designs in the US, map projections included.
+
+The name itself is a portmanteau of "homolographic" (Mollweide's alternative name) and "sine".
+
+Oddly enough, the Goode homolosine uses the uninterrupted format by default despite it being rarely shown that way.
+
+## McBryde projections
+F. Webster McBryde developed a series of equal-area projections for use in interrupted maps. These projections are patented, but the equations are publicly available, owing to the inability of copyrighting mathematical designs in the US. G.Projector offers all of them in the software, and they use McBryde's landmasses interruption patterns by default, although other interruption methods (including the McBryde oceans interruptions) and uninterrupted maps are available.
+
+An older projection series also exists under the name of McBryde-Thomas flat polar projections.
+
+The following maps use Goode's interruption patterns for consistency.
+
+## McBryde P3
+The McBryde P3 is a fusion of the Craster parabolic (hence the P designation) and McBryde-Thomas flat polar parabolic projections at 49°20' (approx. 49.333°)
+
+While this projection contains portions of the Craster parabolic projection and can be interrupted in G.Projector, the original Craster parabolic itself can't, for some reason.
+## McBryde Q3
+The McBryde Q3 is a fusion of the quartic authalic (Q designation) and McBryde-Thomas flat polar quartic projections at 52°09' (52.15°).
+
+## McBryde S2
+The McBryde S2 is a fusion of the sinusoidal (S designation) and Eckert VI at 49°16' (approx. 49.267°).
+
+## McBryde S3
+The McBryde S3 is a fusion of the sinusoidal and McBryde-Thomas flat-polar sinusoidal at 55°51' (55.85°). Interestingly, whoever wrote the G.Projector user's manual doesn't seem to know the second projection of this, replacing it with "???" instead.
+
+## McBryde-Thomas flat polar parabolic
+
+## McBryde-Thomas flat polar quartic
+
+## McBryde-Thomas flat polar sinusoidal
+
+## Mollweide
+The Mollweide
+
+For some reason, this projection is interrupted by default, using Goode's interruption patterns (i.e. the Goode interrupted Mollweide). This projection is normally presented in an uninterrupted format, and it's rather weird that the developers of the software chose the interrupted one as the default.
+
+## Quartic authalic
+The quartic authalic projection is an equal area projection first invented by Karl Siemon in 1937 under the name of Siemon III, but was reintroduced by Oscar S. Adams in 1944, commenting that "as far as we know, no such projection has been heretofore proposed." It was named so due to its fourth-order curves.
+
+## Siemon IV
+The Siemon IV projection is a modification of the quartic authalic with axes adjusted to a 2:1 ratio by dividing x-values and multiplying y-values by 1.05391. 
+
+## Sinusoidal
+
+# Examples of manually interrupted maps
+## Craster parabolic
 
 ## Equal Earth
 The Equal Earth projection is a new pseudocylindrical equal-area projection designed by Bojan Savric, Tom Patterson and Bernhard Jenny in 2018, and was inspired by the Eckert IV and Robinson projection. It was made in response to the adoption of the Gall-Peters map by Boston public schools and serves as a visually appealing alternative to it.
@@ -49,6 +106,16 @@ The easiest method of interrupting a loximuthal projection is to set the referen
 
 <center><a href="https://2.bp.blogspot.com/-fVuDw9rAxm8/XNcUPaj2iNI/AAAAAAAAAdM/zGwFroOlfeMBK4Tvvxg5vA2H8iOk1esKQCEwYBhgL/s1600/45nloximuthal-baker.png"><img src="https://2.bp.blogspot.com/-fVuDw9rAxm8/XNcUPaj2iNI/AAAAAAAAAdM/zGwFroOlfeMBK4Tvvxg5vA2H8iOk1esKQCEwYBhgL/s640/45nloximuthal-baker.png"></a><br />This is what happens if you try to interrupt a loximuthal projection that isn't centered on the equator. Notice the odd curves at the lower portions of the map. Fixing this requires readjusting the interruption center, which should be at 45 degrees south in this case.</center>
 
+## Kavrayskiy VII
+The Kavrayskiy VII projection is a minimum-error compromise pseudocylindrical projection. It balances areal and angular distortions to an acceptable level, just like Robinson and Winkel tripel. However, it's very rarely used outside of Russia and former Soviet Union countries.
+
+Compared to Robinson and Winkel tripel, Kavrayskiy VII has very simple equations, which is amazing considering how it's on par with those two projection in reducing distortions.
+
+## Mayr
+The Mayr projection is a pseudocylindrical equal-area projection. The computation of one of Mayr’s projection equations depends on the solution of an elliptical integral, which likely contributes to its minimal use today (such things are supposedly slow to calculate on computers). In 2008, Ipbuker has proposed [alternative solutions](https://www.tandfonline.com/doi/abs/10.1559/152304008784864659) to generate it, utilizing analytical expressions.
+
+
+
 ## Ortelius oval
 I know that literally no one uses this very old projection, but this one is interesting because although it appears to be a pseudocylindrical projection, it doesn't qualify as one because the meridians are not equally spaced along the parallels, so it doesn't belong to any common types of projection. If I had to name what kind of projection this is, I'd say it's a "pseudopseudocylindrical projection".	
 
@@ -80,6 +147,15 @@ Other azimuthal projections can't be interrupted because the spacing between eac
 <center><a href="https://3.bp.blogspot.com/-BEVrKvwN4Ic/XNcK3vkyNGI/AAAAAAAAAcM/00Lw6Jtm8bUupN0ioY66Rig7tLVaV1nTgCLcBGAs/s0/azimeqdgoode.png"><img src="https://3.bp.blogspot.com/-BEVrKvwN4Ic/XNcK3vkyNGI/AAAAAAAAAcM/00Lw6Jtm8bUupN0ioY66Rig7tLVaV1nTgCLcBGAs/s640/azimeqdgoode.png"></a><br />An interrupted azimuthal equidistant projection with Goode interruption pattern.</center>
 
 ## Polyconic projections
-Polyconic projections can be interrupted and might look somewhat similar to azimuthal projections in certain cases. It also suffers from extreme stretching on regions farther from the center. An advantage of interrupted polyconic projections over the azimuthal projections is that the regions near the central meridian of such projections usually have little to no distortions—a trait found on the sinusoidal projection—which allow for creation of minimum error gore maps suitable for making globes. The American polyconic is an example of a projection having such traits.
+Polyconic projections can be interrupted and might slightly resemble the interrupted azimuthal equidistant projection in certain cases. It also suffers from extreme stretching on regions farther from the center. An advantage of interrupted polyconic projections over the azimuthal projections is that the regions near the central meridian of such projections usually have little to no distortions—a trait found on the sinusoidal projection—which allow for creation of minimum error gore maps suitable for making globes. The American polyconic is an example of a projection having such traits.
 
 <center><a href="https://3.bp.blogspot.com/-t2ZzActvobY/XNcJkBHWwVI/AAAAAAAAAcA/0mxhIH36F3sSEY-0L7BS_cKkBqLt8nMpQCLcBGAs/s0/polyconic-goode.png"><img src="https://3.bp.blogspot.com/-t2ZzActvobY/XNcJkBHWwVI/AAAAAAAAAcA/0mxhIH36F3sSEY-0L7BS_cKkBqLt8nMpQCLcBGAs/s640/polyconic-goode.png"></a><br />An interrupted American Polyconic projection, with Goode interruption pattern. Notice the severe distortions along the eastern hemisphere and the extreme stretching of the northern portions of Borneo, Sumatra and Celebes.</center>
+
+Other examples of interrupted polyconic projections are presented below.
+
+### Maurer SNo. 160 "Apparent Globular"
+The Maurer Apparent Globular projection is one of the three polyconic projections presented by Hans Maurer. Unlike the American Polyconic projection, the Apparent Globular projection can be used to map the entire world without introducing severe distortions.
+
+### Canters W20
+The Canters W20 projection is a polyconic projection introduced by Frank Canters in 2002.
+
