@@ -1,0 +1,2 @@
+---
+BUNDLE_BUILD__UNICODE: "--with-cflags=-Wno-incompatible-function-pointer-types"
