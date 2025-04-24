@@ -2,23 +2,7 @@
 layout: archive
 ---
 
-<h1>Hello</h1>
+# Hello
+This is a place to showcase the stuff I've worked with. Had to update some things which broke the site layout so here's a placeholder.
 
-<p>I use this as a test site as I mainly use Wordpress to post stuff instead, not to mention the fact that I literally can't design a webpage (LOL). You can find my blog <a href="http://chemistzombie.wordpress.com">here</a>.</p>
-<h2>Explore</h2>
-<p><a href="sanandreasaltcheats.html">Alternative cheats for GTA SA</a> - Includes many newly-discovered shortest key combos to activate the in-game cheats, as well as cheat code key combos intended by the developers.</p>
-<p><a href="hl2ep2timeline.html">Half-Life 2 Episode 2 development timeline</a> - A TimelineJS test page</p>
-<h2>Other links</h2>
-<p><a href="https://youtube.com/user/TheYetiProjectDTSS">YouTube</a></p>
-<p><a href="https://www.twitch.tv/chemistzombie">Twitch</a></p>
-<p><a href="https://steamcommunity.com/profiles/76561194001942516">Steam profile</a></p>
-<p><a href="https://discord.gg/jeg5fSP">My free games notifier Discord server</a></p>
-<p><a href="https://twitter.com/ChemistZombie">Twitter</a></p>
-
-<iframe src="https://discordapp.com/widget?id=246209752332238850&theme=dark" width="300" height="360" allowtransparency="true" frameborder="0"></iframe>
-
-# Other pages
-## [AuthaGraph recreated (with images)](authagraph-recreated)
-AuthaGraph, an award-winning compromise projection, has been reverse-engineered thanks to some ingenious people.
-
-# Blog post archives
+# Posts

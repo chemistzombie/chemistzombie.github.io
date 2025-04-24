@@ -21,7 +21,7 @@
 title: The Chemist Zombie
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Commentaries and thoughts no one cares about
+  Commentaries about things I find interesting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chemistzombie.github.io"
 twitter_username: jekyllrb

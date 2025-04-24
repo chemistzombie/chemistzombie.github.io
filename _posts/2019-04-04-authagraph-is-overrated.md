@@ -9,7 +9,7 @@ Mr. Narukawa keeps the equations to make the AuthaGraph projection a trade secre
 
 I don't get why anyone would do this, considering that not even something like the authors of Van der Grinten (in which it used to be patented) or Dymaxion projection (in which the name was trademarked) hide their methods of projection. They all either publish their equations somewhere or show in full detail how to make one. Meanwhile, AuthaGraph only has a really vague explanation on their webpage, which isn't very useful, so people can't really try to make one properly.
 ## It's not even a new projection
-The AuthaGraph projection has been around since 1999, but only managed to gain some attention in 2016, when it was awarded the Japan Good Design Grand Award. This means that even after 20 years of this projection's existence, Mr. Narukawa doesn't want to reveal the equations to create it just yet. Perhaps either when he dies, his company goes bankrupt or someone leaks the equations then we might be able to get it.
+The AuthaGraph projection has been around since 1999, but only managed to gain some attention in 2016, when it was awarded the Japan Good Design Grand Award. This means that even after 20 years of this projection's existence, Mr. Narukawa doesn't want to reveal the equations to create it just yet.
 ## There's a better tetrahedral projection that is conformal and visually more appealing
 AuthaGraph isn't the only tetrahedral projection out there, of course. In my opinion, the Lee tetrahedral projection is way better than it. Because it's a conformal projection, the shapes of the continents don't look weird unlike it does in AuthaGraph, since it preserves angles locally.
 

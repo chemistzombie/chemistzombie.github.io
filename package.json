@@ -1,0 +1,15 @@
+{
+  "name": "chemistzombie.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "annotate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simplycountdown.js": "^3.0.1"
+  }
+}
