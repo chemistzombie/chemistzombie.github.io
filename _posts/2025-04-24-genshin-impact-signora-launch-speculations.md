@@ -536,7 +536,7 @@ Just for fun, let's delve into the numerology conspiracy theory, because people 
 * Childe was released in **1.1**, on **11/11**/2020.
 * Wanderer was released in **3.3**.
   * 3 + 3 = **6**.
-* Arlecchino was released in **4**.6.
+* Arlecchino was released in **4**.6 on 2**4**/**4**/202**4**.
 * Signora may be resurrected in 5.**8**, and that version will be released on 30 July, two days before August, **the 8th month**.
 * This year's Lantern Rite involves something known as the Seven-and-**Eight** Gate Array.
 * The **Eight** Adepts include the Lone Butterfly, which was the only one to sacrifice herself.
