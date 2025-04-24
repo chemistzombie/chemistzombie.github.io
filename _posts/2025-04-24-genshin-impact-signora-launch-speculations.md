@@ -6,6 +6,8 @@ title: "An analysis of Signora's resurrection and playability in Genshin Impact"
 
 After over 3 months in the making, I finally decided to post this article. I originally wanted to post this back in 5.3, but work has taken most of my time, so this was eventually postponed all the way to 5.5, and just a day before the 5.6 livestream arrives. I will update this once we get further information, be it from the stream, the preload, or the upcoming 5.7 leaks.
 
+<div style="text-align: center"><img src="/images/signora/cover.jpg" width="720"/></div>
+
 Genshin is a game I've been playing for over a year now, not because I fell for the marketing and paid promotion by content creators, but because this is the type of game you can play when you have a lot going on IRL. Ever since I have a job, I just barely have time to play anything that either requires extensive playthroughs or lengthy multiplayer sessions, so the games I used to play like Overwatch or Apex simply don't cut it anymore.
 
 One of the things that *really* bug me with this game however is the fact that they killed one of the more prominent characters in the game without making them playable. I'm talking about Signora, the 8th of the Harbingers and the first one you meet in the game.
