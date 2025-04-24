@@ -1,9 +1,0 @@
----
-layout: default
-title: GTA SA cheat codes - odds and ends
----
-
-# Odds and ends
-These include all the references I used while making these posts as well as some others stuff that are too minor to be worthy of another page.
-
-## References and other linkshttps://gtaforums.com/topic/172825-newly-discovered-button-cheats/?do=findComment&comment=2496482
