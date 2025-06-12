@@ -4,6 +4,8 @@ title: "An analysis of Signora's resurrection and playability in Genshin Impact"
 ---
 <link rel="stylesheet" href="/assets/css/simplyCountdown/default.css">
 
+***Updated on 2025-06-13 to include new information from 5.6, the Nod-Krai stream, and 5.7 livestream.***
+
 After over 3 months in the making, I finally decided to post this article. I originally wanted to post this back in January during version 5.3, but work has taken most of my time, so this was eventually postponed all the way to 5.5, and just a day before the 5.6 livestream arrives. I will update this once we get further information, be it from the stream, the preload, or the upcoming 5.7 leaks.
 
 <div style="text-align: center"><img src="/images/signora/cover.jpg" width="720"/></div>
@@ -60,6 +62,11 @@ I decided to write this entire article on why Signora is very likely to be resur
   * [Bonus: Numerology](#bonus-numerology)
   * [Conclusion: Signora may become playable in 5.8](#conclusion-signora-may-become-playable-in-58)
 <!-- TOC -->
+
+## Changelog
+2025-05-xx: Updated to include new information from official media and 5.7 leaks. Corrected some information.
+
+You can view the changes in the commit history of this Github Pages.
 
 ## A little background on why I want Signora to be playable
 When I first played the game, My first impression of Signora was that she's just your average villainy-type character, and she was simply meant to introduce you to one of the game's antagonistic factions. I didn't think about her much back then. When she reappeared in Liyue, this thought still didn't change. I'd expect to meet her again considering how it seemed that they're in pursuit of the gnoses, but we were also introduced to Childe, another member of the Harbingers.
@@ -158,6 +165,20 @@ Because of this, the Harbingers tend to be an outlier in terms of pull count and
 <br />
 <div style="text-align: center;font-size:small"><img width="640" src="/images/signora/1xrevenue.png"/><br/>Overall banner revenue in versions 1.0 - 1.6 (CN iOS). Note that this uses data from genshinlab instead of paimon.moe as the latter is unable to track pull data earlier than Hu Tao's initial run in 1.3, and even then, the pull count is unusually low</div>
 
+**Update:** I've done some more data analysis regarding this, and the results are promising.
+
+Here's a graph showing the global pull count vs. CN iOS banner revenue. You can tell that they closely follow each other, indicating that both CN and global communities seem to agree on which character they deem worthy of pulling.
+
+<img width="640" src="/images/signora/pullsvsrevenue.png"/>
+
+Applying the Pearson correlation to this data shows a correlation coefficient of 0.561 (p < 0.001), which means that this is a fairly strong correlation that is statistically significant. In other words, an increase of decrease in values of global pull count is followed by a similar pattern in CN banner revenue, and vice versa.
+
+Extrapolating these data to estimate the revenue for each individual character, and we find out that Wanderer sits in the 5th place, trailing behind the archons, and for some reason, Yelan rerun.
+
+<img width="640" src="/images/signora/estimatedrevenue.png"/>
+
+This is important because many people have claimed that Hoyo only cares about the CN playerbase, and it turns out, even with these results, it's evident that even they prefer Archons and Harbingers more than any other groups of character, save from some outliers like Yelan.
+
 While Hoyo has never publicly disclosed the game's banner revenue or number of pulls, third party data from sites like paimon.moe or genshinlab.com mostly backs this up, with Wanderer and Arlecchino being some of the most pulled characters at launch. There is a discrepancy with Tartaglia in that he's the only Harbinger that didn't outperform most other characters at launch, but this is likely caused by the fact that the meta was still not very well-established in 1.x, which led to people pulling on characters that wouldn't be as meta today, such as Klee or Venti. In addition, the banner revenues for version 1.0 is likely an outlier due to the fact that this took place during the game's initial release, and the first few weeks of a game's launch is usually its most profitable time period.
 
 Do note that the data may not be representative, especially with paimon.moe, as these are just from the people who were willing to submit their pull history in there. However, as a general approximation of how popular a character is, I think this is still a reasonable metric to use due to the sheer sample size alone.
@@ -182,7 +203,7 @@ Most people simply do not have the impulse control to hold off of pulling other 
 ### Harbingers are predominantly male, in a game with a predominantly female playable cast
 Hoyo has a history of releasing female characters more frequently than male ones. They clearly know their target demographic and figured out that female characters usually sell better than male ones unless if a male character has a kit that is meta-defining (e.g. Alhaitham, Neuvillette) or is an Archon or Harbinger (e.g. Zhongli, Wanderer). With HI3, the playable cast is almost exclusively female, aside from Adam (which was very poorly received and only playable in specific areas), which further corroborates this.
 
-Harbingers are an outlier in that the female characters are in the minority. To me, it would be incredibly stupid if Hoyo decided to squander this opportunity by not releasing any of the female Harbingers as a playable character (including Signora), given how they are very likely to perform well in banner revenue with the target demographic the game is mainly aimed towards. The fact that they killed Signora despite the female Harbingers being few and far between should've been enough to raise some eyebrows among the marketing department, and it should be their top priority to bring her back as a playable character.
+Harbingers are an outlier in that the female characters are in the minority. To me, it would be incredibly stupid if Hoyo decided to squander this opportunity by not releasing any of the female Harbingers as a playable character (including Signora), given how they are very likely to perform well in banner revenue with the target demographic the game is mainly aimed towards. The fact that they killed Signora despite the female Harbingers being few and far between should've been enough to raise some eyebrows among the marketing department, because they literally got rid of a quarter of their female Harbinger representation in the game, and it should be their top priority to bring her back as a playable character.
 
 <div style="text-align: center;font-size:small"><img height="400" src="/images/gender_distribution.png" width="640"/><br/>The gender distribution of groups of characters in Genshin. Notice how the Harbingers are the only group of characters that have more male characters than female ones.</div>
 
@@ -201,6 +222,8 @@ A common argument raised against Signora's potential return as a playable charac
 
 However, this line of reasoning overlooks an important and often underestimated reality: business strategies and creative plans in live service games are constantly evolving. Even if the original development trajectory didn't include making Signora playable, that doesn't mean those plans are set in stone. In fact, Hoyo has already demonstrated their willingness to pivot in response to player demand or changing internal goals, such as how they reverted Neuvillette's rotation speed nerf in 4.8 just a few hours after it took effect, while giving all players 1600 primos as a compensation, or how they released Nod-Krai before Snezhnaya when it was never originally teased in the Travail trailer. As the overwhelming popularity of the Harbingers continues to grow, it’s entirely plausible that Hoyo has re-evaluated Signora's status and recognized the massive revenue opportunity in reviving her as a playable character.
 
+_**Update:** Hoyo themselves have confirmed that they are evolving the game in a recent Nod-Krai livestream on 30 April, so this theory is officially confirmed._
+
 Moreover, the absence of an avatar model in current public builds doesn't mean one doesn't exist. Hoyo has always been extremely cautious when it comes to spoiling major narrative reveals or character introductions, especially for characters that would have a significant story impact. Including a fully functional playable model for Signora in the game files would be a massive spoiler, potentially ruining what could be one of the most shocking and emotional moments in the game's future. To avoid leaks, it's entirely within reason that they would keep such data under strict internal wraps until the reveal is ready (see: Wanderer's launch, Skirk's teaser in 5.3).
 
 There is already precedent for this kind of character transition. Xianyun/Cloud Retainer is a prime example. Initially, she existed solely as a non-playable crane NPC with no playable human model in sight. Yet, in 4.4, she made the leap to a full-fledged playable character with a newly designed human form, something no one could have anticipated from just looking at the early files. This transformation proves that Hoyo has the resources and creative flexibility to develop new models and reimagine existing characters as needed.
@@ -218,10 +241,10 @@ The Harbingers often have masks or other items that obscure parts of their face.
 * Wanderer is never shown with a mask even in his playable form.
 * Pulcinella, Sandrone and Pantalone don't wear a mask in the Lazzo, so by the time they become playable, they're also likely to show their full faces.
 
-When Signora died, we never get to see her full face, and when she was shown in an [Arlecchino animatic](https://www.youtube.com/watch?v=tN5JACOEJFM), her bangs cover the side of her face that was originally covered by her mask. Why the insistence in not revealing her face? Well, the only possibility is that they wanted to reveal her full face later on, likely when she gets resurrected, because remember that we got her mask as some kind of trophy for completing Inazuma AQ, and her resurrection would certainly reveal the rest of her face.
+When Signora died, we never get to see her full face, and when she was shown in the [Arlecchino animatic](https://www.youtube.com/watch?v=tN5JACOEJFM), her bangs cover the side of her face that was originally covered by her mask. Why the insistence in not revealing her face? Well, the only possibility is that they wanted to reveal her full face later on, likely when she gets resurrected, because remember that we got her mask as some kind of trophy for completing Inazuma AQ, and her resurrection would certainly reveal the rest of her face.
 
 ### Xiao Luohao's alleged statement of a "surprising reunion with a Harbinger"
-I stumbled upon a [Reddit post](https://old.reddit.com/r/SignoraMains/comments/1btcpdp/about_the_xiao_luohao_chief_editor_of_genshin_s/) a while ago that allegedly describes a speech by Xiao Luohao, the game's editor-in-chief, at Fudan University, back when 4.5 or 4.6 was the latest version of the game. Unfortunately, the original post itself (hosted on NGA and in Chinese) no longer exists and leads to a 404 page, but the OP was able to take a [screenshot](https://old.reddit.com/r/SignoraMains/comments/1broyir/further_info_on_xiao_luohao_chief_editor_of/) of the post before it vanished. I had a native Chinese speaker translate it for me in case the OP's translation wasn't accurate enough, and it reads (emphasis mine):
+I stumbled upon a [Reddit post](https://old.reddit.com/r/SignoraMains/comments/1btcpdp/about_the_xiao_luohao_chief_editor_of_genshin_s/) a while ago that allegedly describes a speech by Xiao Luohao, the game's editor-in-chief, at Fudan University, back when 4.5 or 4.6 was the latest version of the game. Unfortunately, the original post itself (hosted on NGA and in Chinese) no longer exists and leads to a 404 page that says the post has expired, but the OP was able to take a [screenshot](https://old.reddit.com/r/SignoraMains/comments/1broyir/further_info_on_xiao_luohao_chief_editor_of/) of the post before it vanished. I had a native Chinese speaker translate it for me in case the OP's translation wasn't accurate enough, and it reads (emphasis mine):
 
 > I'll add more to their answers, and provide some news I know.
 >
@@ -250,7 +273,11 @@ Some of you might speculate that this could be the 10th Harbinger we've yet to k
 
 > As the original Harbinger, much about him remains a mystery. Upon our first meeting, he recognized my background with ease, yet to this day, I know little about him.
 
-### The addition of Nod-Krai as a mid-life region might be their way of releasing the rest of the Harbingers without lumping them all in Snezhnaya or Khaenriah
+Tartaglia's voice line also confirms this:
+
+> He was the first ever Fatui Harbinger, and today he is our leader. He only appears on important occasions. As for his accomplishments... To be honest, I don't really care. I owe my loyalty and devotion to the Tsaritsa, no one else.
+
+### The addition of Nod-Krai as a mid-lifecycle region might be their way of releasing the rest of the Harbingers without lumping them all in Snezhnaya or Khaenriah
 As I've said previously, Harbingers are massively popular, and it would be a wasted opportunity if Hoyo does not take advantage of this. I suspect that the reason why they added Nod-Krai midway through the game when it was never teased anywhere in the Travail teaser is because they only realized how profitable the Harbingers are after the successful launches of Wanderer and Arlecchino, and they might have regretted their decision to not make more of them playable sooner.
 
 This speculation might hold some grounds especially considering how there's still 8 more unreleased Harbingers and yet we're closer to approaching the end of story. While they could launch 1 Harbinger in Natlan, then 4 in Snezhnaya, and 3 in Khaenriah, this would result in too many Harbingers being released at a time leaving people overwhelmed on which Harbinger to choose. In contrast, by releasing Nod-Krai before Snezhnaya, they could for example release 1 Harbinger in Natlan, 2 in Nod-Krai, 3 in Snezhnaya, and 2 in Khaenriah, which is more manageable and would prevent potential buyers from getting overwhelmed with too many choices at once.
@@ -258,6 +285,8 @@ This speculation might hold some grounds especially considering how there's stil
 This also helps with the "wow" factor of the Harbingers. If they were to release 4 in Snezhnaya and 3 in Khaenriah, people would quickly get tired of the constant release cycle of Harbingers, and Hoyo might earn less money from each banner as players are less likely to be interested in pulling all of them and they'll save up for the major characters instead. The initial launch of a banner is what matters the most as this is when players are most likely to pull for a character, compared to reruns where the number of people pulling will have significantly dropped, so it's crucial that player interest remains high throughout each banner release.
 
 As an aside, a potentially effective strategy to do this would be to release Signora in Natlan, Dottore in Nod-Krai (because he was mentioned by Mavuika in the epilogue), Columbina in Snezhnaya (a widely anticipated Harbinger), and Capitano and Pierro in Khaenriah (which fits the former's constellation of "three nails", in which he gets resurrected after 3 regions, plus the fact they both hail from Khaenriah). This ensures that the sought-after Harbingers are distributed evenly across regions while also not introducing any new Harbingers in Natlan long after the main AQ had ended. This also aligns with the order of popularity in the [unofficial Harbingers poll](https://www.hoyolab.com/article/36240358) asking which Harbinger the players would like to be playable next, with Dottore being the 3rd, Columbina being the 2nd, and Capitano being the most popular choice, allowing them to save the best for last.
+
+_**Update:** The devs have confirmed that Nod-Krai was designed to be a region intended to tie up loose ends, and the Fatui is strongly implied to be heavily involved in there, due to their prominence in marketing materials, including the stream itself_
 
 ## Why Signora may be resurrected in Natlan
 Here comes the juicy part, the one you're probably looking for. I've made some observations and found some interesting things that may hint towards her revival in Natlan.
@@ -318,50 +347,60 @@ The first line has come true: The Pilgrimage for the Night Warden Wars did take 
 
 Additionally, the Pyro gnosis has yet to be stolen, as Capitano abandoned this objective after failing to beat Mavuika in a fight. Mavuika explicitly stated this in a [post-quest dialogue](https://genshin-impact.fandom.com/wiki/When_All_Becomes_a_Monument#Dialogue) after completing act 5. Given how important the gnoses are for the Tsaritsa, it's very likely that another Harbinger will tie up this loose end and steal the gnosis in the future, something which Mavuika has anticipated. This once again suggests that the Natlan's main plot isn't over yet.
 
+**Update:** I also noticed Mavuika said that Capitano won't try to get her gnosis anymore because he respected the outcome of the match. This pretty much excludes him from the possible candidates for characters who will take the gnosis, further strengthening this theory.
+
 > The Captain's subordinates sent us a letter he left behind. After our duel at the Stadium, he asked the Tsaritsa to remove him from the responsibility of obtaining the Gnosis, and his request was granted.
 >
 > The Captain respected the outcome of that match and refused to violate his principles. But, since this is the final Gnosis, I doubt the Tsaritsa will let the situation stand.
 >
-> Perhaps a replacement Harbinger will be sent here soon. I'll make sure to be prepared. 
+> Perhaps a replacement Harbinger will be sent here soon. I'll make sure to be prepared.
 
 #### How Signora may be resurrected
+**Some of the content below is no longer true or relevant at the time this update was posted (marked with a red font or struck through). The content below is preserved for the sake of transparency.**
+
 One of the possibilities that Hoyo will do to further the plot is to introduce a new Harbinger we've yet to see in-game and have them steal the gnosis. However, I doubt they'll do this as we've gone past the end of the main AQ storyline and introducing a new Harbinger this late would create an awkward pacing. I think the more plausible scenario is that they'll have an existing Harbinger steal it as they don't require any introduction and we're already familiar with them, and therefore, prevent the potential issue of having to extend an interlude chapter for too long.
 
-My theory is that **Signora will be resurrected in the Mare Jivari interlude chapter, and she will be the one who gets the gnosis.** When the Collective of Plenty was released in 5.5, you still can't complete the Pyro Statue or the Tablet of Toma, which strongly implies that Mare Jivari will be released sometime in late 5.x to finish this. Additionally, leaks regarding 5.6's new AQ have surfaced in which it will be the act 4 of the Mondstadt prelude, presumably continuing from the prologue, which ended on act 3. Considering how Mondstadt and Natlan are separate from each other, it's unlikely that the prelude will contain plot elements related to how Mavuika's gnosis will be stolen. Instead, I'm expecting an interlude chapter in Mare Jivari in either 5.7 or 5.8, sometime after either the Mondstadt prelude or Dainsleif's act in Natlan.
+My theory is that **Signora will be resurrected in the Mare Jivari interlude chapter, and she will be the one who gets the gnosis.** When the Collective of Plenty was released in 5.5, you still can't complete the Pyro Statue or the Tablet of Toma, which strongly implies that Mare Jivari will be released sometime in late 5.x to finish this. 
 
-Additionally, it's possible that **Signora will become playable in 5.8**, which will be on 30 July, with the resurrection possibly taking place earlier in 5.7. This is because character drip marketing is always released a patch prior to their release and it would be a massive spoiler to release that before she even gets resurrected, so they might have to figure out a way to postpone the drip marketing before they finally release the revival arc. Releasing her in 5.8 also addresses a potential issue of the characters showing up in the silhouette teaser being released later than 5.7, as we still have 2 
-more characters who were teased but not yet announced.
+**Update:** We have all but received a confirmation that Mare Jivari will be in 5.8, given how we still won't have it in 5.7, according to the Special Program stream.
 
-To piece things together, let's start with the Simulanka event in 4.8. This event explicitly mentioned that the fates of Teyvat and Simulanka are interconnected, and the community has found some parallels between this event's and Natlan's plot [like this one](http://web.archive.org/web/20250113145359/https://www.reddit.com/r/Genshin_Impact/comments/1hnf9t4/all_the_simulanka_referencesparallels_in_natlan/) (Wayback link, original post was deleted), and in the event, we learned that Durin will come back to life, which left players speculating about who exactly will be resurrected in Natlan.
+Additionally, leaks regarding 5.6's new AQ have surfaced in which it will be the act 4 of the Mondstadt prelude, presumably continuing from the prologue, which ended on act 3. Considering how Mondstadt and Natlan are separate from each other, it's unlikely that the prelude will contain plot elements related to how Mavuika's gnosis will be stolen. Instead, I'm expecting an interlude chapter in Mare Jivari in ~~either 5.7 or~~ 5.8, sometime after ~~either the Mondstadt prelude or~~ Dainsleif's act in Natlan.
 
-One might assume that it would be Durin that would be resurrected instead. However, I'm not sure how exactly he'll return because it's not like they could just get rid of his skeleton in Dragonspine without requiring a complete terrain overhaul, which is unlikely because some collectables such as Crimson Agates are found on the skeleton, which would make it difficult to rework the terrain without making them inaccessible. Also, how would Durin's resurrection be relevant to the Harbingers stealing the gnosis, and why would they execute a plot element from Mondstadt in Natlan?
+It's possible that **Signora will become playable in 5.8**, which will be on 30 July, with the resurrection ~~possibly taking place earlier in 5.7~~ (**Update:** The resurrection will probably take place in 5.8, when Mare Jivari is out, perhaps followed by her banner in the second half or in Nod-Krai). This is because character drip marketing is always released a patch prior to their release and it would be a massive spoiler to release that before she even gets resurrected, so they might have to figure out a way to postpone the drip marketing before they finally release the revival arc. Releasing her in 5.8 also addresses a potential issue of the characters showing up in the silhouette teaser being released later than 5.7, as we still have 2 more characters who were teased but not yet announced (**Skirk and Dahlia have been confirmed to be in 5.7 at the time of this update**).
 
-[Recent 5.6 leaks](https://imgur.com/a/9dpYxG4) ([archive](https://archive.is/TKhDg)) suggest that the Mondstadt prelude will only feature Mini Durin and Alice, but not Durin and Wanderer. There's also the upcoming [5.6 weekly boss](https://gensh.honeyhunterworld.com/m_29122000/?lang=EN), which had a placeholder title of "Eighth of the Fatui Harbingers", and is now named "Game before the Gate". The chessboard itself seems to belong to Alice or the Hexenzirkel as there is a [cover art](https://old.reddit.com/gallery/1jkae87) featuring Alice's hat and a chessboard in a red-white checkerboard pattern. The chessboard in A Winter Night's Lazzo might or might not have been a foreshadowing to this event. However, until Hoyo reveals additional details on the 5.6 livestream or leakers take a closer look at the preload, the connections between them are still uncertain.
+<span style="color:red;">To piece things together, let's start with the Simulanka event in 4.8. This event explicitly mentioned that the fates of Teyvat and Simulanka are interconnected, and the community has found some parallels between this event's and Natlan's plot [like this one](http://web.archive.org/web/20250113145359/https://www.reddit.com/r/Genshin_Impact/comments/1hnf9t4/all_the_simulanka_referencesparallels_in_natlan/) (Wayback link, original post was deleted), and in the event, we learned that Durin will come back to life, which left players speculating about who exactly will be resurrected in Natlan.</span>
 
-Information from HomDGCat suggests that dealing Cryo damage grants the progress to stop the ult, while Pyro undoes the progress. This may be related to Signora in that Cryo suppresses her flames, while Pyro would cause her to burn out. The boss also has Pyro RES for both pieces in first phase and the king piece in second phase, and Hydro/Electro RES for the queen piece in second phase. Nonetheless, this could be explained away by the fact that they're currently shilling Cryo (Escoffier, Skirk) while discouraging the use of Pyro (Arlecchino, Mavuika), Hydro (Neuvillette, Furina), and Electro (Raiden, Fischl) to encourage freeze comps.
+<span style="color:red;">One might assume that it would be Durin that would be resurrected instead. However, I'm not sure how exactly he'll return because it's not like they could just get rid of his skeleton in Dragonspine without requiring a complete terrain overhaul, which is unlikely because some collectables such as Crimson Agates are found on the skeleton, which would make it difficult to rework the terrain without making them inaccessible. Also, how would Durin's resurrection be relevant to the Harbingers stealing the gnosis, and why would they execute a plot element from Mondstadt in Natlan?</span>
 
-This ironically requires Hydro, an element that the boss is resistant to, although this could be their way of shilling Escoffier with her 55% Cryo/Hydro RES shred and Citlali with her 20% Hydro/Pyro RES shred, allowing the players to continue using Neuvillette/Furina while also being able to stop the ult from killing them.
+<span style="color:red;">[Recent 5.6 leaks](https://imgur.com/a/9dpYxG4) ([archive](https://archive.is/TKhDg)) suggest that the Mondstadt prelude will only feature Mini Durin and Alice, but not Durin and Wanderer. There's also the upcoming [5.6 weekly boss](https://gensh.honeyhunterworld.com/m_29122000/?lang=EN), which had a placeholder title of "Eighth of the Fatui Harbingers", and is now named "Game before the Gate". The chessboard itself seems to belong to Alice or the Hexenzirkel as there is a [cover art](https://old.reddit.com/gallery/1jkae87) featuring Alice's hat and a chessboard in a red-white checkerboard pattern. The chessboard in A Winter Night's Lazzo might or might not have been a foreshadowing to this event. However, until Hoyo reveals additional details on the 5.6 livestream or leakers take a closer look at the preload, the connections between them are still uncertain.</span>
 
-Details regarding this is still scarce, so we'll still have to wait until either the livestream or the preload before I can speculate on what this really means for Signora.
+<span style="color:red;">Information from HomDGCat suggests that dealing Cryo damage grants the progress to stop the ult, while Pyro undoes the progress. This may be related to Signora in that Cryo suppresses her flames, while Pyro would cause her to burn out. The boss also has Pyro RES for both pieces in first phase and the king piece in second phase, and Hydro/Electro RES for the queen piece in second phase. Nonetheless, this could be explained away by the fact that they're currently shilling Cryo (Escoffier, Skirk) while discouraging the use of Pyro (Arlecchino, Mavuika), Hydro (Neuvillette, Furina), and Electro (Raiden, Fischl) to encourage freeze comps.</span>
+
+<span style="color:red;">This ironically requires Hydro, an element that the boss is resistant to, although this could be their way of shilling Escoffier with her 55% Cryo/Hydro RES shred and Citlali with her 20% Hydro/Pyro RES shred, allowing the players to continue using Neuvillette/Furina while also being able to stop the ult from killing them.</span>
+
+<span style="color:red;">Details regarding this is still scarce, so we'll still have to wait until either the livestream or the preload before I can speculate on what this really means for Signora.</span>
 
 <div style="text-align: center;font-size:small"><img src="/images/signora/lazzomoth.png" width="640"/><br />The chessboard and Signora's moth in A Winter Night's Lazzo</div>
 
-This leaves room for speculation, and I feel like this may be something that Hoyo wants you to read between the lines in order to be able to reach a conclusion, because I don't think the resurrected character would be that obvious, and it's a good writing strategy to subvert the audience's expectations and do something that people have anticipated the least.
+<span style="color:red;">This leaves room for speculation, and I feel like this may be something that Hoyo wants you to read between the lines in order to be able to reach a conclusion, because I don't think the resurrected character would be that obvious, and it's a good writing strategy to subvert the audience's expectations and do something that people have anticipated the least.
 
-Here's a few scenarios on how they may execute this:
-#### Scenario 1: Wanderer represents Capitano while Mini Durin represents Signora
-This was my original theory before 5.6 leaks came out, and it has a major flaw that I'll get to later.
+<span style="color:red;">Here's a few scenarios on how they may execute this:
 
-Capitano seems to be analogous to Wanderer because the former is a Harbinger who helped save Natlan and prevented Mavuika from dying, while Scara helped to take care of Mini Durin. But what about Mini Durin himself?
+<span style="color:red;">**Scenario 1: Wanderer represents Capitano while Mini Durin represents Signora**
 
-In Simulanka, Durin is portrayed as a character who was misunderstood by the Simulankan residents/toys. He just wanted to be friends but everyone avoided him because he looked frightening and turned everything he came into contact with into toy blocks, which destroyed them in the process. At the end of the day, he was defeated by the MC, and then he was brought back as Mini Durin after being blessed by the main characters (Wanderer, Navia, MC, Kirara, and Nilou).
+<span style="color:red;">This was my original theory before 5.6 leaks came out, and it has a major flaw that I'll get to later.
 
-Does this sound familiar to you? That's because it sounds a lot like Signora. Her backstory is that she's the Crimson Witch of Flames. She never had the intention of killing innocent people and only wanted to purge the Abyss out of existence, but everyone avoided her because she's a literal burning witch who destroyed everything in her path. In Inazuma, she was defeated by the player in Tenshukaku, resulting in her death, and if the whole Durin arc refers to Signora instead of Durin himself, then this could mean that we will be the one who resurrects her, with Capitano (analogous to Wanderer) possibly intervening given how he transferred his life force to the Lord of the Night, which might give him powers we haven't known yet.
+<span style="color:red;">Capitano seems to be analogous to Wanderer because the former is a Harbinger who helped save Natlan and prevented Mavuika from dying, while Scara helped to take care of Mini Durin. But what about Mini Durin himself?
 
-#### Scenario 2: Wanderer represents Signora while Mini Durin represents himself and/or Durin
-Because Wanderer is an ex-Harbinger, and Signora was removed from the ranks of the Harbingers after she was executed, it's possible that Wanderer is analogous to Signora instead, as the latter would also be an ex-Harbinger if she gets resurrected, unless if her Harbinger status is reinstated. Similarly, both Wanderer and Signora have a tragic past which led them to join the ranks of the Harbingers, and both have a sense of betrayal (Wanderer feeling betrayed by humanity, Signora feeling betrayed by Barbatos), so the two do have some parallels here.
+<span style="color:red;">In Simulanka, Durin is portrayed as a character who was misunderstood by the Simulankan residents/toys. He just wanted to be friends but everyone avoided him because he looked frightening and turned everything he came into contact with into toy blocks, which destroyed them in the process. At the end of the day, he was defeated by the MC, and then he was brought back as Mini Durin after being blessed by the main characters (Wanderer, Navia, MC, Kirara, and Nilou).
 
-There is the possibility that Scara will only be taking care of Mini Durin, while Signora deals with the real Durin, though at the same time, Simulanka's quest says otherwise. This is the major flaw with these two theories.
+<span style="color:red;">Does this sound familiar to you? That's because it sounds a lot like Signora. Her backstory is that she's the Crimson Witch of Flames. She never had the intention of killing innocent people and only wanted to purge the Abyss out of existence, but everyone avoided her because she's a literal burning witch who destroyed everything in her path. In Inazuma, she was defeated by the player in Tenshukaku, resulting in her death, and if the whole Durin arc refers to Signora instead of Durin himself, then this could mean that we will be the one who resurrects her, with Capitano (analogous to Wanderer) possibly intervening given how he transferred his life force to the Lord of the Night, which might give him powers we haven't known yet.
+
+<span style="color:red;">Scenario 2: Wanderer represents Signora while Mini Durin represents himself and/or Durin
+
+<span style="color:red;">Because Wanderer is an ex-Harbinger, and Signora was removed from the ranks of the Harbingers after she was executed, it's possible that Wanderer is analogous to Signora instead, as the latter would also be an ex-Harbinger if she gets resurrected, unless if her Harbinger status is reinstated. Similarly, both Wanderer and Signora have a tragic past which led them to join the ranks of the Harbingers, and both have a sense of betrayal (Wanderer feeling betrayed by humanity, Signora feeling betrayed by Barbatos), so the two do have some parallels here.
+
+<span style="color:red;">There is the possibility that Scara will only be taking care of Mini Durin, while Signora deals with the real Durin, though at the same time, Simulanka's quest says otherwise. This is the major flaw with these two theories.
 
 > Albedo: You saved the Durin of this world. I don't see that as a mere coincidence.
 > 
@@ -375,26 +414,32 @@ There is the possibility that Scara will only be taking care of Mini Durin, whil
 > 
 > Albedo: To be sure. It certainly won't be easy.
 
-Things might not be very straightforward however, as the parallels between the two are only loosely connected. Looking at the aforementioned Teyvat/Simulanka parallels Reddit post, the similarities are superficial. For example, the three Narration Footnotes characters are Albizzi, Boborano, and Capet, while the three scholars are Aberewaa, Bosomtwe, and Cuxtal. But aside from the fact that both involved piecing together events from three different people with the same initials, the Narration Footnotes quest itself did not foreshadow Capitano's events of finding out about the Secret Source, so perhaps this dialogue about Scara's part in Teyvat may not be as simple as "Wanderer saving Mini Durin = Wanderer saving the real Durin".
+<span style="color:red;">Things might not be very straightforward however, as the parallels between the two are only loosely connected. Looking at the aforementioned Teyvat/Simulanka parallels Reddit post, the similarities are superficial. For example, the three Narration Footnotes characters are Albizzi, Boborano, and Capet, while the three scholars are Aberewaa, Bosomtwe, and Cuxtal. But aside from the fact that both involved piecing together events from three different people with the same initials, the Narration Footnotes quest itself did not foreshadow Capitano's events of finding out about the Secret Source, so perhaps this dialogue about Scara's part in Teyvat may not be as simple as "Wanderer saving Mini Durin = Wanderer saving the real Durin".
 
-#### Scenario 3: Durin's resurrection and Signora's resurrection are two separate plots
+**Scenario 3: Durin's resurrection and Signora's resurrection are two separate plots**
+
+_This ended up being the correct outcome, at least at the time this update was posted._
+
 This is the most likely possibility, given what we know so far about the Mondstadt prelude, and how the first two scenarios have the same flaw in that Albedo has canonically said that "[Scara's] fates are now intertwined". Like I've mentioned earlier, it would be weird to do a Mondstadt-related plot in Natlan as the two have little connections with each other, and resurrecting Durin does not address the issue of how the Harbingers will steal the Pyro gnosis.
 
 In this scenario, Mondstadt prelude continues the trajectory of the Act 3 of the Mondstadt prologue, with its own storyline separate from Natlan's. On the other hand, Natlan's storyline after Act 5 is followed by Act 6, which is Dainsleif's act, and then the Mare Jivari interlude chapter.
 
-Now, releasing 3 consecutive acts like this over the span of 2-3 versions after the main Natlan AQ has concluded might seem a little awkward, but they've done this before back in 2.x. [Interlude Act 1](https://genshin-impact.fandom.com/wiki/The_Crane_Returns_on_the_Wind) (Jade Chamber) was released in 2.4, followed by [Dainsleif act](https://genshin-impact.fandom.com/wiki/Requiem_of_the_Echoing_Depths) in 2.6, and [Interlude Act 2](https://genshin-impact.fandom.com/wiki/Perilous_Trail) (The Chasm) in 2.7. Similarly, they could release the Mondstadt prelude in 5.6, followed by Dainsleif act in 5.7, and Mare Jivari interlude in either 5.7 or 5.8. 
+Now, releasing 3 consecutive acts like this over the span of 2-3 versions after the main Natlan AQ has concluded might seem a little awkward, but they've done this before back in 2.x. [Interlude Act 1](https://genshin-impact.fandom.com/wiki/The_Crane_Returns_on_the_Wind) (Jade Chamber) was released in 2.4, followed by [Dainsleif act](https://genshin-impact.fandom.com/wiki/Requiem_of_the_Echoing_Depths) in 2.6, and [Interlude Act 2](https://genshin-impact.fandom.com/wiki/Perilous_Trail) (The Chasm) in 2.7. Similarly, they could release the Mondstadt prelude in 5.6, followed by Dainsleif act in 5.7, and Mare Jivari interlude in ~~either 5.7 or~~ 5.8. 
 
 This way, they could resolve the parallels between Simulanka's and Teyvat's Durin while not interfering with Natlan's resurrection and the Harbingers' gnosis heist.
 
-#### Scenario 4: Whatever the Hexenzirkel does is the missing link between Durin's and Signora's resurrection
-If the new weekly boss really is tied to Signora's arc, based on its placeholder title and the key elements used for its mechanics (Cryo and Pyro), and the Hexenzirkel is involved in both Durin's and Signora's narratives in the Mondstadt prelude, then there is a possibility that both Durin's and Signora's resurrection are part of the same arc. Maybe Signora will proceed to travel from Mondstadt all the way to Natlan to take the gnosis, who knows. This is something that needs to wait before we get further information from the livestream or preload.
+<span style="color:red;">**Scenario 4: Whatever the Hexenzirkel does is the missing link between Durin's and Signora's resurrection**</span>
+
+<span style="color:red;">If the new weekly boss really is tied to Signora's arc, based on its placeholder title and the key elements used for its mechanics (Cryo and Pyro), and the Hexenzirkel is involved in both Durin's and Signora's narratives in the Mondstadt prelude, then there is a possibility that both Durin's and Signora's resurrection are part of the same arc. Maybe Signora will proceed to travel from Mondstadt all the way to Natlan to take the gnosis, who knows. This is something that needs to wait before we get further information from the livestream or preload.</span>
 
 #### Other evidences
-These theories have a potential ground for foreshadowing to work. Durin's skeleton is in Dragonspine, and in the same region, there's also the Frostbearing Tree which suspiciously has vague potential references to Signora's themes, with things such as "Crimson Wish", "Frostbearer", and the way even the tree itself has some crimson butterflies/moths once you've maxed it out. In fact, Durin's connection to the Frostbearing Tree is implied in [Crimson Agate's description](https://genshin-impact.fandom.com/wiki/Crimson_Agate#Archive_Description):
+These theories have a potential ground for foreshadowing to work. <span style="color:red;">Durin's skeleton is in Dragonspine, and in the same region, there's also the Frostbearing Tree which suspiciously has vague potential references to Signora's themes, with things such as "Crimson Wish", "Frostbearer", and the way even the tree itself has some crimson butterflies/moths once you've maxed it out. In fact, Durin's connection to the Frostbearing Tree is implied in [Crimson Agate's description](https://genshin-impact.fandom.com/wiki/Crimson_Agate#Archive_Description):</span>
 
 > When the nail that froze Dragonspine descended, the trunk and canopy of this tree shattered into many fragments that were then frozen. A long time later, a black dragon fell into the valley and its blood seeped into the ley lines. And a long time after that, someone has broken the icy shackles, and the ancient tree that has absorbed that "crimson" has now sprouted anew...
 
 Even more convincing is that the Lavawalker wore [a circlet](https://genshin-impact.fandom.com/wiki/Lavawalker#Lavawalker's_Wisdom) made out of crimson agate to withstand the heat of Mare Jivari:
+
+_**Update:** I stand corrected. Someone told me that the original CN description of this "crimson agate" isn't the same as the Crimson Agate item, so this artifact piece may not be related to it after all._
 
 > An ancient circlet that once belonged to the Lavawalker — a sage who wandered in the Mare Jivari.\
 Upon close examination, one can almost see his figure standing strong amidst the fiery flames.
@@ -404,12 +449,12 @@ The circlet was built with wisdom and tenacity. It sparked fear and jealousy amo
 
 This is important, because like I've mentioned earlier, players have speculated that the resurrection plot might take place in Mare Jivari, as part of an interlude chapter. It has been described as the "Sea of Ashes" or "Sea of Flames", and according to the [Lavawalker set's plume lore](https://genshin-impact.fandom.com/wiki/Lavawalker#Lavawalker's_Salvation), a phoenix dwells within it, and phoenixes symbolize rebirth. The location itself has been [teased](https://genshin-impact.fandom.com/wiki/Vision_of_Ashen_Desolation) as recently as 5.1 in the Iktomi Spiritseeking Scrolls event, but the region itself has yet to be released. The connection between the Lavawalker, Mare Jivari, the Frostbearing Tree with its suspicious references to Signora's motifs, and Durin, could be the missing piece we need to tie everything back to Signora.
 
-She has good negotiation skills, as implied by how she was able to take Zhongli's gnosis without having to fight him. Mavuika is a powerful fighter, being able to beat Capitano and injure him to the point of abandoning his objective to steal the gnosis, and we're talking about the top Harbinger here, the one who Nahida claimed has godlike strength. A direct confrontation with her will pretty much result in a failure, so the only way for the Fatui to have any hopes of stealing her gnosis would be either through stealth or negotiation.
+Signora has good negotiation skills, as implied by how she was able to take Zhongli's gnosis without having to fight him. Mavuika is a powerful fighter, being able to beat Capitano and injure him to the point of abandoning his objective to steal the gnosis, and we're talking about the top Harbinger here, the one who Nahida claimed has godlike strength. A direct confrontation with her will pretty much result in a failure, so the only way for the Fatui to have any hopes of stealing her gnosis would be either through stealth or negotiation, and she's the perfect candidate for that.
 
 #### The change in the domain name for her artifact set and its potential connection to this year's Lantern Rite story
 Even more interestingly, the Lavawalker set is in the same domain as the Crimson Witch of Flames set. Y'know, the set that is _literally about Signora_. And in 4.8, this domain's challenges underwent a name change, from "Frost" to "Roaring Fire", and is the only domain to be renamed in that version. While some might see this as a mere coincidence, something interesting took place in this year's Lantern Rite that may hint at this as a sign that they're doing something with Signora's arc.
 
-I found [this post](https://old.reddit.com/r/Genshin_Lore/comments/1idqbz7/53_lantern_rite_and_rosalyne/) on the r/Genshin_Lore subreddit explaining the potential connection between the Hidden Palace of Zhou Formula (the Lavawalker/CWoF domain), the Lantern Rite backstory, and Signora herself. I'll just quote what they've said in full:
+I found [this post](https://old.reddit.com/r/Genshin_Lore/comments/1idqbz7/53_lantern_rite_and_rosalyne/) on the r/Genshin_Lore subreddit explaining the potential connection between the Hidden Palace of Zhou Formula (the Lavawalker/CWoF domain), the Lantern Rite backstory, and Signora herself. I'll just quote what they've said verbatim:
 
 > One of the things that was noteworthy in this Lantern Rite was how they integrated domains that have been present since 1.0 in our maps to a integral part of the story. Feels, for the first time in quite some time, that the domains and their story are not there by chance.
 >
@@ -423,7 +468,10 @@ I found [this post](https://old.reddit.com/r/Genshin_Lore/comments/1idqbz7/53_la
 >
 > Anyways, this is obviously just a theory of mine. But I seriously think that it cannot be a simple coincidence that the Crimson Witch of Flames, whose name and aspect seems to connect with that of the Lone Butterfly, has her set in the same domain where said Butterfly sealed Tao Dou during the last Seven-and-Eight Gate Array. Hoyo never leave this things out there by chance.
 
-The fact that they not only renamed the domain's challenges to "Roaring Fire" (which makes it relevant to Signora's CWoF form, and the only domain that was renamed in 4.8), but also made a potential connection between the backstory mentioned on Lantern Rite and the domain, is incredibly suspicious, as if they're hinting that this might be relevant further down the line. Additionally, Signora's moths in her boss fight is referred to as "Crimson Lotus Moth", the Lone Butterfly was the only one of the Eight Adepts to sacrifice herself during the purification spell [according to Yun Jin](https://genshin-impact.fandom.com/wiki/Liyue_Celebrates_and_Eight_Adepts_Face_a_Hidden_Calamity), and Signora was the 8th Harbinger, so there might even be an implied connection there.
+The fact that they not only renamed the domain's challenges to "Roaring Fire" (which makes it relevant to Signora's CWoF form, and the only domain that was renamed in 4.8), but also made a potential connection between the backstory mentioned on Lantern Rite and the domain, is incredibly suspicious, as if they're hinting that this might be relevant further down the line. Additionally, Signora's moths in her boss fight are referred to as "Crimson Lotus Moth", the Lone Butterfly was the only one of the Eight Adepts to sacrifice herself during the purification spell [according to Yun Jin](https://genshin-impact.fandom.com/wiki/Liyue_Celebrates_and_Eight_Adepts_Face_a_Hidden_Calamity), and Signora was the 8th Harbinger, so there might even be an implied connection there.
+
+It's worth noting that this might simply due to the domain's recommended element being changed from Cryo to Hydro, which isn't observed in other domains that recommended multiple elements prior to the change. However, it's still something we should pay attention to, given the relevance of the two artifact sets in here.
+
 > Paimon: We were actually learning about the Eight Adepts earlier, but we never found out who the Three Beasts of Tao Dou were.
 > 
 > Yun Jin: Oh really? Well for starters, the Three Beasts of Tao Dou are also known as the Three Immortals of Tao Dou.
@@ -451,6 +499,19 @@ The event's epilogue further suggests that there may be connections between Liyu
 > Ningguang: It makes me wonder whether these events might somehow be connected on a deeper level.
 >
 > Beidou: If they are, then this'll be bigger than just Liyue and Natlan. I'll send word to my business partners, and keep an eye out for any similar incidents in the other nations.
+### Previous regions have always had two Harbingers involved in the region's Archon Quests
+Related to the point above, Natlan is different in that we've yet to see the other Harbinger who's involved in the region; one is involved in taking the gnosis, the other isn't, You see, each region aside from Mondstadt had consistently featured two different Harbingers.
+
+* Mondstadt: Signora (because we hadn't been introduced to another Harbinger yet)
+* Liyue: Childe, Signora
+* Inazuma: Scaramouche, Signora
+* Sumeru: Dottore, Scaramouche
+* Fontaine: Arlecchino, Childe
+* Natlan: Capitano, ???
+
+You could argue that Childe appearing in Skirk's story quest is our second Harbinger in Natlan, but that's not the case, as her SQ will take place in Liyue instead, not to mention that it's an SQ, not AQ. Act 6 of the AQ doesn't appear to feature him according to leaks, so the only logical conclusion is that this second Harbinger will show up in the Mare Jivari interlude instead, and they've very likely to be the one who takes the gnosis. Capitano, like we've mentioned previously, doesn't fit the bill because he respected the outcome of the duel and won't make any further attempts at stealing the gnosis, of which Mavuika remarked that another Harbinger will be sent to take it anyway.
+
+Dottore's appearance in Nod-Krai, as confirmed by the teaser in 5.7 stream, very likely eliminates the possibility of him showing up in Natlan. Arlecchino would have little reason to visit Natlan, so she is out of the question. The only two candidates would be Childe or Signora, but logically the former would have to take a while to go from Liyue to Natlan, if we assume that the SQ timeline aligns with the AQs. Having Signora would pretty much eliminate that problem as it would fit her lore hints very well while also being able to reach mainland Natlan in no time.
 
 ### Nod-Krai could pave the way to bring back Signora's relevance in the story
 One argument that's frequently thrown around against Signora's resurrection is that she's no longer relevant to the story, having been dead for more than 3 years already. This is understandable, but I believe resurrecting her in Natlan would give Hoyo plenty of time to reintroduce her in the story so it wouldn't feel out of place, especially given how a recent Nod-Krai teaser strongly suggests the presence of other Harbingers such as Dottore and Sandrone.
@@ -510,6 +571,12 @@ What if it turns out they've been delaying the resurrection to hide the characte
 
 And this works very well. Most Signora fans get demoralized very quickly the moment they notice that no one was brought back from the dead, and even other communities like r/FatuiHQ followed suit. This way, when they finally drop the charade and reveal that they've resurrected a major character all along, people will be caught off-guard and there will be a sudden surge in hype and popularity of the game.
 
+### Little One's arc is pretty much over
+This is something that I forgot to mention in the initial publication of this post. Some people might consider that Mare Jivari could be the continuation of Little One's WQs, but because he parted ways with us, I don't think this is the case. Besides, there's very little point to do so because his Flamelord's Blessing story was pretty much resolved in 5.5 when he refused Kukulkan's offers. If anything, this just further strengthens the possibility of the proper revival arc taking place in the Mare Jivari instead.
+
+### The red sky in Mare Jivari
+Some keen-eyed players have noticed that the placeholder Mare Jivari region has an [abnormally red sky](https://old.reddit.com/r/SignoraMains/comments/1l086dv/do_you_remember_the_mare_jivari_sky/). This appears to be heavily connected to Signora's description of the "crimson dawn" and "sea of fire that will consume everything", something that's now all but confirmed. It's unlikely that this is a coincidence, as so far it seems unlikely that any region in Nod-Krai or Snezhnaya would have an unusually red sky like this, let alone a place described as "sea of fire" or "sea of ashes."
+
 ## Why we may NOT want Signora to be resurrected in Natlan (yet): The ~~SAG-AFTRA strike~~ VA's "collective work refusal"
 Signora is voiced by a VA who chose to remain anonymous. However, after doing a little research, I was able to figure out who she is, and her portfolio page contains some voice clips of her performance as Signora. I won't disclose who she is out of respect, given how toxic the community can be towards Signora fans sometimes.
 
@@ -522,6 +589,10 @@ Even worse, there's a chance that she might be recast if she refuses to work whe
 Voice works are usually done months in advance, around 1-2 patches prior to release. The last time [such a strike](https://en.wikipedia.org/wiki/2016%E2%80%932017_video_game_voice_actor_strike#2024-2025_strike) occurred, it took over 11 months before SAG-AFTRA could reach an agreement, so there's a chance of a worst-case scenario where the resurrection takes place in 5.7, but she's either unvoiced or been recast if the VA chose not to work during the strike.
 
 This would be a huge blow to Signora fans who have been waiting for this, as it would ruin an otherwise massive plot. We can only hope that either the official strike ends and an agreement is reached before they have to record her lines so we can experience Signora's resurrection in its full glory, or she's willing to voice Signora despite the strike, as the work refusal against Hoyo was never official to begin with.
+
+**Update:** At the time of this update, the SAG-AFTRA strike has been [officially suspended](https://x.com/geoffkeighley/status/1932867670938144920), and according to the [announcement](https://www.sagaftra.org/sag-aftra-video-game-strike-suspended-noon-pt-today), "All SAG-AFTRA members are instructed to return to work on productions under the IMA, including work promoting or publicizing projects produced under the IMA..."
+
+This means nothing for Genshin because it's never been a struck project to begin with, but it does make their work refusal hard to justify as this instruction came straight out of SAG's mouth, so hopefully by the time Signora returns in 5.8, she's able to be fully voiced.
 
 ## My theory on why Natlan's AQ feels so unfinished
 This is something that I've been wondering for a while, because I feel like anything past Act 4 felt rushed and awkward, such as how Act 5 is literally called "Incandescent Ode of Resurrection", with the developers teasing about how "a deceased character will come back to life", and yet no major character was resurrected, and instead we ended up with Capitano dying, or how Xilonen said that forging an ancient name for the MC would cost her life, but it was never elaborated on after Act 4, and we never saw her falling ill or dying at any point in the AQ.
@@ -544,6 +615,39 @@ And if it originally involved Xbalanque being resurrected, then it could be beca
 
 Resurrecting more than one major character in Natlan would feel too cheesy, and players might complain about how it cheapens out the concept of death, so they might have changed the plot of act 5 at the last minute to make it so that only Signora gets brought back, instead of resurrecting Xilonen and/or Mavuika alongside her. Given how there's a decent number of people who have speculated about Signora's resurrection in Natlan, they might be trying to capitalize on that and scrapped whatever resurrection plot they might have originally planned prior to that.
 
+## Miscellaneous things
+These are things I found that may or may not point to her revival, so take it with a huge grain of salt.
+
+In past regions, we've always had at least two characters with the same element as that region. Mondstadt has Jean, Venti, and Sucrose; Liyue has Zhongli and Ningguang; Inazuma has Raiden and Miko; Sumeru has plenty; and Fontaine has Neuvillette, Furina, and Sigewinne. However, in Natlan, we currently only have one pyro character, which is Mavuika.
+
+In the GITCG, there are two Tavern Challenges related to her, which are the Bouquet of the Crimson Witch of Embers and Feathers of the Crimson Witch of Embers. One thing I've noticed is that the Flower-Feather Clan is a Pyro tribe judging by how the Qucusaurus uses Pyro, and the tribe icon itself is red, and yet neither of the playable characters from that tribe, Chasca and Ifa, are Pyro, unlike other tribes where there's at least one playable character with the same element as the tribe's saurian.
+
+The tribe itself is named the "Flower-Feather Clan". Guess what else is associated with "flower and feather"? That's right. It's the two GITCG titles, Bouquet and Feather. Some people have speculated that one of the ways they might associate Signora with Natlan is that she could originally be a Natlanese who moved to Mondstadt similar to Vennessa but ultimately lost her memories of being a Natlanese due to Natlan's ley lines being formerly unstable prior to Capitano's intervention.
+
+I wonder if they would use this as an evidence that they've been teasing her resurrection all along, albeit in a very subtle manner. Remember, the last thing they wanted is for the revival to get spoiled because they gave out hints that were way too obvious.
+
+A counterargument would be the fact that the People of the Springs tribe is also missing a character, namely a second character aside from Mualani. Other tribes have consistently had two characters, including the Scions of the Canopy, in which Mavuika hailed from there. It's possible this might be reserved for future content, which could explain why there were rumors about a Hydro support in 5.8, but the way they are missing is indeed suspicious.
+
+## Answers to your questions about the new leaks
+There has been several new leaks that, if true, would disprove my theories of her being in Natlan. However, I don't buy them in the slightest for several reasons.
+
+### Version 5.8 will allegedly feature an electro support from Nod-Krai, NOT Signora. Do you think this kills this theory for good or do you have other explanations?
+While there is always a possibility that Signora may not become playable in 5.8, do keep in mind that it *is* still possible that Signora may have a resurrection arc in some form in Mare Jivari. Like I've said, there's a chance that she may not be immediately playable to avoid the drip marketing from spoiling the plot, as it will inevitably have to be released a version prior to the launch, or they may have to do some exceptional measures such as launching her banner on the 2nd half and releasing her drip marketing on the 1st half while not revealing the character on the 5.8 livestream, only teasing her vaguely unlike other characters that have been released so far. This would be a huge deviation from their usual marketing strategy, which is why there's always the possibility that they're saving up her banner for Nod-Krai while resurrecting her early in Mare Jivari as a teaser for what's to come.
+
+In fact, there is already a precedent to this, such as how Durin was revealed in 5.6 but is yet to be playable, how Capitano "died" in 5.3 but we all know he's very likely to be playable given how he has a playable avatar model, or how Baizhu was present in the AQ as early as 1.0 but wasn't playable until 3.6. Hoyo might be planting the seeds for future playability instead of letting her playable immediately after her resurrection arc.
+
+### There's a leak by Shiroha showing Nod-Krai's potential roster, and it does not include Signora anywhere on the list. Why do you still believe that she's coming back soon?
+This is by far the most damning evidence that Signora may not return in the near future, considering how Shiroha is known to have a good track record in HSR leaks, and the only three Harbingers that have been leaked to be playable are Columbina, Dottore, and an unknown Geo Harbinger. However, they have proven themselves to be unreliable as evidenced by the fact that they immediately backpedaled after the 5.7 livestream just days after they made the initial post and made a "correction" that the upcoming playable witch (Hexenzirkel) character would be Nicole rather than Barbeloth, *despite Hoyo clearly showing Alice in the teaser instead*, which would strongly imply Alice will be the playable Hexenzirkel member.
+
+This is exactly why you should never trust rumor mills like this, even if they have a reputable track record in other games. For all we know, they might just be doing an asspull to gain some attention among the Genshin community while making contrarian takes, then backpedaling at every turn and disclaiming that "everything is subject to change" to save face if their rumors didn't turn out to be true. Remember, most "leakers" are in fact just rumor mills who make speculations while pretending they have insider info, and they don't know any better than the community in general.
+
+And besides, isn't it a little suspicious that they're only revealing the more notable characters people have been expecting to become playable the most, but *not* any unfamiliar names that possibly belong to the new factions such as the Lightkeepers, the Frostmoon Scions, the Voynich Guild, or the Wild Hunt? To me, it sounds like a classic example of rumor mills giving us speculations that most people want to hear, regardless if it's true or not. When Natlan's character roster was leaked, it was initially flaired as a suspicious leak but ended up becoming 100% true all along, and they all have unfamiliar names, aside from Iansan which had been revealed in the Travail teaser. Also, remember all the leaks about Columbina being playable in 5.x or how Madame Ping will be the 5-star character in Lantern Rite? Yeah, that never happened alright.
+
+All I can say is, just ignore the noise. There's a good chance that they're just pulling things out of their asses, and Signora mains are on the right track all along.
+
+### Have you ever considered that the Pyro gnosis might be stolen in 6.x instead?
+I'm well aware of this, but what made me unconvinced of this is the fact that Hoyo has officially confirmed that Nod-Krai will involve the Fatui stealing the moon powers instead, so it's very likely that by the time we get there, the gnosis will have already been stolen. Everything just screams "something will happen in Mare Jivari, and it's gonna be HUGE." It simply doesn't make sense to steal the moon powers, a power that predates the 7 elements, before they do the Pyro gnosis. Not to mention that many Genshin players don't have that great of an attention span unless if they actively keep track of the game's lore, so having the gnosis be stolen in 6.x might be confusing for some players who don't follow along with the story.
+
 ## Bonus: Numerology
 Just for fun, let's delve into the numerology conspiracy theory, because people love finding patterns with the Harbingers through this.
 * Childe was released in **1.1**, on **11/11**/2020.
@@ -557,14 +661,14 @@ Just for fun, let's delve into the numerology conspiracy theory, because people 
 * There are at least **eight** members of the Hexenzirkel, and one of them has died.
 * Capitano may be resurrected in Khaenriah, **3** regions after Natlan, fitting his three nails constellation.
 
-## Conclusion: Signora may become playable in 5.8
-Given how there's still the mysterious 17th character, the existence of version 5.8, and the resurrection plot hasn't happened yet, that leads me to this conclusion: Signora may be resurrected in either 5.7 or 5.8, in the Mare Jivari interlude chapter, and become playable in 5.8.
+## Conclusion: Signora may become playable in 5.8 or 6.x
+Given how there's still the mysterious 17th character, the existence of version 5.8, and the resurrection plot hasn't happened yet, that leads me to this conclusion: Signora may be resurrected in 5.8, in the Mare Jivari interlude chapter, and become playable in either the second half or 6.x.
 
-This is because Hoyo is likely to release both Skirk and Dahlia in 5.7 due to them promising that all the teased characters from the 5.3 stream will be released no later than June, but they may still have to release the interlude chapter and resurrect her in 5.7 in order to prevent her drip marketing from spoiling the plot, as drip marketing is usually released a few weeks before the character release.
+Hoyo has officially confirmed that Skirk and Dahlia will be in 5.7, along with a Dainsleif act, so the 17th character will definitely show up in 5.8 instead. If she doesn't immediately become playable, then having her banner in 6.x would be quite fitting as we'll definitely be focusing on the Fatui and the new factions in there (the Lightkeepers, Frostmoon Scions, Voynich Guild, the Wild Hunt).
 
 As for how she will get resurrected? I'm not sure. Hoyo is known for overly complicating things, but my theory is that it may involve her remnants merging back into the CWoF. Remember that [her artifact description](https://genshin-impact.fandom.com/wiki/Crimson_Witch_of_Flames) mentions that she "sacrificed her mortal body to become the embodiment of liquid fire herself", which means that she's an elemental being rather than a normal human, and was the reason why she was able to live for 500 years. This means that Hoyo can pull some esoteric narratives that only those who are into her lore would immediately get, or something similar.
 
-We will see whether my predictions are correct when 5.7 and 5.8 betas come out. It would be incredibly exciting if this turns out to be correct and I was able to predict that the missing 17th character was no coincidence. However, if this turns out to be false, then I'm willing to lose some of my dignity, because at the end of the day, these are just educated guesses, and even the so-called "leakers" get things wrong all the time because many of them aren't really leaking things, but rather just making some educated guesses like I do (take the Madame Ping in 5.3 "leaks" for example, or the [early Natlan "leaks"](https://old.reddit.com/r/Genshin_Impact/comments/1jrldt5/its_kinda_funny_how_badly_natlan_predictions_have/)).
+We will see whether my predictions are correct when 5.8 betas come out. It would be incredibly exciting if this turns out to be correct and I was able to predict that the missing 17th character was no coincidence. However, if this turns out to be false, then I'm willing to lose some of my dignity, because at the end of the day, these are just educated guesses, and even the so-called "leakers" get things wrong all the time because many of them aren't really leaking things, but rather just making some educated guesses like I do (take the Madame Ping in 5.3 "leaks" for example, or the [early Natlan "leaks"](https://old.reddit.com/r/Genshin_Impact/comments/1jrldt5/its_kinda_funny_how_badly_natlan_predictions_have/)).
 
 **I might be hyped up over nothing... or I might have done a 200 IQ move and predicted this would happen all along, like some kind of 4D Pierro's or Hexenzirkel's chess.**
 
