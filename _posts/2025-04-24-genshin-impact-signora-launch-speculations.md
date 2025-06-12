@@ -22,9 +22,9 @@ The thing about him though, is that at least *he still has a body to return to*,
 
 I decided to write this entire article on why Signora is very likely to be resurrected, against all odds, because it seems that the majority of the Genshin community have pretty much lost all hopes in her return, which is a bad thing because players should keep the conversation going to let Hoyo know that there's still people out there who wanted her back and playable. Never settle for less. Signora mains don't need to reach the point of acceptance; it's Hoyo that needs to do so.
 
-## Table of contents
+<h2>Table of contents</h2>
 <!-- TOC -->
-  * [Table of contents](#table-of-contents)
+  * [Changelog](#changelog)
   * [A little background on why I want Signora to be playable](#a-little-background-on-why-i-want-signora-to-be-playable)
   * [Disclaimer](#disclaimer)
   * [Important countdowns and count-ups](#important-countdowns-and-count-ups)
@@ -40,27 +40,31 @@ I decided to write this entire article on why Signora is very likely to be resur
     * [Dual-element characters are definitely possible](#dual-element-characters-are-definitely-possible)
     * [Her unmasked face has never been revealed](#her-unmasked-face-has-never-been-revealed)
     * [Xiao Luohao's alleged statement of a "surprising reunion with a Harbinger"](#xiao-luohaos-alleged-statement-of-a-surprising-reunion-with-a-harbinger)
-    * [The addition of Nod-Krai as a mid-life region might be their way of releasing the rest of the Harbingers without lumping them all in Snezhnaya or Khaenriah](#the-addition-of-nod-krai-as-a-mid-life-region-might-be-their-way-of-releasing-the-rest-of-the-harbingers-without-lumping-them-all-in-snezhnaya-or-khaenriah)
+    * [The addition of Nod-Krai as a mid-lifecycle region might be their way of releasing the rest of the Harbingers without lumping them all in Snezhnaya or Khaenriah](#the-addition-of-nod-krai-as-a-mid-lifecycle-region-might-be-their-way-of-releasing-the-rest-of-the-harbingers-without-lumping-them-all-in-snezhnaya-or-khaenriah)
   * [Why Signora may be resurrected in Natlan](#why-signora-may-be-resurrected-in-natlan)
     * [The undisclosed 17th playable character and the existence of version 5.8](#the-undisclosed-17th-playable-character-and-the-existence-of-version-58)
     * [They have been teasing us about resurrection several times, but the resurrection has yet to happen, the gnosis is still in Mavuika's possession, and Mare Jivari hasn't been released yet](#they-have-been-teasing-us-about-resurrection-several-times-but-the-resurrection-has-yet-to-happen-the-gnosis-is-still-in-mavuikas-possession-and-mare-jivari-hasnt-been-released-yet)
       * [How Signora may be resurrected](#how-signora-may-be-resurrected)
-      * [Scenario 1: Wanderer represents Capitano while Mini Durin represents Signora](#scenario-1-wanderer-represents-capitano-while-mini-durin-represents-signora)
-      * [Scenario 2: Wanderer represents Signora while Mini Durin represents himself and/or Durin](#scenario-2-wanderer-represents-signora-while-mini-durin-represents-himself-andor-durin)
-      * [Scenario 3: Durin's resurrection and Signora's resurrection are two separate plots](#scenario-3-durins-resurrection-and-signoras-resurrection-are-two-separate-plots)
-      * [Scenario 4: Whatever the Hexenzirkel does is the missing link between Durin's and Signora's resurrection](#scenario-4-whatever-the-hexenzirkel-does-is-the-missing-link-between-durins-and-signoras-resurrection)
       * [Other evidences](#other-evidences)
       * [The change in the domain name for her artifact set and its potential connection to this year's Lantern Rite story](#the-change-in-the-domain-name-for-her-artifact-set-and-its-potential-connection-to-this-years-lantern-rite-story)
+    * [Previous regions have always had two Harbingers involved in the region's Archon Quests](#previous-regions-have-always-had-two-harbingers-involved-in-the-regions-archon-quests)
     * [Nod-Krai could pave the way to bring back Signora's relevance in the story](#nod-krai-could-pave-the-way-to-bring-back-signoras-relevance-in-the-story)
     * [Resurrecting Capitano too early would undermine his very own sacrifice](#resurrecting-capitano-too-early-would-undermine-his-very-own-sacrifice)
     * [Both Skirk and Capitano are likely to be cryo sword characters, and releasing both in 5.x would cannibalize the former's sales](#both-skirk-and-capitano-are-likely-to-be-cryo-sword-characters-and-releasing-both-in-5x-would-cannibalize-the-formers-sales)
     * [Releasing the lower-ranking Harbingers like her makes more sense than releasing the cream of the crop like Capitano early](#releasing-the-lower-ranking-harbingers-like-her-makes-more-sense-than-releasing-the-cream-of-the-crop-like-capitano-early)
     * ["Waifu Impact" is in full force](#waifu-impact-is-in-full-force)
     * [Natlan might very well be a giant red herring to distract Signora mains](#natlan-might-very-well-be-a-giant-red-herring-to-distract-signora-mains)
+    * [Little One's arc is pretty much over](#little-ones-arc-is-pretty-much-over)
+    * [The red sky in Mare Jivari](#the-red-sky-in-mare-jivari)
   * [Why we may NOT want Signora to be resurrected in Natlan (yet): The ~~SAG-AFTRA strike~~ VA's "collective work refusal"](#why-we-may-not-want-signora-to-be-resurrected-in-natlan-yet-the-sag-aftra-strike-vas-collective-work-refusal)
   * [My theory on why Natlan's AQ feels so unfinished](#my-theory-on-why-natlans-aq-feels-so-unfinished)
+  * [Miscellaneous things](#miscellaneous-things)
+  * [Answers to your questions about the new leaks](#answers-to-your-questions-about-the-new-leaks)
+    * [Version 5.8 will allegedly feature an electro support from Nod-Krai, NOT Signora. Do you think this kills this theory for good or do you have other explanations?](#version-58-will-allegedly-feature-an-electro-support-from-nod-krai-not-signora-do-you-think-this-kills-this-theory-for-good-or-do-you-have-other-explanations)
+    * [There's a leak by Shiroha showing Nod-Krai's potential roster, and it does not include Signora anywhere on the list. Why do you still believe that she's coming back soon?](#theres-a-leak-by-shiroha-showing-nod-krais-potential-roster-and-it-does-not-include-signora-anywhere-on-the-list-why-do-you-still-believe-that-shes-coming-back-soon)
+    * [Have you ever considered that the Pyro gnosis might be stolen in 6.x instead?](#have-you-ever-considered-that-the-pyro-gnosis-might-be-stolen-in-6x-instead)
   * [Bonus: Numerology](#bonus-numerology)
-  * [Conclusion: Signora may become playable in 5.8](#conclusion-signora-may-become-playable-in-58)
+  * [Conclusion: Signora may become playable in 5.8 or 6.x](#conclusion-signora-may-become-playable-in-58-or-6x)
 <!-- TOC -->
 
 ## Changelog
