@@ -503,6 +503,7 @@ The event's epilogue further suggests that there may be connections between Liyu
 > Ningguang: It makes me wonder whether these events might somehow be connected on a deeper level.
 >
 > Beidou: If they are, then this'll be bigger than just Liyue and Natlan. I'll send word to my business partners, and keep an eye out for any similar incidents in the other nations.
+
 ### Previous regions have always had two Harbingers involved in the region's Archon Quests
 Related to the point above, Natlan is different in that we've yet to see the other Harbinger who's involved in the region; one is involved in taking the gnosis, the other isn't, You see, each region aside from Mondstadt had consistently featured two different Harbingers.
 
