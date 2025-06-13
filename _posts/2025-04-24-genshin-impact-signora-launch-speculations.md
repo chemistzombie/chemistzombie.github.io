@@ -68,7 +68,7 @@ I decided to write this entire article on why Signora is very likely to be resur
 <!-- TOC -->
 
 ## Changelog
-2025-05-xx: Updated to include new information from official media and 5.7 leaks. Corrected some information.
+2025-06-16: Updated to include new information from official media and 5.7 leaks. Corrected some information.
 
 You can view the changes in the commit history of this Github Pages.
 
@@ -474,7 +474,7 @@ I found [this post](https://old.reddit.com/r/Genshin_Lore/comments/1idqbz7/53_la
 
 The fact that they not only renamed the domain's challenges to "Roaring Fire" (which makes it relevant to Signora's CWoF form, and the only domain that was renamed in 4.8), but also made a potential connection between the backstory mentioned on Lantern Rite and the domain, is incredibly suspicious, as if they're hinting that this might be relevant further down the line. Additionally, Signora's moths in her boss fight are referred to as "Crimson Lotus Moth", the Lone Butterfly was the only one of the Eight Adepts to sacrifice herself during the purification spell [according to Yun Jin](https://genshin-impact.fandom.com/wiki/Liyue_Celebrates_and_Eight_Adepts_Face_a_Hidden_Calamity), and Signora was the 8th Harbinger, so there might even be an implied connection there.
 
-It's worth noting that this might simply due to the domain's recommended element being changed from Cryo to Hydro, which isn't observed in other domains that recommended multiple elements prior to the change. However, it's still something we should pay attention to, given the relevance of the two artifact sets in here.
+It's worth noting that this might simply be due to the domain's recommended element being changed from Cryo to Hydro, which isn't observed in other domains that recommended multiple elements prior to the change. However, it's still something we should pay attention to, given the relevance of the two artifact sets in here.
 
 > Paimon: We were actually learning about the Eight Adepts earlier, but we never found out who the Three Beasts of Tao Dou were.
 > 
@@ -514,7 +514,7 @@ Related to the point above, Natlan is different in that we've yet to see the oth
 * Fontaine: Arlecchino, Childe
 * Natlan: Capitano, ???
 
-You could argue that Childe appearing in Skirk's story quest is our second Harbinger in Natlan, but that's not the case, as her SQ will take place in Liyue instead, not to mention that it's an SQ, not AQ. Act 6 of the AQ doesn't appear to feature him according to leaks, so the only logical conclusion is that this second Harbinger will show up in the Mare Jivari interlude instead, and they've very likely to be the one who takes the gnosis. Capitano, like we've mentioned previously, doesn't fit the bill because he respected the outcome of the duel and won't make any further attempts at stealing the gnosis, of which Mavuika remarked that another Harbinger will be sent to take it anyway.
+You could argue that Childe appearing in Skirk's story quest is our second Harbinger in Natlan, but that's not the case, as her SQ will take place in Liyue instead, not to mention that it's an SQ, not AQ. Act 6 of the AQ doesn't appear to feature him according to leaks, so the only logical conclusion is that this second Harbinger will show up in the Mare Jivari interlude, and they're very likely to be the one who takes the gnosis. Capitano, like we've mentioned previously, doesn't fit the bill because he respected the outcome of the duel and won't make any further attempts at stealing the gnosis, of which Mavuika remarked that another Harbinger will be sent to take it anyway.
 
 Dottore's appearance in Nod-Krai, as confirmed by the teaser in 5.7 stream, very likely eliminates the possibility of him showing up in Natlan. Arlecchino would have little reason to visit Natlan, so she is out of the question. The only two candidates would be Childe or Signora, but logically the former would have to take a while to go from Liyue to Natlan, if we assume that the SQ timeline aligns with the AQs. Having Signora would pretty much eliminate that problem as it would fit her lore hints very well while also being able to reach mainland Natlan in no time.
 
