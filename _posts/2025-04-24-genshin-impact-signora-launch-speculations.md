@@ -1,10 +1,12 @@
 ---
 layout: default
 title: "An analysis of Signora's resurrection and playability in Genshin Impact"
+description: "In this post, we explore the possible reasons why Signora will be resurrected in 5.8 and eventually become playable, while providing evidence to support them."
+image: /images/signora/cover.jpg
 ---
 <link rel="stylesheet" href="/assets/css/simplyCountdown/default.css">
 
-***Updated on 2025-06-13 to include new information from 5.6, the Nod-Krai stream, and 5.7 livestream.***
+***Updated in June to include new information from 5.6, the Nod-Krai stream, and 5.7 livestream.***
 
 After over 3 months in the making, I finally decided to post this article. I originally wanted to post this back in January during version 5.3, but work has taken most of my time, so this was eventually postponed all the way to 5.5, and just a day before the 5.6 livestream arrives. I will update this once we get further information, be it from the stream, the preload, or the upcoming 5.7 leaks.
 
@@ -68,7 +70,8 @@ I decided to write this entire article on why Signora is very likely to be resur
 <!-- TOC -->
 
 ## Changelog
-2025-06-16: Updated to include new information from official media and 5.7 leaks. Corrected some information.
+2025-06-13: Updated to include new information from official media and 5.7 leaks. Corrected some information.
+2025-06-15: Clarified some more information.
 
 You can view the changes in the commit history of this Github Pages.
 
@@ -171,17 +174,23 @@ Because of this, the Harbingers tend to be an outlier in terms of pull count and
 
 **Update:** I've done some more data analysis regarding this, and the results are promising.
 
-Here's a graph showing the global pull count vs. CN iOS banner revenue. You can tell that they closely follow each other, indicating that both CN and global communities seem to agree on which character they deem worthy of pulling.
+Here's a graph showing the global pull count vs. CN iOS banner revenue. Do note that data from 4.5 and above are unavailable as Genshin Lab has stopped keeping track of banner revenue since then. You can tell that they closely follow each other, indicating that both CN and global communities seem to agree on which character they deem worthy of pulling (click to expand).
 
-<img width="640" src="/images/signora/pullsvsrevenue.png"/>
+<div style="text-align: center;font-size:small"><a href="/images/signora/pullsvsrevenue.png"><img width="640" src="/images/signora/pullsvsrevenue.png"/></a></div>
 
 Applying the Pearson correlation to this data shows a correlation coefficient of 0.561 (p < 0.001), which means that this is a fairly strong correlation that is statistically significant. In other words, an increase of decrease in values of global pull count is followed by a similar pattern in CN banner revenue, and vice versa.
 
-Extrapolating these data to estimate the revenue for each individual character, and we find out that Wanderer sits in the 5th place, trailing behind the archons, and for some reason, Yelan rerun.
+<div style="text-align: center;font-size:small"><img width="512" src="/images/signora/pullsvsrevenue_scatterplot.png"/><br/><img src="/images/signora/pullsvsrevenue_pearson.png"/></div>
 
-<img width="640" src="/images/signora/estimatedrevenue.png"/>
+Extrapolating these data to estimate the revenue for each individual character, and we find out that Wanderer sits in the 5th place, trailing behind the archons, and for some reason, Yelan rerun. We chose versions 3.0 to 4.4 as the time range as we believe the fluctuation in player count between older and newer versions would skew the banner revenue data to favor those older versions (i.e. 1.0 to 2.8) instead, which wouldn't be representative of today's conditions.
 
-This is important because many people have claimed that Hoyo only cares about the CN playerbase, and it turns out, even with these results, it's evident that even they prefer Archons and Harbingers more than any other groups of character, save from some outliers like Yelan.
+<div style="text-align: center;font-size:small"><img width="640" src="/images/signora/estimatedrevenue.png"/></div>
+
+A possible theory on why Yelan's (and further down, Hu Tao's) banner revenues were so high in 3.4 despite them being reruns is that this is a Lantern Rite version. With people in China receiving bonuses from their jobs, it would make sense to assume that some players would spend it on crystal top-ups, thus increasing the revenue at around that time. Not to mention that they were, and still are, some of the most desirable 5-star units at the time. This is also reflected on Xianyun and Nahida's bannners in 4.4.
+
+This data also reveals that Neuvillette's banner revenue in his debut was far lower than expected in China, despite being one of the best meta DPS characters in the game, which contradicts his banner being the 3rd most popular one worldwide. Unfortunately, we don't have data for Arlecchino's banner revenue, but given how the Wanderer singlehandedly beat out most other characters aside from archons and Yelan's rerun, I'd say it's undeniable that Hoyo's marketing team would use this to present the fact that the Harbingers are easy money, and leverage the opportunity to make Signora playable.
+
+This is important because many people have claimed that Hoyo only cares about the CN playerbase, and it turns out, even with these results, it's evident that even they prefer Archons and Harbingers more than any other group of characters.
 
 While Hoyo has never publicly disclosed the game's banner revenue or number of pulls, third party data from sites like paimon.moe or genshinlab.com mostly backs this up, with Wanderer and Arlecchino being some of the most pulled characters at launch. There is a discrepancy with Tartaglia in that he's the only Harbinger that didn't outperform most other characters at launch, but this is likely caused by the fact that the meta was still not very well-established in 1.x, which led to people pulling on characters that wouldn't be as meta today, such as Klee or Venti. In addition, the banner revenues for version 1.0 is likely an outlier due to the fact that this took place during the game's initial release, and the first few weeks of a game's launch is usually its most profitable time period.
 
@@ -268,7 +277,7 @@ Taking the context of when this speech took place, we can narrow down the possib
 * Dottore is unlikely to be the undisclosed Harbinger, as he was willing to name-drop him earlier on in that paragraph.
 * Tartaglia is unlikely to count, as he has showed up quite frequently in archon quests, including his appearance in Fontaine, and events.
 * Scaramouche/Wanderer is no longer a Harbinger, so he doesn't fit these criteria.
-* Arlecchino was only recently introduced and became playable, so she's also unlikely to be this undisclosed Harbinger.
+* Arlecchino was only recently introduced and drip marketed at the time, so she's also unlikely to be this undisclosed Harbinger.
 * Capitano doesn't count as he wasn't introduced in-game until 5.0.
 * Other Harbingers who haven't been introduced at this point in time also don't count as a reunion.
 * Signora on the other hand ticks all the boxes. She's a Harbinger we've met before and died in Inazuma's archon quest, which means people won't anticipate her returning again, so for her to get resurrected and show up again would indeed be a surprising reunion.
@@ -326,7 +335,7 @@ Here's a table showing all the characters that have been released or teased sinc
 | 14 | Ayato   | Mika      | Clorinde    | Ifa       |
 | 15 | Yelan   | Baizhu    | Sigewinne   | Skirk     |
 | 16 | Shinobu | Kaveh     | Sethos      | Dahlia    |
-| 17 | Heizou  | Kirara    | Emilie      | _(N/A)_   |
+| 17 | Heizou  | Kirara    | Emilie      | **(N/A)** |
 
 To me, this suggests that Hoyo is trying to hide the 17th character from the silhouette teaser. Given how they've excluded them from there, it's probably someone we've previously encountered in-game who already has a character model. It's unlikely that this is a character whose model is yet to be seen in-game such as Durin, Xbalanque, or Xiuhcoatl as it wouldn't make sense to hide them if the players don't even know what they really look like (Xbalanque possessed Mausau's body for a day, which was only an NPC model).
 
@@ -505,7 +514,7 @@ The event's epilogue further suggests that there may be connections between Liyu
 > Beidou: If they are, then this'll be bigger than just Liyue and Natlan. I'll send word to my business partners, and keep an eye out for any similar incidents in the other nations.
 
 ### Previous regions have always had two Harbingers involved in the region's Archon Quests
-Related to the point above, Natlan is different in that we've yet to see the other Harbinger who's involved in the region; one is involved in taking the gnosis, the other isn't, You see, each region aside from Mondstadt had consistently featured two different Harbingers.
+Related to the point above, Natlan is different in that we've yet to see the other Harbinger who's involved in the region; one takes the gnosis, the other doesn't, You see, each region aside from Mondstadt had consistently featured two different Harbingers.
 
 * Mondstadt: Signora (because we hadn't been introduced to another Harbinger yet)
 * Liyue: Childe, Signora
@@ -646,7 +655,7 @@ This is by far the most damning evidence that Signora may not return in the near
 
 This is exactly why you should never trust rumor mills like this, even if they have a reputable track record in other games. For all we know, they might just be doing an asspull to gain some attention among the Genshin community while making contrarian takes, then backpedaling at every turn and disclaiming that "everything is subject to change" to save face if their rumors didn't turn out to be true. Remember, most "leakers" are in fact just rumor mills who make speculations while pretending they have insider info, and they don't know any better than the community in general.
 
-And besides, isn't it a little suspicious that they're only revealing the more notable characters people have been expecting to become playable the most, but *not* any unfamiliar names that possibly belong to the new factions such as the Lightkeepers, the Frostmoon Scions, the Voynich Guild, or the Wild Hunt? To me, it sounds like a classic example of rumor mills giving us speculations that most people want to hear, regardless if it's true or not. When Natlan's character roster was leaked, it was initially flaired as a suspicious leak but ended up becoming 100% true all along, and they all have unfamiliar names, aside from Iansan which had been revealed in the Travail teaser. Also, remember all the leaks about Columbina being playable in 5.x or how Madame Ping will be the 5-star character in Lantern Rite? Yeah, that never happened alright.
+And besides, isn't it a little suspicious that they're only revealing the more notable characters people have been expecting to become playable the most, but *not* any unfamiliar names that possibly belong to the new factions such as the Lightkeepers, the Frostmoon Scions, the Voynich Guild, or the Wild Hunt? To me, it sounds like a classic example of rumor mills giving us speculations that most people want to hear, regardless if it's true or not. When Natlan's character roster was [leaked](https://old.reddit.com/r/Genshin_Impact_Leaks/comments/1dw0o3s/sussy_list_of_natlan_characters_and_their/), it was initially flaired as a suspicious leak but ended up becoming 100% true all along, and they all have unfamiliar names, aside from Iansan which had been revealed in the Travail teaser. Also, remember all the leaks about Columbina being playable in 5.x or how Madame Ping will be the 5-star character in Lantern Rite? Yeah, that never happened alright.
 
 All I can say is, just ignore the noise. There's a good chance that they're just pulling things out of their asses, and Signora mains are on the right track all along.
 
