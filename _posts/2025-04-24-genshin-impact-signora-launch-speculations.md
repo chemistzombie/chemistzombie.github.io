@@ -71,7 +71,10 @@ I decided to write this entire article on why Signora is very likely to be resur
 
 ## Changelog
 2025-06-13: Updated to include new information from official media and 5.7 leaks. Corrected some information.
+
 2025-06-15: Clarified some more information.
+
+2025-06-17: Last-minute addition including the confirmation of characters requiring a vision, which Signora suspiciously doesn't need.
 
 You can view the changes in the commit history of this Github Pages.
 
@@ -91,7 +94,7 @@ But then I dug deeper and [found out](https://old.reddit.com/r/SubredditDrama/co
 I was a lurker at first, because I find it disturbing that Signora mains are being actively harassed almost every day, even in their own subreddit, which just shows how petty some of these people can be. But I decided to finally speak up by posting this, because looking through posts over the last few months regarding her, there's a clear trend that the expectations for her return is at an all-time low, even on subreddits like r/FatuiHQ where there's a strong bias towards people wanting all Harbingers to be playable.
 
 ## Disclaimer
-While I strive to check for factual accuracy whenever possible, the content in this post is an opinion piece that is mostly speculations and educated guesses, with evidences backing them. Do not harass any specific character mains or members of the community over this resurrection debacle. I do not tolerate those who make fun of anyone who just wanted to enjoy the game and play as the characters they want, and this includes some Signora fans who harass other communities. Keep it civil, because even a single bad apple ruins the bunch.
+The content of this post is for entertainment and informational purposes only. While I strive to check for factual accuracy whenever possible, the content in this post is an opinion piece that is mostly speculations and educated guesses, with evidences backing them. Do not harass any specific character mains or members of the community over this resurrection debacle. I do not tolerate those who make fun of anyone who just wanted to enjoy the game and play as the characters they want, and this includes some Signora fans who harass other communities. Keep it civil, because even a single bad apple ruins the bunch.
 
 ## Important countdowns and count-ups
 Here's a selection of milestone countdowns and count-ups for Signora, just to let you know how much time has passed, and how much time is left to expect for any news regarding her potential return in the near future.
@@ -186,13 +189,13 @@ Extrapolating these data to estimate the revenue for each individual character, 
 
 <div style="text-align: center;font-size:small"><img width="640" src="/images/signora/estimatedrevenue.png"/></div>
 
-A possible theory on why Yelan's (and further down, Hu Tao's) banner revenues were so high in 3.4 despite them being reruns is that this is a Lantern Rite version. With people in China receiving bonuses from their jobs, it would make sense to assume that some players would spend it on crystal top-ups, thus increasing the revenue at around that time. Not to mention that they were, and still are, some of the most desirable 5-star units at the time. This is also reflected on Xianyun and Nahida's bannners in 4.4.
+A possible theory on why Yelan's (and further down, Hu Tao's) banner revenues were so high in 3.4 despite them being reruns is that this was a Lantern Rite version. With people in China receiving bonuses from their jobs, it would make sense to assume that some players would spend it on crystal top-ups, thus increasing the revenue at around that time. Not to mention that they were, and still are, some of the most desirable 5-star units at the time. This is also reflected on Xianyun and Nahida's bannners in 4.4.
 
 This data also reveals that Neuvillette's banner revenue in his debut was far lower than expected in China, despite being one of the best meta DPS characters in the game, which contradicts his banner being the 3rd most popular one worldwide. Unfortunately, we don't have data for Arlecchino's banner revenue, but given how the Wanderer singlehandedly beat out most other characters aside from archons and Yelan's rerun, I'd say it's undeniable that Hoyo's marketing team would use this to present the fact that the Harbingers are easy money, and leverage the opportunity to make Signora playable.
 
 This is important because many people have claimed that Hoyo only cares about the CN playerbase, and it turns out, even with these results, it's evident that even they prefer Archons and Harbingers more than any other group of characters.
 
-While Hoyo has never publicly disclosed the game's banner revenue or number of pulls, third party data from sites like paimon.moe or genshinlab.com mostly backs this up, with Wanderer and Arlecchino being some of the most pulled characters at launch. There is a discrepancy with Tartaglia in that he's the only Harbinger that didn't outperform most other characters at launch, but this is likely caused by the fact that the meta was still not very well-established in 1.x, which led to people pulling on characters that wouldn't be as meta today, such as Klee or Venti. In addition, the banner revenues for version 1.0 is likely an outlier due to the fact that this took place during the game's initial release, and the first few weeks of a game's launch is usually its most profitable time period.
+While Hoyo has never publicly disclosed the game's banner revenue or number of pulls, third party data from sites like paimon.moe or genshinlab.com as shown above mostly backs this up, with Wanderer and Arlecchino being some of the most pulled characters in their debut. There is a discrepancy with Tartaglia in that he's the only Harbinger that didn't outperform most other characters in his debut, but this is likely caused by the fact that the meta was still not very well-established in 1.x, which led to people pulling on characters that wouldn't be as meta today, such as Klee or Venti. In addition, the banner revenues for version 1.0 is likely an outlier due to the fact that this took place during the game's initial release, and the first few weeks of a game's launch is usually its most profitable time period.
 
 Do note that the data may not be representative, especially with paimon.moe, as these are just from the people who were willing to submit their pull history in there. However, as a general approximation of how popular a character is, I think this is still a reasonable metric to use due to the sheer sample size alone.
 
@@ -299,7 +302,42 @@ This also helps with the "wow" factor of the Harbingers. If they were to release
 
 As an aside, a potentially effective strategy to do this would be to release Signora in Natlan, Dottore in Nod-Krai (because he was mentioned by Mavuika in the epilogue), Columbina in Snezhnaya (a widely anticipated Harbinger), and Capitano and Pierro in Khaenriah (which fits the former's constellation of "three nails", in which he gets resurrected after 3 regions, plus the fact they both hail from Khaenriah). This ensures that the sought-after Harbingers are distributed evenly across regions while also not introducing any new Harbingers in Natlan long after the main AQ had ended. This also aligns with the order of popularity in the [unofficial Harbingers poll](https://www.hoyolab.com/article/36240358) asking which Harbinger the players would like to be playable next, with Dottore being the 3rd, Columbina being the 2nd, and Capitano being the most popular choice, allowing them to save the best for last.
 
-_**Update:** The devs have confirmed that Nod-Krai was designed to be a region intended to tie up loose ends, and the Fatui is strongly implied to be heavily involved in there, due to their prominence in marketing materials, including the stream itself_
+_**Update:** The devs have confirmed that Nod-Krai was designed to be a region intended to tie up loose ends, and the Fatui is strongly implied to be heavily involved in there, due to their prominence in marketing materials, including the stream itself._
+
+### The placement of "About the Fair Lady" voice lines in the playable Harbingers' voice lines and Arlecchino's "pity-baiting"
+There's something off about the placement of "About the Fair Lady" voice lines in each of the playable Harbingers when compared to other Harbingers. Those Harbingers are sorted by their ranking, except for Signora. In the case of Childe and Wanderer, the voice lines are placed at the bottom. Childe does have a line about Scaramouche, but it was also suspiciously placed below Signora's (which is already at the bottom), and disappears after you've completed the Irminsul interlude, which strongly suggests this type of odd placement could be a foreshadowing for Signora's future role.
+
+These two characters are the characters who are either dismissive or outright scornful, viewing her as an afterthought as she was removed from the ranks of the Harbingers.
+
+Childe:
+> I never got along with her, you know that. I guess there's not much more worth saying about her at this point. When you're a harbinger, you have to accept that death could come at any time... But don't worry about me. No matter what happens, I'll do whatever it takes to keep myself alive.
+
+Wanderer:
+> Nothing remained in her ashes. I have no interest in those who have lost their future.
+
+However, when it comes to Arlecchino, her voice line placement is still out of order, but she's no longer at the bottom, instead sitting between Pantalone (9th) and Childe (11th), and she's the only playable Harbinger who expressed empathy for her:
+> She and Pierro were the first Harbingers I became acquainted with. Her prideful attitude when she first visited the House of the Hearth failed to earn her many friends among the children. Subsequent visits were accompanied by gifts and the stately claim that 'those who dislike me shall receive none.' The children quickly learned how to play pretend, and she in turn basked in their attention, superficial though it may have been. I imagine she quite enjoyed being surrounded by children, perhaps due to the persistent loneliness that plagued her... I found her sacrifice to be a great shame. May she be reunited with her lover in death.
+
+This level of empathy is quite suspicious, considering Arlecchino's ruthless personality. She's willing to attack the Tsaritsa if their paths diverged, and she expresses hatred for Dottore for experimenting on her "children". Out of all her "About character" voice lines with her fellow Harbingers and the Tsaritsa, Capitano and Columbina are viewed in a neutral manner, and Signora is the only one she viewed in a more positive, empathetic light.
+
+Signora mains have noticed this, and argues that you don't just "pity-bait" a character like this years after the fact, especially when the character who pity-baits her is known to be pragmatic and ruthless. A tonal shift like this just screams "The villain you thought you knew was more complex and tragic than you were shown." Hoyo seems to have changed their sentiment with Signora to prepare for her future playability, in order to get players to realize that she's more of a tragic figure who appears to be arrogant from the outside as a coping mechanism for her loneliness.
+
+The way that she's placed in the 10th place between Pantalone and Childe instad of at the bottom unlike other playable Harbingers is also suspicious, because the 10th seat just happens to be empty, and this might be a very subtle hint that she was moved from an "irrelevant" character (at the bottom) to a "potentially playable" character (placed between the active Harbingers). And remember, this placement is only found in Arlecchino, a character who views Signora in a more positive light compared to her fellow Harbingers, unlike Childe and Wanderer who just pretty much ignored her.
+
+Like I've said, Scaramouche being placed below Signora's line in Childe's VOs appears to be a foreshadowing for his future playability in 3.3, because those lines were added in 2.8, so Hoyo might be implying that her Harbinger status will be reinstated in the future as she was revived and became playable, albeit sitting in the 10th place rather than the 8th, possibly to acknowledge her "death" and changed status while allowing for her return. However, we still need to wait until more Harbingers become playable to confirm this isn't just a fluke.
+
+### Elemental powers normally require a vision to use, which Signora doesn't have (plot hole)
+One weird thing about Signora is that unlike most characters in Teyvat, she doesn't require a vision to unleash her pyro powers, akin to the Traveler or Skirk, both of which are from another world. Nonetheless, how she managed to accomplish it isn't elaborated on. This creates a plot hole where we only know that she didn't appear to have any elemental poewrs pre-cataclysm but suddenly managed to gain it and transformed into the CWOF post-cataclysm.
+
+Albedo, in his SQ, explicitly says that using the elements requires a vision:
+
+> The subject of my first research was the elements. In this world, manipulating the elements requires a Vision, though I can't see anything resembling one on your person.
+
+One of Skirk's voice lines as of the preload reinforces this:
+
+> Master taught me how to wield the power of the Abyss, and from surviving Khaenri'ahn research, I learned how to channel that power and make it mimic the elemental energy of Teyvat. The fact that you and I don't need a Vision to use the elements implies that our aspirations do not require the approval of the gods.
+
+This strongly implies that Signora is either not a normal human being or managed to use knowledge that was lost to time, presumably something from Khaenriah or maybe even the moon powers, if Nod-Krai gives us any indication. The fact that this isn't elaborated on simply leaves a gaping hole in the plot that desperately needs to be addressed at some point in the future.
 
 ## Why Signora may be resurrected in Natlan
 Here comes the juicy part, the one you're probably looking for. I've made some observations and found some interesting things that may hint towards her revival in Natlan.
@@ -433,11 +471,11 @@ It's possible that **Signora will become playable in 5.8**, which will be on 30 
 
 _This ended up being the correct outcome, at least at the time this update was posted._
 
-This is the most likely possibility, given what we know so far about the Mondstadt prelude, and how the first two scenarios have the same flaw in that Albedo has canonically said that "[Scara's] fates are now intertwined". Like I've mentioned earlier, it would be weird to do a Mondstadt-related plot in Natlan as the two have little connections with each other, and resurrecting Durin does not address the issue of how the Harbingers will steal the Pyro gnosis.
+This is the most likely possibility, given what happened in the Mondstadt interlude, and how the first two scenarios have the same flaw in that Albedo has canonically said that "[Scara's] fates are now intertwined". Like I've mentioned earlier, it would be weird to do a Mondstadt-related plot in Natlan as the two have little connections with each other, and resurrecting Durin does not address the issue of how the Harbingers will steal the Pyro gnosis, not to mention that it was a _Mondstadt_ resurrection, not a _Natlan_ resurrection.
 
-In this scenario, Mondstadt prelude continues the trajectory of the Act 3 of the Mondstadt prologue, with its own storyline separate from Natlan's. On the other hand, Natlan's storyline after Act 5 is followed by Act 6, which is Dainsleif's act, and then the Mare Jivari interlude chapter.
+Mondstadt interlude continues the trajectory of the Act 3 of the Mondstadt prologue, with its own storyline separate from Natlan's. On the other hand, Natlan's storyline after Act 5 is followed by Act 6, which is Dainsleif's act, and then the Mare Jivari interlude chapter.
 
-Now, releasing 3 consecutive acts like this over the span of 2-3 versions after the main Natlan AQ has concluded might seem a little awkward, but they've done this before back in 2.x. [Interlude Act 1](https://genshin-impact.fandom.com/wiki/The_Crane_Returns_on_the_Wind) (Jade Chamber) was released in 2.4, followed by [Dainsleif act](https://genshin-impact.fandom.com/wiki/Requiem_of_the_Echoing_Depths) in 2.6, and [Interlude Act 2](https://genshin-impact.fandom.com/wiki/Perilous_Trail) (The Chasm) in 2.7. Similarly, they could release the Mondstadt prelude in 5.6, followed by Dainsleif act in 5.7, and Mare Jivari interlude in ~~either 5.7 or~~ 5.8. 
+Now, releasing 3 consecutive acts like this over the span of 2-3 versions after the main Natlan AQ has concluded might seem a little awkward, but they've done this before back in 2.x. [Interlude Act 1](https://genshin-impact.fandom.com/wiki/The_Crane_Returns_on_the_Wind) (Jade Chamber) was released in 2.4, followed by [Dainsleif act](https://genshin-impact.fandom.com/wiki/Requiem_of_the_Echoing_Depths) in 2.6, and [Interlude Act 2](https://genshin-impact.fandom.com/wiki/Perilous_Trail) (The Chasm) in 2.7. Similarly, they could release the Mondstadt prelude in 5.6, followed by Dainsleif act in 5.7, and Mare Jivari interlude in 5.8. 
 
 This way, they could resolve the parallels between Simulanka's and Teyvat's Durin while not interfering with Natlan's resurrection and the Harbingers' gnosis heist.
 
@@ -577,7 +615,7 @@ Consider:
 * The 5.0 livestream and the host mentioning that "could it be that a deceased character will come back to life?", which is such a bold statement to make that it's almost guaranteed that it will come true, lest they'd be hit by false advertising lawsuits in China.
 * The fact that no one was actually resurrected in Natlan's main Archon Quest despite making such a significant statement. This is our first red herring, in that they wanted to erode people's belief that someone will get resurrected, as many will be quick to assume that they are unlikely to pull a resurrection plot in an interlude chapter.
 * Capitano's death that serves as a way to shake up people's faith in Signora's resurrection. This is our second red herring: kill off a character that's just as hyped (and the highest-ranking Harbinger at that) to further wear down the community's optimism in her revival.
-* Durin's lore exploration in 5.6 when the leaked characters that will be involved are only Mini Durin and the Hexenzirkel, with no real Durin or Wanderer in sight. This is our third red herring, in that they introduce a character in the near future that was speculated to be resurrected according to what unfolded in a recent event.
+* Durin's "revival" in 5.6 which is really more like a soul swap between Mini Durin and Durin, and with no Wanderer in sight despite him being hinted in the Simulanka event to be an important character who takes care of Mini Durin. This is our third red herring, in that the resurrection wasn't actually a real resurrection, and the fact that this all took place in Mondstadt, which makes it a Mondstadt resurrection, not a Natlan resurrection.
 * The gnosis hasn't been stolen yet which implies that a Harbinger WILL steal it in the future. I believe this is a hint that implies Signora mains shouldn't follow all the red herrings I've mentioned earlier.
 * The missing 17th character and the existence of v5.8, which is another hint that nothing is just as it seems.
 
