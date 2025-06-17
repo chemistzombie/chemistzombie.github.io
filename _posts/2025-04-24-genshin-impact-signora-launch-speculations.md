@@ -43,6 +43,8 @@ I decided to write this entire article on why Signora is very likely to be resur
     * [Her unmasked face has never been revealed](#her-unmasked-face-has-never-been-revealed)
     * [Xiao Luohao's alleged statement of a "surprising reunion with a Harbinger"](#xiao-luohaos-alleged-statement-of-a-surprising-reunion-with-a-harbinger)
     * [The addition of Nod-Krai as a mid-lifecycle region might be their way of releasing the rest of the Harbingers without lumping them all in Snezhnaya or Khaenriah](#the-addition-of-nod-krai-as-a-mid-lifecycle-region-might-be-their-way-of-releasing-the-rest-of-the-harbingers-without-lumping-them-all-in-snezhnaya-or-khaenriah)
+    * [The placement of "About the Fair Lady" voice lines in the playable Harbingers' voice lines and Arlecchino's "pity-baiting"](#the-placement-of-about-the-fair-lady-voice-lines-in-the-playable-harbingers-voice-lines-and-arlecchinos-pity-baiting)
+    * [Elemental powers normally require a vision to use, which Signora doesn't have (plot hole)](#elemental-powers-normally-require-a-vision-to-use-which-signora-doesnt-have-plot-hole)
   * [Why Signora may be resurrected in Natlan](#why-signora-may-be-resurrected-in-natlan)
     * [The undisclosed 17th playable character and the existence of version 5.8](#the-undisclosed-17th-playable-character-and-the-existence-of-version-58)
     * [They have been teasing us about resurrection several times, but the resurrection has yet to happen, the gnosis is still in Mavuika's possession, and Mare Jivari hasn't been released yet](#they-have-been-teasing-us-about-resurrection-several-times-but-the-resurrection-has-yet-to-happen-the-gnosis-is-still-in-mavuikas-possession-and-mare-jivari-hasnt-been-released-yet)
