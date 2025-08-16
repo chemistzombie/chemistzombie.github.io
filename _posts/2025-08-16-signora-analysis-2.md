@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Signora analysis part 2: Figuring out their original intent on what to do with her"
-description: "In this post, I analyze the intent of adding Signora into the game as the first Harbinger the player encountered and why they would decide to kill her so early. Could this have been planned all along since the beginning?"
-image: /images/signora/cover.jpg
+title: "Signora analysis part 2: Was Signora ever meant to be playable? An investigation into Genshin's beta assets"
+description: "This analysis dives deep into Genshin Impact's closed beta files to answer a burning question: Was Signora's shocking death a last-minute decision or part of the developers' plan all along?"
+image: /images/signora/cover_cbt3.jpg
 ---
 This will be a brief article before I post another analysis of the lack of Signora's return in 5.8 and why I still believe she will return in the full release of Mare Jivari or Snezhnaya.
 
