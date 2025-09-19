@@ -9,7 +9,7 @@ Okay, so 6.0 is out, and I admit I was wrong about Signora being playable in 5.8
 
 If you haven't seen the last two posts yet, then you should check [part 1](https://chemistzombie.github.io/2025/04/24/genshin-impact-signora-launch-speculations.html) and [part 2](https://chemistzombie.github.io/2025/08/16/signora-analysis-2.html), as they both give some context for this one. This post simply expands on part 1 as it was becoming too long, and some of the arguments in there are no longer valid.
 
-## Table of contents
+<h2>Table of contents</h2>
 <!-- TOC -->
   * [Why I'm still certain that Signora will be playable](#why-im-still-certain-that-signora-will-be-playable)
     * [She finally received an official merchandise after 4 years](#she-finally-received-an-official-merchandise-after-4-years)
@@ -22,7 +22,7 @@ If you haven't seen the last two posts yet, then you should check [part 1](https
     * [Columbina's and Sandrone's release might be intended to test the waters before releasing Signora](#columbinas-and-sandrones-release-might-be-intended-to-test-the-waters-before-releasing-signora)
     * [Character design, kits, and playability are not set in stone](#character-design-kits-and-playability-are-not-set-in-stone)
   * [Speculations that may or may not be related to Signora](#speculations-that-may-or-may-not-be-related-to-signora)
-    * [The similarities between the symbol and the Eroded Sunfire](#the-similarities-between-the-symbol-and-the-eroded-sunfire)
+    * [The similarities between the symbol in her boss fight and the Eroded Sunfire](#the-similarities-between-the-symbol-in-her-boss-fight-and-the-eroded-sunfire)
     * ["Ruzicka" being mentioned in a 3.6 event](#ruzicka-being-mentioned-in-a-36-event)
   * [Analogies to help people understand the reality of business strategies](#analogies-to-help-people-understand-the-reality-of-business-strategies)
     * [The BMW M1 analogy](#the-bmw-m1-analogy)
@@ -228,7 +228,7 @@ I'd like to put  this here because I feel like the detractors who argue against 
 ### The BMW M1 analogy
 I saw a video about the BMW M1 and how it was a commercial failure despite being widely praised by critics, and I think this is a great analogy for the biggest flaw with the detractors' argument of "Signora should stay dead and people should move on".
 
-<iframe width="640" height="360" src="https://youtube.com/embed/hK5KkOC-8Vc?start=777" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="text-align: center;font-size:small"><iframe width="640" height="360" src="https://youtube.com/embed/hK5KkOC-8Vc?start=777" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 At 12:57, the host said "the M1 was, despite its good looks, its supercar provenance, its spectacular performance, good build quality, and universal praise, a failure", and that "people don't actually want to drive a race car on the road. What the people want is cars with a hint of Motorsport, and all it takes is some extra power here, a spoiler over there, and a couple M-badges... and then people open their wallets and pay through the nose for nothing more than a glorified sport package". "BMW isn't in business to make cars. BMW is in business to make money."
 
