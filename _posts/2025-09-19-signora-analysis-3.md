@@ -9,6 +9,7 @@ Okay, so 6.0 is out, and I admit I was wrong about Signora being playable in 5.8
 
 If you haven't seen the last two posts yet, then you should check [part 1](https://chemistzombie.github.io/2025/04/24/genshin-impact-signora-launch-speculations.html) and [part 2](https://chemistzombie.github.io/2025/08/16/signora-analysis-2.html), as they both give some context for this one. This post simply expands on part 1 as it was becoming too long, and some of the arguments in there are no longer valid.
 
+## Table of contents
 <!-- TOC -->
   * [Why I'm still certain that Signora will be playable](#why-im-still-certain-that-signora-will-be-playable)
     * [She finally received an official merchandise after 4 years](#she-finally-received-an-official-merchandise-after-4-years)
@@ -100,7 +101,7 @@ In [one of the Selenic Chronicles](https://genshin-impact.fandom.com/wiki/Her_Pa
 > 
 > **Traveler:** Don't mention it...
 
-This is important, because unlike the other two Harbingers she mentioned in the previous line (Arlecchino and Sandrone), she mentioned Signora by her *real name*, Rosalyne. You see, the Harbingers are usually introduced and referred to by their codenames, because that's what reinforces their role as the Harbingers, not as vulnerable human beings. Using her true name like this is a deliberate narrative reframing device, as it strips away the intimidating Harbinger persona and instead humanizes her as _the woman behind the mask_. Pair that with the pity-baiting tone, and it’s essentially Hoyo nudging the audience to empathize with her on a personal level, not just as a villain archetype.
+This is important, because unlike the other two Harbingers she mentioned (Arlecchino and Sandrone), she mentioned Signora by her *real name*, Rosalyne. You see, the Harbingers are usually introduced and referred to by their codenames, because that's what reinforces their role as the Harbingers, not as vulnerable human beings. Using her true name like this is a deliberate narrative reframing device, as it strips away the intimidating Harbinger persona and instead humanizes her as _the woman behind the mask_. Also, notice how she still seems to be shaken by her death, as evidenced by her pausing and telling the MC to give her their hand before mentioning Rosalyne. That's a clear sign of pity-baiting, and it’s essentially Hoyo nudging the audience to empathize with her on a personal level, not just as a villain archetype.
 
 After the huge blunder they did with Signora, Hoyo seems to have developed a formula on how to turn "morally grey" characters into sympathetic, playable ones:
 1. **Antagonistic Introduction:** Each of these characters is first positioned as a threat or obstacle to the MC or their allies. At first, the player is meant to view them with suspicion or fear.
@@ -177,7 +178,7 @@ While we didn't get any new playable Harbingers in 5.x, we're still able to look
 
 When including debut banners, it might seem as if her pull count wasn't really all that great, only sitting at the 9th place, and trailing behind Furina's rerun. However, do note that those two banners were the *only* rerun banners that made it to the top 10, so that's still quite an impressive feat.
 
-Howver, if we filter this to *only* include reruns, then Arlecchino sits at an impressively high 2nd place, leaving the rest of the top 10 behind except for Neuvillette, and was far more frequently pulled than even Mavuika's rerun. This is surprising, considering how Archon reruns are typically highly anticipated, as evidenced by how many people are still pulling for Furina on her 2nd rerun, and it shows that Mavuika might have flopped after her debut.
+However, if we filter this to *only* include reruns, then Arlecchino sits at an impressively high 2nd place, leaving the rest of the top 10 behind except for Neuvillette, and was far more frequently pulled than even Mavuika's rerun. This is surprising, considering how Archon reruns are typically highly anticipated, as evidenced by how many people are still pulling for Furina on her 2nd rerun, and it shows that Mavuika might have flopped after her debut.
 
 This is another evidence that the Harbingers are highly desirable among the community, and by leaving Signora unplayable, they're likely to miss out on potentially massive banner revenues, both in the short-term (her debut), and long-term (her subsequent reruns).
 
@@ -195,7 +196,7 @@ Also, by making it seem like they're releasing all the female Harbingers but Sig
 ### Character design, kits, and playability are not set in stone
 One of the arguments that are frequently thrown by Signora detractors is that Hoyo is unlikely to change their mind when it comes to kits and playability. However, I'd like to once again emphasize that business plans are usually not set in stone, and if they feel like they could make some changes to improve their product or profits, they would absolutely do that. There's evidence that proves this:
 
-* Xiayun didn't have a playable model at first, only as a crane NPC, but she became playable anyway (explained in part 1)
+* Xianyun didn't have a playable model at first, only as a crane NPC, but she became playable anyway (explained in part 1)
 * Clipping is not an issue, and even if it was, they could just alter the model slightly to fix such problems, as evidenced by Baizhu's and Skirk's playable models having slight adjustments, and even some characters that were leaked in the game's prerelease closed betas (CBTs) and dev builds were different from the final version.
 * The weapons and kits used by some characters were changed between the closed beta tests (CBTs) and final release:
   * Albedo was originally a bow character.
@@ -203,12 +204,12 @@ One of the arguments that are frequently thrown by Signora detractors is that Ho
   * Yaoyao was originally a catalyst character.
   * Xingqiu was originally a Cryo character.
   * Ganyu was originally a 4\* character.
-  * And in the case of post-launch characters, Chasca was originally a Cryo character according to one of the promo images before they changed her to Anemo.
+  * And in a more recent case, Chasca was originally a Cryo character according to one of the promo images before they changed her to Anemo.
   
   For more information, check out TCRF's [Genshin prototype](https://tcrf.net/Proto:Genshin_Impact) pages.
 
 ## Speculations that may or may not be related to Signora
-### The similarities between the symbol and the Eroded Sunfire
+### The similarities between the symbol in her boss fight and the Eroded Sunfire
 Some people have [noticed](https://old.reddit.com/r/SignoraMains/comments/1mt8epq/lets_not_forget_about_this/) that the symbol that shows up when you try to one-shot Signora in the first phase looks fairly similar to the weapon held by the Lord of Eroded Primal Fire, and by extension, the Eroded Sunfire item. This symbol is unique to this boss fight, and it's currently unknown if this is related to anything. It also looks different from the Harbinger logo. However, its shape does bear some similarities to the aforementioned Eroded Sunfire, albeit not completely (the circle at the center is missing).
 <div style="text-align: center;font-size:small"><img width="256" src="/images/signora/antioneshot.jpg"/><img width="256" src="/images/signora/Item_Eroded_Sunfire.png"/><br />Left: the symbol on the ground if you try to one-shot Signora in her boss fight. Right: Eroded Sunfire icon</div>
 
@@ -219,7 +220,7 @@ This is an older theory that's worth mentioning simply because most people have 
 
 [Cyrus](https://genshin-impact.fandom.com/wiki/Cyrus_(Sumeru)) refers to an NPC in Sumeru which is a retired Akademiya professor. Lisa and Cyno are obviously the playable characters, but who is Ruzicka? She doesn't appear to correspond to any NPCs in the game, and was only mentioned in this event dialogue and never again. This is suspicious, because [Růžička](https://en.wikipedia.org/wiki/R%C5%AF%C5%BEi%C4%8Dka) means "little rose" in Czech. And guess what Rosalyne means? That's right, "beautiful rose". Ruzicka also sounds a bit like an abbreviated form of **Ros**alyne-Kruz**chka**. Then there's also the fact that Signora studied at the Akademiya prior to her Crimson Witch transformation, so this may or may not be a subtle hint of Signora under a different name.
 
-They can't just name-drop Rosalyne because that would've been way too obvious, so they settled with Ruzicka as a nod to her, in order to minimize suspicion and get people to shrug it off and not to think too hard about it.
+If this really refers to Signora, then they can't just name-drop Rosalyne because that would've been way too obvious, so they settled with Ruzicka as a nod to her, in order to minimize suspicion and get people to shrug it off and not to think too hard about it.
 
 ## Analogies to help people understand the reality of business strategies
 I'd like to put  this here because I feel like the detractors who argue against Signora's return don't get how marketing actually works. I'm not expecting them to change or anything, but it's evident that they only rely on the low-hanging fruits like "she's turned into ashes" or "her death was deserved because she kicked Venti" rather than looking at how businesses work and the workplace politics surrounding them. Companies spend millions or even billions of dollars on marketing to ensure their product sells, and Hoyo is no exception. If they deem a past strategy to be a failure or unsustainable, they will pivot and change course to one that's more likely to be successful. Expecting Hoyo to stay true to their original plans is unrealistic from a financial perspective, and their marketing department is unlikely to keep this decision forever when there's an overwhelming amount of data that suggests this is a bad business move.
@@ -270,4 +271,4 @@ I'm personally willing to get Columbina and Sandrone's constellations/signature 
 ## Conclusion: They're setting the stage for her playability
 With all the new evidence that has surfaced so far, Signora's release is no longer a matter of *if*, but *when*. My prediction? Either 2026 in 6.x with the release of Mare Jivari, or 2027 in 7.x with Snezhnaya, maybe with her literally busting that coffin open and making a huge reveal. The fact that they're making her the most sought-after item in the Harbinger blind box, along with further evidence of pity-baiting, means that they're slowly bringing her back into relevance and trying to get people to talk about her more often, in order to build up hype and anticipation for her launch.
 
-It's honestly quite amazing to finally start seeing the light at the end of the tunnel, and I really hope her eventual resurrection would be one of Genshit's peak moments, finally silencing all the detractors for good, and maybe even get some of them to apologize for harassing Signora mains.
+It's honestly quite amazing to finally start seeing the light at the end of the tunnel, and I really hope her eventual resurrection would be one of Genshin's peak moments, finally silencing all the detractors for good, and maybe even get some of them to apologize for harassing Signora mains.
