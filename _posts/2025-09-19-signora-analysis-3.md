@@ -9,6 +9,27 @@ Okay, so 6.0 is out, and I admit I was wrong about Signora being playable in 5.8
 
 If you haven't seen the last two posts yet, then you should check [part 1](https://chemistzombie.github.io/2025/04/24/genshin-impact-signora-launch-speculations.html) and [part 2](https://chemistzombie.github.io/2025/08/16/signora-analysis-2.html), as they both give some context for this one. This post simply expands on part 1 as it was becoming too long, and some of the arguments in there are no longer valid.
 
+<!-- TOC -->
+  * [Why I'm still certain that Signora will be playable](#why-im-still-certain-that-signora-will-be-playable)
+    * [She finally received an official merchandise after 4 years](#she-finally-received-an-official-merchandise-after-4-years)
+    * [She was mentioned by Columbina in one of the voiced quests](#she-was-mentioned-by-columbina-in-one-of-the-voiced-quests)
+    * [We only got a glimpse of Mare Jivari in 5.8](#we-only-got-a-glimpse-of-mare-jivari-in-58)
+    * [The Pyro gnosis still hasn't been stolen yet](#the-pyro-gnosis-still-hasnt-been-stolen-yet)
+    * [There are two unknown IDs that don't belong to anyone in 6.x](#there-are-two-unknown-ids-that-dont-belong-to-anyone-in-6x)
+    * [Signora being irrelevant to the story means nothing](#signora-being-irrelevant-to-the-story-means-nothing)
+    * [Arlecchino's rerun in 5.3 was quite popular, even outperforming Mavuika's rerun](#arlecchinos-rerun-in-53-was-quite-popular-even-outperforming-mavuikas-rerun)
+    * [Columbina's and Sandrone's release might be intended to test the waters before releasing Signora](#columbinas-and-sandrones-release-might-be-intended-to-test-the-waters-before-releasing-signora)
+    * [Character design, kits, and playability are not set in stone](#character-design-kits-and-playability-are-not-set-in-stone)
+  * [Speculations that may or may not be related to Signora](#speculations-that-may-or-may-not-be-related-to-signora)
+    * [The similarities between the symbol and the Eroded Sunfire](#the-similarities-between-the-symbol-and-the-eroded-sunfire)
+    * ["Ruzicka" being mentioned in a 3.6 event](#ruzicka-being-mentioned-in-a-36-event)
+  * [Analogies to help people understand the reality of business strategies](#analogies-to-help-people-understand-the-reality-of-business-strategies)
+    * [The BMW M1 analogy](#the-bmw-m1-analogy)
+    * [The compact phone analogy](#the-compact-phone-analogy)
+  * [Vote with your wallet](#vote-with-your-wallet)
+  * [Conclusion: They're setting the stage for her playability](#conclusion-theyre-setting-the-stage-for-her-playability)
+<!-- TOC -->
+
 ## Why I'm still certain that Signora will be playable
 ### She finally received an official merchandise after 4 years
 This is probably the biggest argument for her imminent playability. Recently, Hoyo announced that they'll be releasing a Harbinger mini figure blind box in China, which includes her as part of the collectable set, so this means that this is her first official merch that's released a whopping 4 years after she was executed in Inazuma, and what's interesting is [the details](https://old.reddit.com/r/SignoraMains/comments/1ndkae2/is_it_a_bad_thing_or_a_great_sign/) for this specific merch. Here's the product info, along with machine translations from Google Translate and ChatGPT:
