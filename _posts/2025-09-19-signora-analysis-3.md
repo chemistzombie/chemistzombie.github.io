@@ -33,13 +33,19 @@ If you haven't seen the last two posts yet, then you should check [part 1](https
 
 ## Why I'm still certain that Signora will be playable
 ### She finally received an official merchandise after 4 years
-This is probably the biggest argument for her imminent playability. Recently, Hoyo announced that they'll be releasing a Harbinger mini figure blind box in China, which includes her as part of the collectable set, so this means that this is her first official merch that's released a whopping 4 years after she was executed in Inazuma, and what's interesting is [the details](https://old.reddit.com/r/SignoraMains/comments/1ndkae2/is_it_a_bad_thing_or_a_great_sign/) for this specific merch. Here's the product info, along with machine translations from Google Translate and ChatGPT:
+This is probably the biggest argument for her imminent playability. Recently, Hoyo announced that they'll be releasing a Harbinger chibi figure blind box in China, which includes her as part of the collectable set, so this means that this is her first official merch that's released a whopping 4 years after she was executed in Inazuma, and what's interesting is [the details](https://old.reddit.com/r/SignoraMains/comments/1ndkae2/is_it_a_bad_thing_or_a_great_sign/) for this specific merch. Here's the product info, along with machine translations from Google Translate and ChatGPT:
 
-<div style="text-align: center;font-size:small"><img width="384" src="/images/signora/blindboxchibi.jpg"/><br />All the possible mini figures from the blind box</div>
+<div style="text-align: center;font-size:small"><img width="384" src="/images/signora/blindboxchibi.jpg"/><br />All the possible chibi figures from the blind box</div>
+
+<br/>
 
 <div style="text-align: center;font-size:small"><img width="512" src="/images/signora/blindbox.jpg"/><br />Original product description</div>
 
+<br/>
+
 <div style="text-align: center;font-size:small"><img width="512" src="/images/signora/blindboxtranslated.png"/><br />Google translated product description</div>
+
+<br/>
 
 The Google translated image is still somewhat nonsensical, so here's one from ChatGPT:
 
