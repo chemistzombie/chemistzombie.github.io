@@ -29,29 +29,54 @@ The PA248QV is a professional monitor for content creation, not gaming, but it's
 
 I wanted 16:10 as it offers more vertical space while not being so tall it cuts the FOV while gaming. Most games use Hor+ for their FOV scaling, so having a taller aspect ratio would reduce your FOV even if 1920x1200 has more pixels than 1080p.
 
+Also, I was extremely lucky to have built this back in early September 2025. That was literally just a month before the DRAM shortage happened. Had I delayed building the PC, I wouldn't have been able to finish the build, as I'm NOT willing to pay that much for RAM sticks, which are now hitting over 3x the normal price.
 
-#### Thinkpad T480 - current daily driver in my apartment
-* CPU: Intel Core i5-8350U
-* GPU: Zotac GTX 1080 Mini connected thru EXP GDC TH3P4G3 eGPU adapter
+#### ThinkPad T480 - current daily driver in my apartment
+* CPU: i5-8350U
 * RAM: mismatched 1x16GB Samsung DDR4-2133 + 1x4GB Teamgroup Elite DDR4-2400
 * Storage: ADATA SX8200 Pro 2TB
 
-After using the eGPU for almost 2 years, I came to the conclusion that the adapter is a POS after seeing it crash unexpectedly even when idle. This often leads to a black screen where recovery is impossible and power cycling the laptop is required. It seems to be way too sensitive to signal integrity.
+I used to pair this with a GTX 1080 with the EXP GDC TH3P4G3 eGPU adapter, but the card broke, and I simply don't really find this setup to be useful anymore, now that I have a modern desktop PC.
 
-Also, you shouldn't play demanding games with a 15W TDP processor, or you're gonna have a bad time.
+#### ThinkPad L13 Gen 3 - work laptop
+* CPU: i5-1245U
+* RAM: 2x4GB DDR4-3200 (soldered)
+* Storage: 512GB SSD
 
 #### Peripherals
-* Mouse: Logitech G203 Lightsync
-* Keyboard: Foxhound Paradox Gaming ZX84 (stock, Gateron Blue switches)
+**At home**
+* Mouse: Logitech G304 Lightspeed
+  * Also known as the G305 in the Western market
+* Keyboard: Foxhound Paradox Gaming ZX84
+  * Kailh Box Navy switch (originally came with Gateron Blue)
+  * "Grape Smoothie" purple keycaps (MOA profile, dye-subbed PBT)
+  * Foam modded
 * Earbuds: Salnotes Zero
+* Controller: 8BitDo Ultimate 2 with Mobile Gaming Clip
 
-These are budget peripherals that are usable enough to pass as gaming and production hardware. In the case of the keyboard, it's the cheapest one I could find that does NOT use Outemu switches as their boards are proprietary and would not support most switches from other brands without clipping the pins. 
+These are budget peripherals that are usable enough to pass as gaming and production hardware. In the case of the keyboard, it's the cheapest one I could find that does NOT use Outemu switches as they tend to use Outemu's proprietary hotswap sockets and would not support most switches from other brands without filing or clipping the pins.
+
+I bought the board for just IDR 600k (approx. $35), and presumably these are so cheap because they didn't sell well. The manufacturing date on the back of it says December 2021, and I bought this in May 2024. That's 2.5 years of this thing sitting in the warehouse, and it's no wonder they desperately tried to sell these for a low price, and presumably at a loss.
+
+For this price, I got a 75% board with Gateron Blue switches, non-proprietary hotswap sockets, doubleshot PBT keycaps, detachable USB-C cable, and wireless over 2.4G and Bluetooth, though the chassis is still cheap plastic. This is just insane value as I don't think any keyboard in the Western market could hit a price point this low while offering this many premium features.
+
+I upgraded from the stock Gateron Blue to Kailh Box Navy as these have insanely satisfying clicks that sound deep, a ridiculously sharp tactile bump, and they're quite heavy, which I prefer over lighter switches, requiring 75g of actuation force and 90g of bottom-out force. It could take some time to get used to the stiffness for gaming, but these are great for typists. It's probably the closest you could get to the Model M's buckling springs with MX-style switches.
+
+**At work**
+* Mouse: Logitech G203 Lightsync
+* Keyboard: Press Play Essential75
+  * Stock Flashquark Quark Matte linear switch
+  * Unofficial Furina keycaps (Cherry profile, dye-subbed PBT)
+
+The keyboard is one of the cheapest VIA-compatible keyboards, at just IDR 600k, the same price as my ZX84. However, it lacks a wireless mode. I suspect that this uses the same OEM as the Cidoo V65 as they use the same Quark Matte switches (which are [officially licensed](https://old.reddit.com/r/switchmodders/comments/10k50xx/where_can_i_find_quark_matte_switches/j6aki2t/) from Flashquark) not sold publicly outside of these keyboards, and the V65 looks similar to the Essential75, except the latter has a function row.
+
+I've always preferred 75% keyboards over 65% ones as having a function row (and an actual tilde key) can come in handy for productivity without resorting to layers.
 ### Former hardware
 #### PC in my parents' house (retired)
 * CPU: Intel Xeon X5650
 * CPU cooler: Deepcool Gammaxx 400
 * GPU: ~~Zotac GTX 1080 Mini~~
-  * This is now used on the eGPU adapter for my laptop
+  * This GPU is dead
 * RAM: 2x8GB Kingston HyperX Fury DDR3-1600 CL10
 * MB: Gigabyte GA-X58A-UD3R
 * ~~Storage: Samsung 860 Evo 512GB, Seagate SkyHawk 4TB 5900RPM, Samsung 970 Evo (salvaged from my broken Acer laptop), WD Blue 1TB 5400 RPM (also salvaged)~~
@@ -64,6 +89,13 @@ I've had a ton of headaches with this PC as it kept giving me weird stability is
 Also, I accidentally smashed my side panel when I was cleaning my PC. Lesson learned: *NEVER* reattach your side panel on ceramic tiles. Use your bed to cushion the side panel while doing it if you don't have a big enough desk to work with.
 
 As of September 2025, this PC has been retired and will no longer be used for anything. I'm not planning to sell it as it wouldn't make sense to sell a PC with failing parts like this.
+
+#### Acer Swift 3 SF314-54G (broken)
+* CPU: i3-7020U
+* GPU: Nvidia MX150 (1D10) 4GB GDDR5
+* RAM: 1x4GB DDR4-2400 (soldered) + 1x4GB Teamgroup Elite DDR4-2400
+* Storage: Samsung 970 Evo 256GB + WD Blue 1TB 5400RPM (WD10SPZX)
+
 #### 2016 build (sold)
 * CPU: i5-4460
 * CPU cooler: Stock
