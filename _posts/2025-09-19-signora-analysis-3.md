@@ -4,6 +4,7 @@ title: "We're so back: A further analysis of Signora's resurrection and playabil
 description: "With the release of 5.8 and 6.0, Hoyo has given us further evidence that Signora will be playable despite her not returning in 5.8 as I've predicted. We take a look into what's new, and what this means for Signora mains."
 image: /images/signora/aww.png
 ---
+Last updated: 2025-12-31
 
 Okay, so 6.0 is out, and I admit I was wrong about Signora being playable in 5.8. However, there have been some MASSIVE developments lately, and all of them suggests that she will be playable soon. In fact, I'm glad I didn't post this earlier in 5.8 as I was planning to do that as some kind of "postmortem analysis" of the lack of her return in that version, but pushing this back ended up giving me more arguments in favor of her resurrection.
 
@@ -13,7 +14,7 @@ If you haven't seen the last two posts yet, then you should check [part 1](https
 <!-- TOC -->
   * [Why I'm still certain that Signora will be playable](#why-im-still-certain-that-signora-will-be-playable)
     * [She finally received an official merchandise after 4 years](#she-finally-received-an-official-merchandise-after-4-years)
-    * [She was mentioned by Columbina in one of the voiced quests](#she-was-mentioned-by-columbina-in-one-of-the-voiced-quests)
+    * [She was mentioned by Columbina and Sandrone in a positve light, back to back, thrice in a row](#she-was-mentioned-by-columbina-and-sandrone-in-a-positve-light-back-to-back-thrice-in-a-row)
     * [We only got a glimpse of Mare Jivari in 5.8](#we-only-got-a-glimpse-of-mare-jivari-in-58)
     * [The Pyro gnosis still hasn't been stolen yet](#the-pyro-gnosis-still-hasnt-been-stolen-yet)
     * [There are two unknown IDs that don't belong to anyone in 6.x](#there-are-two-unknown-ids-that-dont-belong-to-anyone-in-6x)
@@ -26,9 +27,11 @@ If you haven't seen the last two posts yet, then you should check [part 1](https
     * ["Ruzicka" being mentioned in a 3.6 event](#ruzicka-being-mentioned-in-a-36-event)
   * [Analogies to help people understand the reality of business strategies](#analogies-to-help-people-understand-the-reality-of-business-strategies)
     * [The BMW M1 analogy](#the-bmw-m1-analogy)
+    * [The enthusiast trap](#the-enthusiast-trap)
     * [The compact phone analogy](#the-compact-phone-analogy)
+  * [Cautious confidence: Some caveats with every resurrection theory](#cautious-confidence-some-caveats-with-every-resurrection-theory)
   * [Vote with your wallet](#vote-with-your-wallet)
-  * [Conclusion: They're setting the stage for her playability](#conclusion-theyre-setting-the-stage-for-her-playability)
+  * [Conclusion: They're (probably) setting the stage for her playability](#conclusion-theyre-probably-setting-the-stage-for-her-playability)
 <!-- TOC -->
 
 ## Why I'm still certain that Signora will be playable
@@ -82,7 +85,11 @@ She also received [other official merchandise](https://old.reddit.com/r/SignoraM
 
 <div style="text-align: center;font-size:small"><img width="384" src="/images/signora/cards.jpeg"/></div>
 
-### She was mentioned by Columbina in one of the voiced quests
+As an aside, I decided to purchase the acrylic stand from an AliExpress listing that lets you choose which character you want, and it does look great in person. Might be worth checking it out.
+
+<div style="text-align: center;font-size:small"><a href="/images/signora/standee.jpg"><img width="384" src="/images/signora/standee.jpg"/></a><br />Her mask looks elegant</div>
+
+### She was mentioned by Columbina and Sandrone in a positve light, back to back, thrice in a row
 This is the second-biggest argument in favor of her return, and supports the pity-baiting theory I've mentioned in [part 1](https://chemistzombie.github.io/2025/04/24/genshin-impact-signora-launch-speculations.html#the-placement-of-about-the-fair-lady-voice-lines-in-the-playable-harbingers-voice-lines-and-arlecchinos-pity-baiting).
 
 In [one of the Selenic Chronicles](https://genshin-impact.fandom.com/wiki/Her_Past), which is fully voiced, Columbina says this towards the end:
@@ -110,20 +117,150 @@ In [one of the Selenic Chronicles](https://genshin-impact.fandom.com/wiki/Her_Pa
 This is important, because unlike the other two Harbingers she mentioned (Arlecchino and Sandrone), she mentioned Signora by her *real name*, Rosalyne. You see, the Harbingers are usually introduced and referred to by their codenames, because that's what reinforces their role as the Harbingers, not as vulnerable human beings. Using her true name like this is a deliberate narrative reframing device, as it strips away the intimidating Harbinger persona and instead humanizes her as _the woman behind the mask_. Also, notice how she still seems to be shaken by her death, as evidenced by her pausing and telling the MC to give her their hand before mentioning Rosalyne. That's a clear sign of pity-baiting, and it’s essentially Hoyo nudging the audience to empathize with her on a personal level, not just as a villain archetype.
 
 After the huge blunder they did with Signora, Hoyo seems to have developed a formula on how to turn "morally grey" characters into sympathetic, playable ones:
-1. **Antagonistic introduction:** Each of these characters is first positioned as a threat or obstacle to the MC or their allies. At first, the player is meant to view them with suspicion or fear.
+1. **Antagonistic introduction.** Each of these characters is first positioned as a threat or obstacle to the Traveler or their allies. At first, the player is meant to view them with suspicion or fear.
    * Wanderer: Manipulative, arrogant, and dangerous.
    * Arlecchino: Cold and ruthless, intimidating towards Furina.
    * Skirk: Tied to the abyss and enigmatic.
-2. **Tragic backstory reveal:** We then dive into why they became this way, and the player begins to empathize. Each story is devastating:
+2. **Tragic backstory reveal.** We then dive into why they became this way, and the player begins to empathize. Each story is devastating:
    * Wanderer: "Betrayed" by everyone he tried to love, manipulated by the Fatui.
    * Arlecchino: Raised under cruel conditions, forced to suppress her emotions due to her cursed bloodline.
    * Skirk: Survivor of a genocide, haunted by trauma, and forced to bury her past.
-3. **Re-contextualization:** Now that we know the pain, the cold exterior is reframed as a defense mechanism. They aren't villains, they're survivors. Their flaws are humanized, and Hoyo builds them up not as antagonists, but as _people_.
-4. **Path to playability:** They're finally given purpose. They work with the Traveler, find redemption, or at least a meaningful path forward. Then the banner hits. This creates emotional investment, which translates directly into sales.
+3. **Re-contextualization.** Now that we know the pain, the cold exterior is reframed as a defense mechanism. They're not necessarily "evil", just morally grey, and they only appear to be villains because it's their coping mechanism after everything they've been through. Their flaws are humanized, and Hoyo builds them up not as antagonists, but as people.
+4. **Path to playability.** They're finally given purpose. They work with the Traveler, find redemption, or at least a meaningful path forward. Then the banner hits. This creates emotional investment, which translates directly into sales.
 
 Columbina explicitly ties Rosalyne to a positive value: "It's important to always express gratitude to others". That is not something you write about a villain you intend to keep buried, and it's exactly what "Step 3" of the pity-bait formula looks like: re-contextualizing negative traits by highlighting a sympathetic core. This also means that Arlecchino's voice line wasn't a fluke, but rather foreshadowing, and now we've got another Harbinger reinforcing the same narrative shift. You don't just pity-bait her like this and then double down on it *years* after the fact unless if you're setting up a payoff.
 
-If Signora was truly meant to stay dead, they wouldn't reopen wounds with lines like this because it would just frustrate players. The fact that they're deliberately putting this back in players' minds during the Nod-Krai arc (where all Harbingers converge) suggests that they're setting the stage for her return. Pity-baiting is the prelude to playability, and every other "morally grey" character who got this treatment eventually became a hugely popular banner.
+Additionally, in 6.1, Hoyo once again name-dropped Signora by her real name, this time directly [in the AQ](https://genshin-impact.fandom.com/wiki/Special_Operation).
+
+> The Damselette: Have you held any tea parties lately?
+> 
+> Marionette: Tea parties? Uh, yeah, obviously. You don't seriously think we'd pack it all in just because you aren't here?
+> 
+> Marionette: If anything, they've been more eventful than ever. Just me, Arlecchino, and a bunch of insolent, insensitive "guests" who won't stop asking where you've gone. Oh, they've been a real joy.
+> 
+> The Damselette: I bet you served them the worst tea you have. Just like you used to do to me when I upset you.
+> 
+> Marionette: Hmph... Who cares about how good the tea is when there's no one around to drink it? I keep losing people...
+> 
+> Marionette: **First Rosalyne, now you... I'm running out of people who can make me laugh.** Honestly, what could be more ridiculous than a multi-centenarian goddess who's only ever had the plain herbal tea she received as offerings? Heh...
+> 
+> The Damselette: You'd always brew a different type of tea for me each time. Was it really just to see how I'd react?
+> 
+> Marionette: I, uh— Well, duh! Why else? Watching you squirm was practically my only form of entertainment.
+> 
+> (Traveler): (Or was she genuinely trying to introduce Columbina to new flavors? **Maybe all that coldness is just an act... and they actually get along?**)
+> 
+> Marionette: Oh, yeah... and Capitano sometimes used to bring Tartaglia around too, but I guess we won't be seeing him again.
+> 
+> [...]
+> 
+> Marionette: Hmph... I figured you'd leave eventually. You didn't have as much of a reason to stay as I do.
+> 
+> Marionette: The Tsaritsa gave you shelter and protection, but that was it — nothing more, nothing less. Meanwhile, the Fatui demanded everything from you in return, until it was more than you could bear.
+> 
+> Marionette: I get why you left. And frankly, I have no interest in dragging you back just because the higher-ups told me to.
+> 
+> Marionette: But if you keep hanging around with this riffraff, the next time we cross paths, we might be enemies for real.
+> 
+> (The Traveler and Paimon smile knowingly)
+> 
+> (Traveler): (She says that, but **she's the one who just caved in and agreed to help Columbina**...)
+
+Notice how Sandrone views both Columbina and Signora positively, as she was just acting cold and pretending to make fun of them as a coping mechanism. In this context, they're the people who could make her happy and help with her loneliness. She still treats Columbina as her friend even after leaving the Fatui, so it looks like she genuinely cares about her and presumably Signora too.
+
+Most recently, in 6.2, Columbina once again name-dropped Signora by her real name, except this time in the AQ which is impossible to miss unlike her Selenic Chronicle quest. This is further indication that Hoyo *really* wants the players to pay attention to this. When you consider that all of these dialogues could've easily excluded this conversation, but they decided to put it anyway while doing it continuously, then there's a good chance that this is an attempt at foreshadowing.
+
+> Columbina: Of all my days with the Fatui... The times I spent with you, Arlecchino, and Rosalyne... They were my favorite.
+> 
+> Columbina: I will not forget them, just as I shall not forget this moment.
+> 
+> Marionette: ...
+> 
+> Columbina: We'll always be friends, no matter where we are, right?
+> 
+> Marionette: Who'd want to be your...
+> 
+> Columbina: I'll miss you, Sandrone.
+> 
+> Marionette: ...
+> 
+> Columbina: ...Goodbye, Sandrone.
+> 
+> Marionette: I'll... miss you too... Columbina...
+
+Also, notice how in all instances, they mentioned Rosalyne, not Signora, but refer to other Harbingers by their commedia dell'arte names (Columbina mentioned Arle and Sandrone, while Sandrone mentioned Childe and Capitano). This could be something the developers did to nudge the players into figuring out who "Rosalyne" is, so they'd realize that she's Signora and get them to read her tragic backstory, likely in an attempt to get the players to understand her past.
+
+The fact that she was mentioned by her real name *thrice* within such a short amount of time, and soon 4 times with the upcoming release of Columbina and the associated "About The Fair Lady" line, when they had all but forgotten her after the Inazuma AQ, is incredibly suspicious. If Signora was truly meant to stay dead, they wouldn't reopen wounds with lines like these because it would just frustrate players. The fact that they're deliberately putting this back in players' minds during the Nod-Krai arc (where all Harbingers converge) suggests that they're setting the stage for her return. Pity-baiting is the prelude to playability, and every other "morally grey" character who got this treatment eventually became a hugely popular banner.
+
+On the contrary, the [6.1 event](https://genshin-impact.fandom.com/wiki/Headlong_Into_the_Sands#Cyno,_Sethos,_and_Tighnari) also featured Dottore, and he's viewed more negatively in there. The Traveler and Paimon mentioned him as sounding cold, and he appeared to completely neglect Layla's ancestor. It's evident that he's currently still on "Stage 1", as he hasn't been shown to have any tragic backstory, let alone a re-contextualization and redemption path.
+
+> Layla: I was just thinking, and this might sound rude, but the way this person speaks is just so...
+> 
+> (Dialogue option): Cold?
+> 
+> Layla: You noticed too!
+> 
+> Layla: I mean, it's good that he helped treat his companion's wound, but it didn't seem like it was out of kindness. More like, he was looking out for his own self-interest... or thought he could get something out of it.
+> 
+> Layla: I don't know... Maybe I'm reading too much into it.
+> 
+> (Dialogue options): No, you're right... / He didn't even mention this companion on the previous page.
+> 
+> Paimon: Yeah...
+> 
+> Paimon: If you're both in this dangerous situation together, wouldn't you mention them at least once?
+
+and
+
+> Thoth: I still remember the look in his eyes... Nothing stood out, per se, and still... **I could sense contempt and disdain radiating from his gaze.**
+> 
+> Thoth: I could not give an exact reason, but on instinct, I just knew... It would not end well to get close to a man like that.
+> 
+> Thoth: So, I tricked him.
+> 
+> Thoth: Stick close to your companion, I said. "Only the descendants of Tulaytullah can come and go as they please. Leave him behind, and there is no escape for you."
+> 
+> Layla: So, does that mean his companion wasn't a descendant of Tulaytullah?
+> 
+> Thoth: Oh no, that part was true. The lie was in the other half. Anyone can enter or exit this place — there are no restrictions.
+> 
+> Thoth: I saw that **his companion was exhausted**, and was concerned **Zandik might leave him behind**.. Or worse, that some other "accident" might befall him... So I made up an excuse to prevent Zandik from going a step too far.
+> 
+> Thoth: Oh, and speaking of, Zandik's companion had the same blue hair and pointed ears as you.
+> 
+> Layla: !
+> 
+> Paimon: Wait, does that mean... Layla's also a descendant of Tulaytullah?
+> 
+> Thoth: Indeed.
+
+There's also the fact that he's missing from the character introduction cards and version splash arts, despite being shown in the Nod-Krai teaser, unlike Columbina and Sandrone who were prominently featured in them, even going as far as to put them in 6.1 and 6.2 splash arts. It's becoming more evident who's going to be playable judging by these alone.
+
+An alternate interpretation of why these Harbingers refer to her as Rosalyne is that it's probably similar to why they referred to Dottore as "Zandik" in the 6.1 event. In this state, the Traveler isn't aware that "Rosalyne" is Signora just yet, and that they will probably be surprised once this is revealed to them, the same way that the ending of AQ Act 6 revealed that "Zandik" is Dottore and that the characters were mildly surprised of this revelation.
+
+>    (Wanderer): Mmm. Mind you, the only reason I came here is because there's someone I want to look into.
+> 
+>    Paimon: Who's that?
+> 
+>    (Wanderer): The Doctor, also known as Dottore. Second of the Fatui Harbingers.
+> 
+>    (Traveler): (Just as I thought...)
+> 
+>    Lauma: From the tone of your voice... it sounds like there is bad blood between you.
+> 
+>    (Wanderer): ...I was reviewing our archives and noticed that a lot of information about him was missing. Left a bad taste in my mouth. That's all there is to it.
+> 
+>    (Wanderer): Dottore... or Zandik as he was then known, once studied at the Akademiya. But he got kicked out before he could graduate.
+> 
+>    (Traveler): (Zandik? I've heard that name before... Back in the ruins, when the Ibis King mentioned that student — that was The Doctor?)
+> 
+>    Varka: Hahahaha! So the harbingers' number two man is a college dropout? How embarrassing for them.
+> 
+>    Paimon: Last we heard, he was planning something... We actually heard that a few times before even coming to Nod-Krai. But we haven't seen a trace of him since we got here.
+> 
+>    (Wanderer): He only appears when something interests him. For all we know, he might have left already.
+> 
+>    (Wanderer): But the fact that he did something here at all is worth noting... It'll fill a couple extra lines in his file.
 
 We'll now just have to see whether Signora's voice line in Columbina and Sandrone's profiles will move further up from being placed between Pantalone and Childe, to being placed between Sandrone and Pantalone, which would be her rightful 8th place, or at least have it stay like that instead of being placed at the bottom.
 
@@ -146,29 +283,32 @@ The entirety of the Harbingers are all focused on dealing with the Wild Hunt, so
 ### There are two unknown IDs that don't belong to anyone in 6.x
 HomDGCat, a reliable Genshin leaker with a good track record, has published a [playable character ID list](https://homdgcat.wiki/gi/change) for Nod-Krai, and we can make some educated guesses as to how they could possibly release Signora in 6.x.
 
-* Possible unknown IDs 134 - 135
-* 133 Marionette
-* Unknown IDs 129 - 132
-* 128 Varka
-* Unknown IDs 126 - 127
-* 125 The Damselette
-* 124 Jahoda "Windthreading Shadow"
-* 123 Durin
-* 122 Nefer "Secret Beneath the Sands"
-* 121 Aino "Clinky-Clank Gadgets-A-Gogo"
-* 120 Flins "Shadowy Lights, Stranger Wights"
-* 119 Lauma "Evermoon's Sacrament Song"
+* Alice "Crimson Chronicle": Non-playable NPC ID only
+* Possible unknown IDs 134 - 135 (6.7 - 6.8?)
+* 133 Marionette (6.7?)
+* Unknown ID 132 (6.6?)
+* 131 Nicole (6.6?)
+* Unknown IDs 129 - 130 (6.4 - 6.5?)
+* 128 Varka - 6.4?
+* 127 Illuga "Burning Heart Amidst the Nightmare" - 6.3
+* 126 Zibai "White Horse's Fleeting Spring" - 6.3
+* 125 Columbina "Welkin Moon’s Homecoming" - 6.3
+* 124 Jahoda "Windthreading Shadow" - 6.2
+* 123 Durin "The Undying Fire" - 6.2
+* 122 Nefer "Secret Beneath the Sands" - 6.1
+* 121 Aino "Clinky-Clank Gadgets-A-Gogo" - 6.0
+* 120 Flins "Shadowy Lights, Stranger Wights" - 6.0
+* 119 Lauma "Evermoon's Sacrament Song" - 6.0
 * 118 Manekina (UGC)
 * 117 Manekin (UGC)
 
-Hoyo has always consistently released 17 characters for each major version, so we can make an assumption that there will be 17 characters released in 6.x. The UGC characters likely won't count towards this as they were only intended for use in custom game modes, and [datamined info](https://gensh.honeyhunterworld.com/mannequinboy_117/) from HoneyHunter suggests that these don't have proper icons, constellations, VAs, and ascension materials, which indicates they weren't meant to be used in free roam. This means that in addition to the six unknown IDs 126, 127, and 129 - 132, there are two potential unknown IDs 134 and 135 following Sandrone.
+Hoyo has always consistently released 17 characters for each major version, so we can make an assumption that there will be 17 characters released in 6.x. The UGC characters likely won't count towards this as while they are usable in free roam, they can't be used in endgame modes, which is the whole point of pulling for characters. This means that in addition to the unknown IDs 129, 130, and 132, there are two potential unknown IDs 134 and 135 following Sandrone.
 
 Now here's my speculation of the unknown IDs:
-* Alice and Nicole are notably absent from this playable ID list, but given how they received splash cards just like Sandrone, we can assume that they'll be playable in this region.
-* We expect there to be two new Liyue characters introduced during Lantern Rite, with one being a 5\* and the other being a 4\*. So far, only 2025 Lantern Rite broke this pattern by not releasing a Liyue 5\* character. These will probably occupy the unknown IDs 126 and 127, given the timing of CNY.
-* Linnea and Illuga are characters who were mentioned in Aino and Flins' VOs respectively, and given how some characters were only name-dropped in character VOs before officially becoming playable (Emilie, Ifa, Varesa), it's expected that these two will become playable at some point.
+* Alice may not be playable yet as unlike Nicole, she didn't receive a playable ID despite now having a playable model.
+* Linnea is a character who was mentioned in Aino's VO, and given how some characters were only name-dropped in character VOs before officially becoming playable (Emilie, Ifa, Varesa, Illuga), it's expected that she will become playable at some point.
 
-This leaves us with two remaining unknown IDs. We currently don't know who these two IDs belong to, but it's certainly possible that one of these could be Signora. After all, out of the 11 Harbingers, only 5 are playable or will be playable as of now, and they'd probably want to release the lower-ranking Harbingers as soon as possible before the higher-ranking ones like Pierro, Capitano, Dottore and Columbina start to cannibalize on their sales too much as players who are indifferent to the Harbingers may be psychologically more likely to focus on the highest-ranking characters than lower ones as they give the impression of being the "best".
+This leaves us with four remaining unknown IDs. We currently don't know who these IDs belong to, but it's certainly possible that any of these could be Signora, perhaps with the release of Mare Jivari expansion. After all, out of the 11 Harbingers, only 5 are playable or will be playable as of now, and they'd probably want to release the lower-ranking Harbingers as soon as possible before the higher-ranking ones like Pierro, Capitano, Dottore and Columbina start to cannibalize on their sales too much as players who are indifferent to the Harbingers may be psychologically more likely to focus on the highest-ranking characters than lower ones as they give the impression of being the "best".
 
 Releasing Signora alongside Sandrone and Columbina in 6.x and then Pantalone alongside Pulcinella in 7.x would be a great way to get rid of them from the waitlist and ensures that Pierro, Capitano, and Dottore can be released last in Snezhnaya and Khaenri'ah without killing the revenue of the lesser Harbingers.
 
@@ -250,10 +390,55 @@ If Hoyo continues to defend their controversial "plot device" for no other reaso
 
 A company composed solely of writers, like a company of engineers, risks creating a product that is technically sound but commercially unviable. The success of a live-service game, just like the success of a car company, depends on finding the perfect balance between the vision of the writers/engineers and the desires of the consumers. Just like BMW, Hoyo isn't in business to make narratively consistent stories where dead characters stay dead. Hoyo is in business to make money by selling characters.
 
-### The compact phone analogy
-This is something I've personally seen as a phone enthusiast. For years, people have wanted compact flagships because proponents argue that bigger phones are more difficult to use and require a ton of finger gymnastics, and that most compact phones on the market are either low-end or midrange phones, with mediocre or even poor hardware and software support. But every single time a company tries to do that, they're hit with the realization that the market is too niche to justify their existence.
+### The enthusiast trap
+There's a video by TechAltar that explains the "enthusiast trap". It argues that it's nearly impossible for a tech company built for enthusiasts to remain successful in the long run. This occurs when a company focuses too narrowly on its early, highly opinionated users (the people who demand purity, difficulty, or uncompromising ideals) and then struggles to pivot to the broader, more profitable mainstream audience. In Genshin's context, replace "enthusiasts" with a small but loud subset of lore purists and "mainstream" with the wider fanbase that favors the character collection aspect of gacha games.
 
-Major companies like Apple (with their iPhone mini), Asus (Zenfone 8/9/10), Samsung (Galaxy S3 - S5 mini and Galaxy Alpha), and Sony (Xperia Compact series) listened to this feedback and invested heavily in creating these niche products. They gave the vocal minority exactly what they asked for.
+<div style="text-align: center;font-size:small"><iframe width="640" height="360" src="https://youtube.com/embed/FJgTKx-rg18" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+The general idea is this:
+1. **The lure:** Smaller companies tend to cater to "enthusiasts" because they actively seek out cool new products and promote them in an act of evangelism. This sounds great at first, because word-of-mouth marketing doesn't cost the company anything, and the community organically promotes the product for free.
+2. **The trap:** In reality, this is actually unsustainable, because enthusiasts are a small, niche market, with strict standards where they want NO compromises, and expect the company to stay committed to this. This makes it impossible for companies to scale, and cutting corners isn't an option either, as the enthusiast community actively scrutinizes the company, so any perceived compromise can lead to rejection.
+3. **The pivot:** Eventually, in order to survive, companies are faced with difficult choices. They have to choose between staying with the enthusiast audience (which might bankrupt them), pivoting to the mainstream, "betraying" the enthusiasts in the process (but more likely to succeed), or trying to please both but more likely to fail as they get involved in a lose-lose situation.
+
+Pebble, Cyanogen, OnePlus, Oppo, and now Nothing have been dealing with this.
+
+Pebble and Cyanogen are examples of trying to take the third option and ended up failing. Both companies tried to cater to their original audience while also branching out. Pebble tried fashion and fitness, and Cyanogen split into commercial and enthusiast platforms (Cyanogen OS and CyanogenMod respectively). In both cases, they failed to attract the new audience while alienating their core community, resulting in a "lose-lose situation".
+
+OnePlus pivoted hard to a non-tech "lifestyle" audience with the OnePlus X after their OnePlus 2 flopped, which apparently sold terribly. They returned to their roots with the OnePlus 3 but are simultaneously spending millions on traditional ads with models, trying to appeal to a non-techy audience. A [follow-up video](https://youtu.be/9EOAEWC9hJ4) by MKBHD in 2021 showed that they have successfully pivoted to the mainstream, with their flagship phones now costing just as much as any other company's offerings, and their lineup evolving from a single phone every year to releasing refreshes and more affordable models with reduced specs (the Nord) to expand their reach while staying profitable by increasing their profit margins.
+
+Oppo is another example of a successful pivot. It was once an enthusiast brand but made a "complete 180° turn". They focused on mid-range phones with locked bootloaders and a heavy emphasis on selfies. The enthusiasts left, but Oppo became "incredibly successful" and one of the world's largest smartphone vendors.
+
+Nothing is a latest example of an attempt at pivoting. They initially bragged about how their phones had "[no bloatware](https://old.reddit.com/r/NothingTech/comments/1ogfb0n/people_dont_stay_silent_rollitback/)", only for them to [add bloatware and lock screen ads](https://old.reddit.com/r/NOTHING/comments/1oflfqb/enthusiast_brands_will_betray_you_and_nothing_has/) on their non-flagship phones starting from the 3a. This, unsurprisingly, resulted in the enthusiast community complaining about them, pointing out the hypocrisy like the "no bloatware" tweet in response to someone tweeting "[they] missed to add Instagram" only to do that exact same thing in their official announcement, and making hashtags like #RollItBack. Nothing itself admitted that it's operating on razor-thin margins, and that this is necessary to ensure their business model is sustainable.
+
+Hoyo is in the same situation with Signora. Based on [my analysis](https://chemistzombie.github.io/2025/08/16/signora-analysis-2.html#the-million-dollar-question-was-signora-originally-never-meant-to-be-playable-since-her-conception), it seems that the reason why they killed Signora is that they're simply following the HI3 playbook back when Hoyo was a smaller company that catered towards niche gacha gamers who are lore purists (the "enthusiasts"), and they're likely just trying to do the same thing as Wendy where she died early on and didn't become playable. When they killed Signora, they were still writing under this HI3 "enthusiast-first" assumption, that tragedy equals depth and that people would respect the moral "lesson" of her fall.
+
+However, Genshin was their first smash-hit title, and presumably, they didn't know that the mainstream now dominates their playerbase as a result of it. The game's explosive popularity brought with them a different group of audience which had a completely different cultural and emotional baseline from the HI3 crowd. They favor collecting major characters and reject the notion that these characters can die and become unplayable.
+
+They didn't realize that this strategy is fundamentally incompatible with this new breed of audience that are playing the game, because back then, they were still trying to appeal to these purists, which runs counter to what the mainstream wants (playable Harbingers). In other words, Hoyo applied a niche storytelling formula to a mass-market gacha economy.
+
+This is pretty much the same unsustainable business model. The "let her stay dead" crowd represents a vocal but tiny portion of the community. Catering to them means sacrificing potential banner revenue and engagement from millions who grew attached to her lore or simply wish to collect the Harbingers they like, not to mention that a single story payoff (Signora's death) gives diminishing returns after the event passes, much like early enthusiast hardware that can't scale.
+
+They doubled down on her death (Winter Night's Lazzo, [MC's brag lines](https://old.reddit.com/r/SignoraMains/comments/1o1qiu1/i_never_knew_this/) in a Sumeru daily, lack of splash art, etc.), likely as an attempt to assert narrative authority, the same way enthusiast brands often double down on "integrity" when criticized for ignoring the wider market.
+
+This is where they realized too late that they weren't the same kind of company anymore. Hoyo was no longer an "enthusiast brand". It was a multimillion dollar company competing with other major studios.
+
+After finally realizing this, they now have three options, none of which is easy:
+ 
+1. Stick with the purists and keep her dead (potentially missing out on easy revenue and engagement).
+2. Pivot to mainstream, resurrect her, and make her playable (pissing off these purists, but the most sustainable option for banner revenue, engagement and community goodwill).
+3. Try to please both by somehow keeping her dead but playable after 4 years (likely unsustainable, pisses off both sides due to neither of them truly getting what they wanted).
+
+Option 2 is the Oppo move: betray the old guard, but win over the majority.
+
+Hoyo, like any multimillion dollar game company, ultimately optimizes for engagement-driven monetization rather than narrative purity. Reviving her allows them to reactivate dormant spenders, like players who quit after Inazuma because their favorite character was discarded. This also generates free marketing, as content creators will flood the social media over this (imagine the clickbait titles, like "THEY'VE DONE THE IMPOSSIBLE - SIGNORA IS BACK!?", "THE COPERS WERE RIGHT ALL ALONG!"). She can then be involved in future events or AQs, which maintains engagement. Last but not least, this fixes a legacy PR issue, as reviving her can be framed as "listening to fans", repairing the perception of tone-deaf writing decisions.
+
+Compare that to keeping her dead, a choice with zero monetization upside, no hype, and no sustained engagement. From a product lifecycle standpoint, resurrecting Signora is the renewal phase that prevents the game from declining in popularity.
+### The compact phone analogy
+This is something I've personally seen as a phone enthusiast, and is related to the previous point about the enthusiast trap. For years, people have wanted compact flagships because proponents argue that bigger phones are more difficult to use and require a ton of finger gymnastics, and that most compact phones on the market are either low-end or midrange phones, with mediocre or even poor hardware and software support. But every single time a company tries to do that, they're hit with the realization that the market is too niche to justify their existence.
+
+<div style="text-align: center;font-size:small"><iframe width="640" height="360" src="https://youtube.com/embed/iR9zBsKELVs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+Major companies like Apple (with their iPhone mini), Asus (Zenfone 8/9/10), Samsung (Galaxy S3 - S5 mini, Galaxy Alpha, and later, Galaxy S10e), and Sony (Xperia Compact series) listened to this feedback and invested heavily in creating these niche products. They gave the vocal minority exactly what they asked for.
 
 But then the sales data came in, and the truth was undeniable. While a small group loved them, the vast majority of consumers, when it came time to actually spend their money, chose the bigger phones. They prioritized larger screens for media consumption and the bigger batteries that came with a larger chassis, and they just didn't think the improved ergonomics of smaller phones was a good enough reason to choose smaller phones over the bigger ones.
 
@@ -270,11 +455,44 @@ The marketing and product management teams can just go to the writing team and s
 And this is how a business decision overrides a creative one. The reluctance of a writer to revisit a past plot point is gonna be less powerful than the company's need to create products that the majority of its customers actually want to buy. This, once again, proves that in the end, the market always decides.
 
 In fact, this could actually be the reason why they've been introducing six major characters who are likely to be playable in Nod-Krai: Columbina, Sandrone, Alice, Nicole, Varka and Durin. They probably realized that releasing too many filler or side characters like Varesa or Lauma isn't going to be sustainable as their sales tend to be mediocre or poor even when compared to reruns of Archons or Harbingers, and the story is so far along that Hoyo doesn’t have room for another filler every patch without players feeling cheated. People have been sitting on years of unanswered teasers (Varka, Alice, Harbingers, Hexenzirkel), and if they didn't start cashing in those promises now, they’d risk alienating players who've been waiting since the game's launch.
+
+## Cautious confidence: Some caveats with every resurrection theory
+I gotta admit, even with all the evidence we have so far, I can still be wrong, and there's always the chance that we might simply be overanalyzing. I recently watched these videos by Veritasium on why most experts aren't actually "experts" and the dangers of overconfidence, and these actually give a very good insight on why predicting Signora's resurrection is so difficult.
+
+The first video explains the 4 things that makes experts have real expertise: pattern recognition, high-validity environment, timely feedback, and not being too comfortable.
+
+<div style="text-align: center;font-size:small"><iframe width="640" height="360" src="https://youtube.com/embed/5eW6Eagr9XA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+In the case of Signora's resurrection analysis, the pattern recognition exists: Harbinger banners usually perform well, and quests and lore crumbs often hint toward which character will appear in the future. However, the environment is a mix between high- and low-validity. People do gravitate towards collectible groups of characters like Archons and Harbingers, which is backed by data, and this is a high-validity environment, but a low-validity environment also exists in that lore crumbs don't necessarily guarantee playability.
+
+A good example of this is how Neuvillette was mentioned by Nahida in the epilogue of the Sumeru AQ Act 5, and he did become playable by 4.1, but on the contrary, Capitano and Dottore were mentioned by Neuvillette and Mavuika respectively, but neither of them became playable yet, with Capitano "dying" and Dottore becoming a weekly boss with no playable ID. Hoyo is actively breaking patterns to prevent players from accurately guessing what they're trying to do next.
+
+Additionally, Signora's situation itself is a low-validity environment: it is a one-off. So far, there has never been a playable character who died in-game and was then resurrected. Qiqi doesn't count as she had already been playable since launch. Similarly, Capitano has yet to be resurrected, so making predictions of how they will perform this by extrapolating from his resurrection arc is also impossible. And even if he *did* get resurrected before Signora, it's still not an exact 1:1 situation, as Capitano has an intact body to return to, and we're using the term "death" loosely here, since pure-blood Khaenriahns cannot die due to the curse. On the contrary, Signora was completely vaporized, and it would require a more elaborate arc to bring her back. This is similar to how presidential elections have a slightly different environment each time, and that predicting who wins the election is extremely difficult, if not impossible.
+
+Another factor is that the feedback is delayed. It's not immediately apparent which character will become playable. At best, we only get hints through the promo arts of the upcoming region, and we usually only get confirmation for the upcoming version from leakers (silhouette teaser by hoyo themselves has only been done once so far), so we can only predict with what we found so far that may support her revival.
+
+Every single "when Signora will be playable" prediction always ended up being wrong, and we have a disastrous track record of incorrectly predicting that since 2.1. That's not necessarily the person's fault, but rather, the nature of the system itself. Point 4 of the video ("don't be too comfortable") is irrelevant here, as we already failed at point 3 and partially point 2.
+
+The second video explains the dangers of overconfidence and the factors that influence it, while also elaborating on portions of the first video.
+
+<div style="text-align: center;font-size:small"><iframe width="640" height="360" src="https://youtube.com/embed/9M_QK4stCJU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+Most people tend to be overconfident, and those who claim to have very high confidence is only correct about half the time. One of the factors at play is the complexity and unpredictability of a situation, an issue of feedback. In a controlled environment, where the rules are clear and the results are consistent, there is clear feedback. In a noisy environment where consistency or timeliness are nonexistent, however, this feedback becomes unreliable.
+
+In the case of Signora's revival theories, there's a ton of inconsistencies on what we thought as "patterns." The order of characters on the Harbinger wheel doesn't necessarily imply which one of them would come up next (Capitano appeared before Columbina). Character mentions at the end of AQs don't necessarily mean playability. Symbolism is unreliable (does Signora's moth symbolism represent "moth to a flame" or rebirth?). Harbingers aren't guaranteed to be playable in the same region they're introduced in, unlike archons. So on and so forth.
+
+There are things we can do to mitigate these. One of them is to not make statements that sound too confident, being aware of our confidence calibration (e.g. instead of "she will return in 6.x", make it "there's a 60% chance she'll return in 6.x"). Also, listen to those who disagree with you and try to figure out their best arguments against yours. Fill in the blind spots in your decision-making process with those. "True wisdom lies not in being certain, but in knowing the limits of your own certainty".
+
+The unusual Rosalyne name-drops might _still_ not be indicative of her return. One of the arguments I've seen is that this doesn't guarantee that she might necessarily be resurrected, and that perhaps this was merely meant to evoke the player's feelings that she had a softer side, but they still have no intentions of bringing her back if they feel like they could move on from the execution incident back in 2.1, especially when there's still other banners that could sell just as well. And that's valid. There's a chance that because they learned the lesson, they don't need to fix the mistake. They can just ensure they never do it again with future characters. And maybe the name-drops are just there because they want us to feel the tragedy of her death more deeply, essentially "twisting the knife" rather than healing the wound.
+
+However, my confidence lies in the fact that there are real financial incentives to bring her back. To me, it simply would be too weird for Hoyo to tease her, but then not bring her back simply because "it's just a coincidence, this is the only time when we get to interact with the Harbingers more frequently".
 ## Vote with your wallet
 I've seen the drama revolving around Harbingers on r/FatuiHQ, which is honestly quite stupid and should've never happened to begin with, and those who were involved in this are no different than Signora's haters. All I can say is this: if you want your Harbingers to become playable, then vote with your wallet and pull Columbina, Sandrone and all future playable Harbingers. Remember, all Harbingers are grouped into the same category, so the success of one of the banners can encourage them to rethink their strategies when it comes to releasing others, and perhaps even launch them sooner.
 
 I'm personally willing to get Columbina and Sandrone's constellations/signature weapons if it turns out Signora isn't in Nod-Krai. I believe in this principle and I think if those two Harbingers become really successful, then they might prioritize Signora's return because like I've said, the fact that they've released all female Harbingers except Signora implies that they're testing the waters to estimate how successful her banner will be, and if they both turn out to be a huge hit, then they might even expedite her release as a playable character.
-## Conclusion: They're setting the stage for her playability
-With all the new evidence that has surfaced so far, Signora's release is no longer a matter of *if*, but *when*. My prediction? Either 2026 in 6.x with the release of Mare Jivari, or 2027 in 7.x with Snezhnaya, maybe with her literally busting that coffin open and making a huge reveal. The fact that they're making her the most sought-after item in the Harbinger blind box, along with further evidence of pity-baiting, means that they're slowly bringing her back into relevance and trying to get people to talk about her more often, in order to build up hype and anticipation for her launch.
+## Conclusion: They're (probably) setting the stage for her playability
+With all the new evidence that has surfaced so far, Signora's release is no longer a matter of *if*, but *when*. My prediction? I'm 60% confident that she will be playable in 6.x, maybe with the release of Mare Jivari, and 80% confident that she will be in 7.x with Snezhnaya, maybe with her literally busting that coffin open and making a huge reveal. The fact that they're making her the most sought-after item in the Harbinger blind box, along with further evidence of pity-baiting, means that they're slowly bringing her back into relevance and trying to get people to talk about her more often, in order to build up hype and anticipation for her launch.
+
+I'm really hoping that they do another silhouette teaser similar to what they did back in the 5.3 special program. That way, it could give a definitive confirmation on whether she will return in Nod-Krai or Snezhnaya. We'll see if they do this on 2 January.
 
 It's honestly quite amazing to finally start seeing the light at the end of the tunnel, and I really hope her eventual resurrection would be one of Genshin's peak moments, finally silencing all the detractors for good, and maybe even get some of them to apologize for harassing Signora mains.
