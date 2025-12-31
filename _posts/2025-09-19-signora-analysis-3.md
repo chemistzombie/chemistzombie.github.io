@@ -4,7 +4,7 @@ title: "We're so back: A further analysis of Signora's resurrection and playabil
 description: "With the release of 5.8 and 6.0, Hoyo has given us further evidence that Signora will be playable despite her not returning in 5.8 as I've predicted. We take a look into what's new, and what this means for Signora mains."
 image: /images/signora/aww.png
 ---
-Last updated: 2025-12-31
+**Last updated: 2025-12-31**. Please see the commit history to see what changed. This will be updated over time as new information surfaces.
 
 Okay, so 6.0 is out, and I admit I was wrong about Signora being playable in 5.8. However, there have been some MASSIVE developments lately, and all of them suggests that she will be playable soon. In fact, I'm glad I didn't post this earlier in 5.8 as I was planning to do that as some kind of "postmortem analysis" of the lack of her return in that version, but pushing this back ended up giving me more arguments in favor of her resurrection.
 
@@ -17,12 +17,14 @@ If you haven't seen the last two posts yet, then you should check [part 1](https
     * [She was mentioned by Columbina and Sandrone in a positve light, back to back, thrice in a row](#she-was-mentioned-by-columbina-and-sandrone-in-a-positve-light-back-to-back-thrice-in-a-row)
     * [We only got a glimpse of Mare Jivari in 5.8](#we-only-got-a-glimpse-of-mare-jivari-in-58)
     * [The Pyro gnosis still hasn't been stolen yet](#the-pyro-gnosis-still-hasnt-been-stolen-yet)
+    * [She was featured unusually frequently in Hoyofair 2025](#she-was-featured-unusually-frequently-in-hoyofair-2025)
     * [There are four unknown IDs that don't belong to anyone in 6.x](#there-are-four-unknown-ids-that-dont-belong-to-anyone-in-6x)
     * [Signora being irrelevant to the story means nothing](#signora-being-irrelevant-to-the-story-means-nothing)
     * [Arlecchino's rerun in 5.3 was quite popular, even outperforming Mavuika's rerun](#arlecchinos-rerun-in-53-was-quite-popular-even-outperforming-mavuikas-rerun)
     * [Columbina's and Sandrone's release might be intended to test the waters before releasing Signora](#columbinas-and-sandrones-release-might-be-intended-to-test-the-waters-before-releasing-signora)
     * [Character design, kits, and playability are not set in stone](#character-design-kits-and-playability-are-not-set-in-stone)
   * [Speculations that may or may not be related to Signora](#speculations-that-may-or-may-not-be-related-to-signora)
+    * [New Bloodstained Knight achievement in 6.3](#new-bloodstained-knight-achievement-in-63)
     * [The similarities between the symbol in her boss fight and the Eroded Sunfire](#the-similarities-between-the-symbol-in-her-boss-fight-and-the-eroded-sunfire)
     * ["Ruzicka" being mentioned in a 3.6 event](#ruzicka-being-mentioned-in-a-36-event)
   * [Analogies to help people understand the reality of business strategies](#analogies-to-help-people-understand-the-reality-of-business-strategies)
@@ -192,7 +194,7 @@ Also, notice how in all instances, they mentioned Rosalyne, not Signora, but ref
 
 The fact that she was mentioned by her real name *thrice* within such a short amount of time, and soon 4 times with the upcoming release of Columbina and the associated "About The Fair Lady" line, when they had all but forgotten her after the Inazuma AQ, is incredibly suspicious. If Signora was truly meant to stay dead, they wouldn't reopen wounds with lines like these because it would just frustrate players. The fact that they're deliberately putting this back in players' minds during the Nod-Krai arc (where all Harbingers converge) suggests that they're setting the stage for her return. Pity-baiting is the prelude to playability, and every other "morally grey" character who got this treatment eventually became a hugely popular banner.
 
-On the contrary, the [6.1 event](https://genshin-impact.fandom.com/wiki/Headlong_Into_the_Sands#Cyno,_Sethos,_and_Tighnari) also featured Dottore, and he's viewed more negatively in there. The Traveler and Paimon mentioned him as sounding cold, and he appeared to completely neglect Layla's ancestor. It's evident that he's currently still on "Stage 1", as he hasn't been shown to have any tragic backstory, let alone a re-contextualization and redemption path.
+On the contrary, the [6.1 event](https://genshin-impact.fandom.com/wiki/Headlong_Into_the_Sands#Cyno,_Sethos,_and_Tighnari) also featured Dottore, and he's viewed more negatively in there. The Traveler and Paimon mentioned him as sounding cold, and he appeared to completely neglect his companion. It's evident that he's currently still on "Stage 1", as he hasn't been shown to have any tragic backstory, let alone a re-contextualization and redemption path.
 
 > Layla: I was just thinking, and this might sound rude, but the way this person speaks is just so...
 > 
@@ -280,6 +282,35 @@ This ties to the previous point and is something that some detractors hilariousl
 
 The entirety of the Harbingers are all focused on dealing with the Wild Hunt, so none of them seem to be interested in retrieving the final gnosis as of now. Having her return in Mare Jivari and steal the gnosis while everyone else is distracted would be a good way to reestablish her relevance and reinstate her position as the 8th Harbinger, which could satisfy the part of the community who wants her back as a Harbinger and with her original design.
 
+### She was featured unusually frequently in Hoyofair 2025
+Hoyofair features "fanarts" from various artists and they've been doing this annually since 2021. One interesting thing about 2025's Hoyofair is that, unlike the previous years, Signora (or her moth) were prominently featured in this one. This is curious, because prior to this, she was only featured *once*, and that was [in 2023](https://old.reddit.com/r/SignoraMains/comments/zz51zu/a_fanmade_harbinger_anime_short_for_hoyofair/) in a very brief section, but in this one, she literally appeared on [multiple scenes](https://old.reddit.com/r/SignoraMains/comments/1nmjda9/signora_in_hoyofair_we_all_cheered/).
+
+<div style="text-align: center;font-size:small"><iframe width="640" height="360" src="https://youtu.be/EBKLME-y-lw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+Now, you might think that because these are "unofficial", they don't really mean much other than the fact that it's meant to showcase the various Harbingers. However, I have a suspicion that this is actually a _semi-official_ showcase instead, like some kind of controlled marketing.  These are not random community submissions, because they're commissioned, curated, and brand-safe. And there's evidence that points to this.
+
+Hoyo has made an [official statement](https://genshin-impact.fandom.com/wiki/HoYoFair/2021-09-17) with their first Hoyofair in 2021, and the accompanying comment event, that says
+
+> For this HoYoFair event, we have invited talented creators and prepared many interesting programs~
+
+This comment event also has the following rule:
+
+> Comments of the following nature will be regarded as invalid: [...] comments that contain any form of advertising, and **those which seek to spread malicious rumors or discredit the game and its characters.**
+
+Judging by these, it's very likely that these are commissioned, and thus, must align with their marketing and/or in-game narrative. This implies that Hoyo directly sponsors, supervises, or preapproves the content. The creators probably have to work under guidelines, so no leaks, lore contradictions, or misrepresentation of official characters. Notice how, in all instances, Signora's right eye is always obscured by something (her mask, a butterfly). This, in my opinion, is a good example of how Hoyo controls these "fanarts" to prevent misrepresentation of what her full face might look like, because we haven't gotten to that point in the story just yet.
+
+<div style="text-align: center;font-size:small"><img width="512" src="/images/signora/binasplash.jpg"/><br />One of the scenes that feature Signora. I love how she freaks out like that when Bina cheerfully splashed some water on her</div>
+
+Then there's also this official statement from [Hoyofair Spring 2023](https://genshin-impact.fandom.com/wiki/Spring_Wonderland):
+
+> HoYoFair presents a collation of fan works derived from HoYoverse IPs. You can find a rich variety of fan art here as well as creators and players from all over the world who engage in multilingual creations and interactions. Here, everyone can express their love for games.
+>
+> All content in the program is produced by creators sponsored by HoYoFair, which are derivative works of Genshin Impact, and is not related to the content of Genshin Impact itself.
+
+Notice how they put a disclaimer saying that it's "not related to the game's content". I think this is just a legal shield to protect their asses, not a creative truth. It gives them a plausible deniability in case fans overanalyze something that's *actually* intentional foreshadowing. And this is why I think these fanarts are the perfect cover for teasing things like Signora's return without directly hinting at it as they could easily say something like that to neither confirm nor deny hints for future content.
+
+If fans start speculating that her return is coming, Hoyo can just shrug it off with something like "Oh, that's just community creativity. This isn't canon". But internally, it lets them test audience response (if fans react positively, they know the timing is right for a revival arc), and rebuild emotional connections around her without having to confirm anything officially. This is basically marketing disguised as community engagement. After all, why would multiple different artists feature a character that was deemed "irrelevant", when they could've absolutely featured someone else instead? Given what we know, a plausible explanation for this is that Hoyo has control over which characters are featured, and that just implies they're probably planning to do something with her in-game.
+
 ### There are four unknown IDs that don't belong to anyone in 6.x
 HomDGCat, a reliable Genshin leaker with a good track record, has published a [playable character ID list](https://homdgcat.wiki/gi/change) for Nod-Krai, and we can make some educated guesses as to how they could possibly release Signora in 6.x.
 
@@ -320,7 +351,7 @@ Then there's also the fact that Skirk literally just came outta nowhere in Liyue
 What's stopping them from doing the same thing with Signora and reveal the fact that her liquid fire turns out to be liquid phlogiston, or simply her busting that coffin open in Snezhnaya once we get there?
 
 ### Arlecchino's rerun in 5.3 was quite popular, even outperforming Mavuika's rerun
-While we didn't get any new playable Harbingers in 5.x, we're still able to look at the pull count for Arlecchino (the only Harbinger who was rerun in 5.x), and compare it against other banners.
+While we didn't get any new playable Harbingers in 5.x, we're still able to look at the pull count for Arlecchino (the only Harbinger who was rerun in 5.x outside chronicled banner), and compare it against other banners.
 
 When including debut banners, it might seem as if her pull count wasn't really all that great, only sitting at the 9th place, and trailing behind Furina's rerun. However, do note that those two banners were the *only* rerun banners that made it to the top 10, so that's still quite an impressive feat.
 
@@ -328,11 +359,11 @@ However, if we filter this to *only* include reruns, then Arlecchino sits at an 
 
 This is another evidence that the Harbingers are highly desirable among the community, and by leaving Signora unplayable, they're likely to miss out on potentially massive banner revenues, both in the short-term (her debut), and long-term (her subsequent reruns).
 
-<div style="text-align: center;font-size:small"><img width="768" src="/images/signora/5.0pulls.png"/><br />Top 10 most pulled characters in versions 5.0 - 5.8, including reruns</div>
+<div style="text-align: center;font-size:small"><img width="768" src="/images/signora/5.0pulls_updated.png"/><br />Top 10 most pulled characters in versions 5.0 - 5.8, including reruns</div>
 
 <br/>
 
-<div style="text-align: center;font-size:small"><img width="768" src="/images/signora/5.0pullsreruns.png"/><br />Top 10 most pulled characters in versions 5.0 - 5.8, reruns only</div>
+<div style="text-align: center;font-size:small"><img width="768" src="/images/signora/5.0pullsreruns_updated.png"/><br />Top 10 most pulled characters in versions 5.0 - 5.8, reruns only</div>
 
 ### Columbina's and Sandrone's release might be intended to test the waters before releasing Signora
 With Columbina and Sandrone being finally confirmed to be playable by reputable leakers, this means that they've released all the female Harbingers except Signora. If we assume that Mare Jivari or Signora isn't in Nod-Krai, I can't help but think that this could be a litmus test to gauge the potential success of Signora's banner. While they probably have internal projections, nothing speaks louder than the final revenue numbers from their banners, and they might use those to figure out things like what people want or don't want in a Harbinger kit or which story elements would make the most impact for the audience and entice them to pull the banner.
@@ -355,6 +386,13 @@ One of the arguments that are frequently thrown by Signora detractors is that Ho
   For more information, check out TCRF's [Genshin prototype](https://tcrf.net/Proto:Genshin_Impact) pages.
 
 ## Speculations that may or may not be related to Signora
+### New Bloodstained Knight achievement in 6.3
+There's a new achievement with the release of version 6.3 called "The Lone Wolf's Memory", which mentions the Bloodstained Knight. For those of you who don't know, the Bloodstained Knight was Rostam's student, and Rostam was Signora's lover. This appears to be an achievement for completing a quest as it's a hidden one and the description is rather vague, but it's currently unknown if this achievement is part of the unmissable AQ or the more skippable WQ. It's also unknown if the quest in question (no pun intended) will involve Signora's or even Rostam's backstory. We'll just have to wait until the preload for that.
+
+The achievement's name is rather suspect though, as Rostam's nickname is "Wolf Pup", so I'm willing to bet that this may involve Rostam's backstory at the very least, but I could be wrong.
+
+<div style="text-align: center;font-size:small"><img width="768" src="/images/signora/bsk.png"/></div>
+
 ### The similarities between the symbol in her boss fight and the Eroded Sunfire
 Some people have [noticed](https://old.reddit.com/r/SignoraMains/comments/1mt8epq/lets_not_forget_about_this/) that the symbol that shows up when you try to one-shot Signora in the first phase looks fairly similar to the weapon held by the Lord of Eroded Primal Fire, and by extension, the Eroded Sunfire item. This symbol is unique to this boss fight, and it's currently unknown if this is related to anything. It also looks different from the Harbinger logo. However, its shape does bear some similarities to the aforementioned Eroded Sunfire, albeit not completely (the circle in the middle is missing).
 <div style="text-align: center;font-size:small"><img width="256" src="/images/signora/antioneshot.jpg"/><img width="256" src="/images/signora/Item_Eroded_Sunfire.png"/><br />Left: the symbol on the ground if you try to one-shot Signora in her boss fight. Right: Eroded Sunfire icon</div>
@@ -454,7 +492,7 @@ The marketing and product management teams can just go to the writing team and s
 
 And this is how a business decision overrides a creative one. The reluctance of a writer to revisit a past plot point is gonna be less powerful than the company's need to create products that the majority of its customers actually want to buy. This, once again, proves that in the end, the market always decides.
 
-In fact, this could actually be the reason why they've been introducing six major characters who are likely to be playable in Nod-Krai: Columbina, Sandrone, Nicole, Varka and Durin. They probably realized that releasing too many filler or side characters like Varesa or Lauma isn't going to be sustainable as their sales tend to be mediocre or poor even when compared to reruns of Archons or Harbingers, and the story is so far along that Hoyo doesn’t have room for another filler every patch without players feeling cheated. People have been sitting on years of unanswered teasers (Varka, Harbingers, Hexenzirkel), and if they didn't start cashing in those promises now, they’d risk alienating players who've been waiting since the game's launch.
+In fact, this could actually be the reason why they've been introducing five major characters who are likely to be playable in Nod-Krai: Columbina, Sandrone, Nicole, Varka and Durin. They probably realized that releasing too many filler or side characters like Varesa or Lauma isn't going to be sustainable as their sales tend to be mediocre or poor even when compared to reruns of Archons or Harbingers, and the story is so far along that Hoyo doesn’t have room for another filler every patch without players feeling cheated. People have been sitting on years of unanswered teasers (Varka, Harbingers, Hexenzirkel), and if they didn't start cashing in those promises now, they’d risk alienating players who've been waiting since the game's launch.
 
 ## Cautious confidence: Some caveats with every resurrection theory
 I gotta admit, even with all the evidence we have so far, I can still be wrong, and there's always the chance that we might simply be overanalyzing. I recently watched these videos by Veritasium on why most experts aren't actually "experts" and the dangers of overconfidence, and these actually give a very good insight on why predicting Signora's resurrection is so difficult.
