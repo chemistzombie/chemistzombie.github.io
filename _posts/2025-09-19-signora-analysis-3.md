@@ -4,7 +4,7 @@ title: "We're so back: A further analysis of Signora's resurrection and playabil
 description: "With the release of 5.8 and 6.0, Hoyo has given us further evidence that Signora will be playable despite her not returning in 5.8 as I've predicted. We take a look into what's new, and what this means for Signora mains."
 image: /images/signora/aww.png
 ---
-**Last updated: 2025-12-31**. Please see the commit history to see what changed. This will be updated over time as new information surfaces.
+**Last updated: 2026-01-01**. There were some outdated info from pre-6.3 betas and teasers that had to be updated. Please see the commit history to see what changed. This will be updated over time as new information surfaces.
 
 Okay, so 6.0 is out, and I admit I was wrong about Signora being playable in 5.8. However, there have been some MASSIVE developments lately, and all of them suggests that she will be playable soon. In fact, I'm glad I didn't post this earlier in 5.8 as I was planning to do that as some kind of "postmortem analysis" of the lack of her return in that version, but pushing this back ended up giving me more arguments in favor of her resurrection.
 
