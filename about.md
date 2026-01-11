@@ -51,7 +51,7 @@ I used to pair this with a GTX 1080 with the EXP GDC TH3P4G3 eGPU adapter, but t
   * Kailh Box Navy switch (originally came with Gateron Blue)
   * "Grape Smoothie" purple keycaps (MOA profile, dye-subbed PBT)
   * Foam modded
-* Earbuds: Salnotes Zero
+* Earbuds: Sennheiser HD 560S, Salnotes Zero
 * Controller: 8BitDo Ultimate 2 with Mobile Gaming Clip
 
 These are budget peripherals that are usable enough to pass as gaming and production hardware. In the case of the keyboard, it's the cheapest one I could find that does NOT use Outemu switches as they tend to use Outemu's proprietary hotswap sockets and would not support most switches from other brands without filing or clipping the pins.
@@ -65,10 +65,12 @@ I upgraded from the stock Gateron Blue to Kailh Box Navy as these have insanely 
 **At work**
 * Mouse: Logitech G203 Lightsync
 * Keyboard: Press Play Essential75
-  * Stock Flashquark Quark Matte linear switch
+  * JWK (Durock) T1 switch (originally came with Flashquark Quark Matte)
   * Unofficial Furina keycaps (Cherry profile, dye-subbed PBT)
 
-The keyboard is one of the cheapest VIA-compatible keyboards, at just IDR 600k, the same price as my ZX84. However, it lacks a wireless mode. I suspect that this uses the same OEM as the Cidoo V65 as they use the same Quark Matte switches (which are [officially licensed](https://old.reddit.com/r/switchmodders/comments/10k50xx/where_can_i_find_quark_matte_switches/j6aki2t/) from Flashquark) not sold publicly outside of these keyboards, and the V65 looks similar to the Essential75, except the latter has a function row.
+The keyboard is one of the cheapest VIA-compatible keyboards, at just IDR 600k, the same price as my ZX84, though it seems to use a proprietary firmware as opposed to just using QMK which is FOSS (and [violates their license](https://docs.qmk.fm/license_violations) as they use GPLv2). It's also wired-only instead of tri-band, which, had the firmware not been proprietary, was supposed to be common on QMK-compatible keyboards as wireless implementation is flaky on QMK due to them normally relying on proprietary wireless firmware. I suspect that this uses the same OEM as the Cidoo V65 as they use the same Quark Matte switches (which are [officially licensed](https://old.reddit.com/r/switchmodders/comments/10k50xx/where_can_i_find_quark_matte_switches/j6aki2t/) from Flashquark) not sold publicly outside of these keyboards, and the V65 looks similar to the Essential75, except the latter has a function row, and both violate the QMK license, which seems to be a recurring theme with these budget boards.
+
+If you're in Indonesia, I'd recommend buying Keychron boards from their official store instead if you want a fully-compliant keyboard, though they also cost more than the Essential75. This is only meant to be used at work so I didn't bother paying the extra premium for full compliance.
 
 I've always preferred 75% keyboards over 65% ones as having a function row (and an actual tilde key) can come in handy for productivity without resorting to layers.
 ### Former hardware
@@ -134,12 +136,12 @@ These days, I prefer mobile workstations to gaming laptops, as they offer better
 I care more about durability and reliability over raw performance as I need a laptop that can withstand some abuse, as I'll be constantly bringing it to work, and I often just carelessly toss my laptop into my backpack. I've been bummed by consumer-grade laptops as the plastic tends to become very brittle after a few years, as was the case with my Acer Swift 3 from 2018 that had its hinges broken after 4 years, and the plastic on the bezels and bottom chassis was already falling apart long before that. Meanwhile, my T480, while used and being as old as my Acer, is still in pretty good shape, aside from minor blemishes.
 
 **New peripherals**
-* Mouse: Logitech G502 Hero
-* Keyboard: Replace the switches on my current keyboard with Kailh Box Navy for most keys and Cherry MX White for some function keys to prevent accidental presses.
 * Mic: Rode NT-1
-* Headphones: Sennheiser HD 600, HD 650 or HD 6XX
+* Headphones: Sennheiser HD 600/HD 650/HD 6XX or Audio-Technica ATH-M50X
 
-I mainly produce DnB, so these open-back headphones will roll off the subs quite hard, which sounds less than ideal at first, but this is a hidden strength, because 90% of consumer audio equipments won't be able to reproduce subs anyway, and that's what I should be mixing for. On the flip side, these headphones are known for their neutral sound, which makes them perfect for mixing compared to something like the ATH-M50x which has better bass and a lower price but is less neutral.
+I mainly produce DnB, so these open-back headphones will roll off the subs quite hard, which sounds less than ideal at first, but this is a hidden strength, because 90% of consumer audio equipments won't be able to reproduce subs anyway, and that's what I should be mixing for. On the flip side, these headphones are known for their neutral sound, which makes them perfect for mixing.
+
+Alternatively, I could get the M50x which is a fair bit cheaper, has better bass response, and isolates noise better due to the closed-back design, but is less neutral. This might be a better choice for where I currently live as this is a fairly busy neighborhood and it rains frequently, things that may leak into the cans if they're loud enough.
 ### Phones I've owned
 1. **Xperia L (2013 - 2016)**. First ever Android phone I've owned. Upgraded to 4.4.4 and then 6.0 with a custom ROM as it only received a single version update throughout its life from 4.1.2 to 4.2.2. Its modem became faulty in 2015 or so, frequently throwing "[Sorry, the phone crashed!](https://i72.photobucket.com/albums/i199/t5chav/DSC_0009.jpg)" errors, with the log indicating that the modem crashed. The phone eventually became unusable in 2016, after the screen went purple sometime during a lunch break back in high school.
 2. **Galaxy J1 (2016 - 2017)**. Handed down from my parents. Sold in exchange for a Oneplus One.

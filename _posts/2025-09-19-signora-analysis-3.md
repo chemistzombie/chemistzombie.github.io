@@ -23,8 +23,10 @@ If you haven't seen the last two posts yet, then you should check [part 1](https
     * [Arlecchino's rerun in 5.3 was quite popular, even outperforming Mavuika's rerun](#arlecchinos-rerun-in-53-was-quite-popular-even-outperforming-mavuikas-rerun)
     * [Columbina's and Sandrone's release might be intended to test the waters before releasing Signora](#columbinas-and-sandrones-release-might-be-intended-to-test-the-waters-before-releasing-signora)
     * [Character design, kits, and playability are not set in stone](#character-design-kits-and-playability-are-not-set-in-stone)
+    * [The "surprising reunion with a Harbinger"](#the-surprising-reunion-with-a-harbinger)
   * [Speculations that may or may not be related to Signora](#speculations-that-may-or-may-not-be-related-to-signora)
     * [New Bloodstained Knight achievement in 6.3](#new-bloodstained-knight-achievement-in-63)
+    * [Unconfirmed dialogue of an abyss invasion in Mondstadt](#unconfirmed-dialogue-of-an-abyss-invasion-in-mondstadt)
     * [The similarities between the symbol in her boss fight and the Eroded Sunfire](#the-similarities-between-the-symbol-in-her-boss-fight-and-the-eroded-sunfire)
     * ["Ruzicka" being mentioned in a 3.6 event](#ruzicka-being-mentioned-in-a-36-event)
   * [Analogies to help people understand the reality of business strategies](#analogies-to-help-people-understand-the-reality-of-business-strategies)
@@ -393,7 +395,7 @@ I've mentioned in the [previous post](https://chemistzombie.github.io/2025/04/24
 
 * Dottore is likely not the surprising reunion he's talking about, as we've already gotten hints that he will show up in NK as early as Natlan's epilogue, and there's also the entire 6.1 flagship event that mentioned him, so when he attacked Columbina, we knew it would happen at one point.
 * Columbina is the archon substitute for the region and is the flagship character, so no surprise there. Also, not a reunion as this is the first time we met her.
-* Sandrone's been teased as early as 6.0 special program VOD and NK character splash arts. Also, this is our first real encounter with her, even if she did send that paper plane in Fontaine.
+* Sandrone's been teased as early as 6.0 special program VOD and NK character splash arts. Also, this is our first real encounter with her, even if she did send that <abbr title="I misremembered and thought it was a paper plane initially">~~paper plane~~</abbr> letter in Fontaine.
 * Arlecchino is related to the topic of Crimson Moon dynasty/Rerir's backstory, so not a surprise.
 * We expected Scara to accompany Durin, so that, too, is unsurprising.
 * Tartaglia is currently absent, but even if he did show up, it still wouldn't be a surprise because we've encountered him several times already in events and Fontaine.
