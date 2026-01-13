@@ -272,9 +272,9 @@ The preload for 6.3 is now available, and this is HUGE. It finally confirmed [my
 
 <div style="text-align: center;font-size:small"><img width="512" src="/images/signora/aboutrosalyne.png"/></div>
 
-The fact that this happened the second time in row means that this was a deliberate decision. Also notice how it says "About Rosalyne" instead of "About The Fair Lady". She's literally the only Harbinger who was mentioned by her real name in the VOs section, while others either use their codenames (The Doctor, Childe) or their commedia dell'arte names (Arlecchino and Sandrone, the other female harbingers). This is further evidence that nothing is as it seems, and they might be giving us subtle hints that she's returning in the near future. While the line itself doesn't explicitly hint towards her future revival, the fact that there are subtle oddities like these that outside observers would overlook strongly implies that they want us to read between the lines instead of taking things at face value.
+The fact that this happened the second time in row means that this was a deliberate decision. Also notice how it says "About Rosalyne" instead of "About The Fair Lady". She's literally the only Harbinger who was mentioned by her real name in the VOs section, while others either use their codenames (The Doctor, Childe) or their commedia dell'arte names (Arlecchino and Sandrone, the other female harbingers). This is further evidence that nothing is as it seems, and they might be giving us subtle hints that she's returning in the near future. While the line itself doesn't explicitly hint towards her future revival, the fact that there are subtle oddities like these that outside observers would overlook, strongly implies that they want us to read between the lines instead of taking things at face value.
 
-They *really* are insistent on referring to her as Rosalyne instead of Signora, as she was mentioned multiple times throughout the AQ and in this item called [Marionette's Notebook](https://gi.yatta.moe/en/archive/book/121456/marionettes-notebook?volume=5).
+Not only that, she was mentioned _multiple times_ throughout the AQ and in this item called [Marionette's Notebook](https://gi.yatta.moe/en/archive/book/121456/marionettes-notebook?volume=5), and they *really* are insistent on referring to her as Rosalyne instead of Signora.
 
 > ■ / ■ - Overcast
 > 
@@ -375,11 +375,11 @@ Additionally, they've posted another silhouette teaser for the upcoming playable
 Now here's my speculation of the unknown IDs:
 * Alice may not be playable yet as unlike Nicole, she didn't receive a playable ID despite now having a playable model.
 * Linnea is a character who was mentioned in Aino's VO, and given how some characters were only name-dropped in character VOs before officially becoming playable (Emilie, Ifa, Varesa, Illuga), it's expected that she will become playable at some point.
-* The silhouette teaser confirmed that Nicole and Varka are among the playable characters. It also confirmed that there will be 4 additional characters alongside them. with one of the silhouettes being missing an only reflecting a shadow. Given what we know about the playable IDs, it's safe to say that the missing silhouette is Sandrone. This, in total, occupies three of the aforementioned unknown IDs, leaving 2 empty slots left.
+* The silhouette teaser confirmed that Nicole and Varka are among the playable characters. It also confirmed that there will be 4 additional characters alongside them. with one of the silhouettes being missing and only reflecting a shadow. Given what we know about the playable IDs, it's safe to say that the missing silhouette is Sandrone. This, in total, occupies three of the aforementioned unknown IDs, leaving 2 empty slots left.
 
 We currently still don't know who these two IDs belong to, but it's certainly possible that any of these could be Signora, perhaps with the release of Mare Jivari expansion. After all, out of the 11 Harbingers, only 5 are playable or will be playable as of now, and they'd probably want to release the lower-ranking Harbingers as soon as possible before the higher-ranking ones like Pierro, Capitano, Dottore and Columbina start to cannibalize on their sales too much as players who are indifferent to the Harbingers may be psychologically more likely to focus on the highest-ranking characters than lower ones as they give the impression of being the "best".
 
-Releasing Signora alongside Sandrone and Columbina in 6.x and then Pantalone alongside Pulcinella in 7.x would be a great way to get rid of them from the waitlist and ensures that Pierro, Capitano, and Dottore can be released last in Snezhnaya and Khaenri'ah without killing the revenue of the lesser Harbingers. This also gives an element of surprise where, because people won't be expecting Signora to be playable anytime soon due to the lack of her presence, along with the fact that the missing figure was immediately speculated to be Sandrone.
+Releasing Signora alongside Sandrone and Columbina in 6.x and then Pantalone alongside Pulcinella in 7.x would be a great way to get rid of them from the waitlist and ensures that Pierro, Capitano, and Dottore can be released last in Snezhnaya and Khaenri'ah without killing the revenue of the lesser Harbingers. This also gives an element of surprise, because people won't be expecting Signora to be playable anytime soon due to the lack of her presence, along with the fact that the missing figure was immediately speculated to be Sandrone.
 
 However, an alternative theory exists in that there will be no 6.8, which would mean IDs 134 and 135 would be characters released in 7.x instead. The only problem with this theory is that, because end-of-major-version banners tend to sell poorly (see Emilie and Ineffa's debut), Hoyo is taking a risk that Sandrone's banner, arguably one of their flagship characters, may not perform as well as expected.
 
@@ -410,12 +410,12 @@ With Columbina and Sandrone being finally confirmed to be playable by reputable 
 
 Also, by making it seem like they're releasing all the female Harbingers but Signora, they're creating a powerful effect where her absence sticks out like a sore thumb, which keeps her relevant in community discussions and builds anticipation for a potential future reveal. And Hoyo seems to know this, given how they seem to make the female Harbingers friendly towards each other, and they even made this tweet that makes the absence of Signora feel all the more powerful. They're basically teasing us, the audience, by implying "Look how much more complete this would've been if she had been here".
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GenshinImpact?src=hash&amp;ref_src=twsrc%5Etfw">#GenshinImpact</a> <a href="https://twitter.com/hashtag/Arlecchino?src=hash&amp;ref_src=twsrc%5Etfw">#Arlecchino</a> <a href="https://twitter.com/hashtag/Columbina?src=hash&amp;ref_src=twsrc%5Etfw">#Columbina</a> <a href="https://twitter.com/hashtag/Sandrone?src=hash&amp;ref_src=twsrc%5Etfw">#Sandrone</a><br>Thank you for making the time tonight.<br>While the snow outside is still falling,<br>and as the sweet fragrance of cake fills the room,<br>and the wine glass in my hand is still warm to the touch...<br>Here&#39;s to the winter night, to this very… <a href="https://t.co/uRwvxaLrTM">pic.twitter.com/uRwvxaLrTM</a></p>&mdash; Genshin Impact (@GenshinImpact) <a href="https://twitter.com/GenshinImpact/status/2003786578276081913?ref_src=twsrc%5Etfw">December 24, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div style="text-align: center"><blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GenshinImpact?src=hash&amp;ref_src=twsrc%5Etfw">#GenshinImpact</a> <a href="https://twitter.com/hashtag/Arlecchino?src=hash&amp;ref_src=twsrc%5Etfw">#Arlecchino</a> <a href="https://twitter.com/hashtag/Columbina?src=hash&amp;ref_src=twsrc%5Etfw">#Columbina</a> <a href="https://twitter.com/hashtag/Sandrone?src=hash&amp;ref_src=twsrc%5Etfw">#Sandrone</a><br>Thank you for making the time tonight.<br>While the snow outside is still falling,<br>and as the sweet fragrance of cake fills the room,<br>and the wine glass in my hand is still warm to the touch...<br>Here&#39;s to the winter night, to this very… <a href="https://t.co/uRwvxaLrTM">pic.twitter.com/uRwvxaLrTM</a></p>&mdash; Genshin Impact (@GenshinImpact) <a href="https://twitter.com/GenshinImpact/status/2003786578276081913?ref_src=twsrc%5Etfw">December 24, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 ### She received her first ever official artwork, and it proves there's a real demand for her playability
 With Columbina's release being right around the corner, Hoyo has released a promo content called "Columbina's Anecdotes - Her Memories". Interestingly, unlike the Christmas commissioned fanart, this features Signora, and was made by Hoyo's own artists in-house, making it her first ever official appearance in image-based artwork (aside from Arle's teaser, which is a video). Remember that she wasn't even featured in 2.1's splash art, so it pretty much took them over 5 years to feature her outside the game.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Columbina&#39;s Anecdotes — Her Memories<br><br>See more details here: <a href="https://t.co/w1iLi9PXYc">https://t.co/w1iLi9PXYc</a><a href="https://twitter.com/hashtag/GenshinImpact?src=hash&amp;ref_src=twsrc%5Etfw">#GenshinImpact</a> <a href="https://twitter.com/hashtag/GenshinMoonInvitation?src=hash&amp;ref_src=twsrc%5Etfw">#GenshinMoonInvitation</a> <a href="https://twitter.com/hashtag/Columbina?src=hash&amp;ref_src=twsrc%5Etfw">#Columbina</a> <a href="https://t.co/mct5LU7t42">pic.twitter.com/mct5LU7t42</a></p>&mdash; Genshin Impact (@GenshinImpact) <a href="https://twitter.com/GenshinImpact/status/2010199994419036243?ref_src=twsrc%5Etfw">January 11, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<div style="text-align: center"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Columbina&#39;s Anecdotes — Her Memories<br><br>See more details here: <a href="https://t.co/w1iLi9PXYc">https://t.co/w1iLi9PXYc</a><a href="https://twitter.com/hashtag/GenshinImpact?src=hash&amp;ref_src=twsrc%5Etfw">#GenshinImpact</a> <a href="https://twitter.com/hashtag/GenshinMoonInvitation?src=hash&amp;ref_src=twsrc%5Etfw">#GenshinMoonInvitation</a> <a href="https://twitter.com/hashtag/Columbina?src=hash&amp;ref_src=twsrc%5Etfw">#Columbina</a> <a href="https://t.co/mct5LU7t42">pic.twitter.com/mct5LU7t42</a></p>&mdash; Genshin Impact (@GenshinImpact) <a href="https://twitter.com/GenshinImpact/status/2010199994419036243?ref_src=twsrc%5Etfw">January 11, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 <div style="text-align: center;font-size:small"><img width="512" src="/images/signora/anecdote.png"/><br />Aww, she brought the tea</div>
 
@@ -423,11 +423,19 @@ Places like [Reddit](https://www.reddit.com/r/Genshin_Impact/comments/1q9p970/co
 
 <div style="text-align: center;font-size:small"><img width="512" src="/images/signora/hoyolab.png"/><br />An example of some comments from the official Hoyolab post</div>
 
+<br/>
+
 <div style="text-align: center;font-size:small"><img width="512" src="/images/signora/hoyolab2.png"/><br />Another example of some comments from the official Hoyolab post</div>
+
+<br/>
 
 <div style="text-align: center;font-size:small"><img width="512" src="/images/signora/weibo.jpg"/><br />An example of some comments from the official Weibo</div>
 
+<br/>
+
 <div style="text-align: center;font-size:small"><img width="512" src="/images/signora/weibo2.jpg"/><br />Another example of some comments from the official Weibo</div>
+
+<br/>
 
 <div style="text-align: center;font-size:small"><img width="512" src="/images/signora/weibo3.jpg"/><br />Another example of some comments from the official Weibo</div>
 
@@ -446,7 +454,7 @@ One of the arguments that are frequently thrown by Signora detractors is that Ho
   * Yaoyao was originally a catalyst character.
   * Xingqiu was originally a Cryo character.
   * Ganyu was originally a 4\* character.
-  * And in a more recent case, Chasca was originally a Cryo character according to one of the promo images before they changed her to Anemo.
+  * And in a more recent case, [Chasca](https://www.reddit.com/r/Genshin_Impact/comments/1etrma8/chasca_changed_elements_between_the_ignition/) was originally a Cryo character according to one of the promo images before they changed her to Anemo.
   
   For more information, check out TCRF's [Genshin prototype](https://tcrf.net/Proto:Genshin_Impact) pages.
 
@@ -460,18 +468,18 @@ I've mentioned in the [previous post](https://chemistzombie.github.io/2025/04/24
 * We expected Scara to accompany Durin, so that, too, is unsurprising.
 * Tartaglia is currently absent, but even if he did show up, it still wouldn't be a surprise because we've encountered him several times already in events and Fontaine.
 * Capitano is currently dormant, and it's unlikely that we'll revisit him anytime soon as it's probably too early to do something like that.
-* This leaves us with Signora. Three (soon to be four) mentions back-to-back. Bloodstained Knight-related achievement that might give us further backstory about her. The constant teasing, both in-game and outside the game. All of this is just way too suspicious for them to just be a coincidence.
+* This leaves us with Signora. Multiple mentions back-to-back. Bloodstained Knight-related achievement that might give us further backstory about her. The constant teasing, both in-game and outside the game. All of this is just way too suspicious for them to just be a coincidence.
 
 The whole thing just feels like a teasing and marketing hype cycle to me. After all, if you wanted to do a "surprising reunion", you gotta prep the audience by building up hype before you reveal the big surprise. This ensures that the audience is well-informed that something major is about to happen, but at the same time, they can't stretch this for too long or else they'll get burnt out from all the blueballing. Releasing merch drops, character mentions, and artworks that evoke the feeling of her absence is a perfect way to do this in a controlled manner.
 
 ## Her resurrection arc might have already been in development
 We've finally received an official confirmation on how long it takes to finish a major game content, such as AQs, in Genshin Fes 2025. I've speculated in my [previous post](https://chemistzombie.github.io/2025/08/16/signora-analysis-2.html) that it could take up to 22 months to complete an AQ plot, given how that's how long it took between Signora's first appearance in the game files (CB1.2 in November 2019) and her death in September 2021. Turns out, I was virtually right on the money.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">[GenshinFes]<br>Aquaria, the combat designer for Genshin, talks about the time needed to develop one patch version for Genshin Impact<br><br>He also confirmed GENSHIN ANIME is still in the works and it has been going smoothly! <a href="https://t.co/iyE8f0Eecj">pic.twitter.com/iyE8f0Eecj</a></p>&mdash; Rachii荔枝 (@Rachii_Chan) <a href="https://twitter.com/Rachii_Chan/status/2007375300741738692?ref_src=twsrc%5Etfw">January 3, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<div style="text-align: center"><blockquote class="twitter-tweet"><p lang="en" dir="ltr">[GenshinFes]<br>Aquaria, the combat designer for Genshin, talks about the time needed to develop one patch version for Genshin Impact<br><br>He also confirmed GENSHIN ANIME is still in the works and it has been going smoothly! <a href="https://t.co/iyE8f0Eecj">pic.twitter.com/iyE8f0Eecj</a></p>&mdash; Rachii荔枝 (@Rachii_Chan) <a href="https://twitter.com/Rachii_Chan/status/2007375300741738692?ref_src=twsrc%5Etfw">January 3, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </div>
 
 According to this interview, shorter versions take around 6 months, while longer ones can take 17-20 months to finish. They move back and forth with the concept design and revision pipeline, which means that things are subject to change.
 
-There's actual in-game evidence of this too. "The Little Witch and the Undying Flame", which is a book about Durin, was first seen in 4.7 beta (during 4.6), That was from April 2024. Durin himself became a playable character in 6.2, which was in December 2025. That's almost a 20-month gap between the foreshadowing of his playability and him becoming playable. We use the betas as our reference for starting dates as we can assume that was when they first began the development of the content, not when the final version is out.
+There's actual in-game evidence of this too. "[The Little Witch and the Undying Fire](https://genshin-impact.fandom.com/wiki/The_Little_Witch_and_the_Undying_Fire)", which is a book about Simulanka Durin, was first seen in 4.7 beta (during 4.6). That was from April 2024. Durin himself became a playable character in 6.2, which was in December 2025. That's almost a 20-month gap between the foreshadowing of his playability and him becoming playable. We use the betas as our reference for starting dates, since we can assume that was when they first began the development of the content, not when the final version is out.
 
 If we assume that the first instance of Signora's pity-baiting under her real name and the merch drops in 6.0 beta are a foreshadowing for her return, then we can expect her being playable as early as 7.2 in December 2026 (almost 17 months later), and as late as 7.4 in March 2027 (20 months later, just like Durin's release). Do keep in mind that these are just estimates, as we could only make educated guesses on when the development started based on in-game and marketing hints, so her actual banner may come out earlier or later than these.
 
