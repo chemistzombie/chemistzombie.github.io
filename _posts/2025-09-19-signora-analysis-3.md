@@ -4,7 +4,7 @@ title: "We're so back: A further analysis of Signora's resurrection and playabil
 description: "With the release of 5.8 and 6.0, Hoyo has given us further evidence that Signora will be playable despite her not returning in 5.8 as I've predicted. We take a look into what's new, and what this means for Signora mains."
 image: /images/signora/aww.png
 ---
-**Last updated: 2026-01-13**. I did a bit of rewrite now that we've reached the conclusion of Nod-Krai's archon quests, at least before the interlude and Dainsleif chapter arrive. Also some further corrections and new information.
+**Last updated: 2026-03-28**. After having to deal with things at work that has been piling up during the last few weeks, I finally added my thoughts on everything that happened in 6.3 and 6.4. Sorry for the wait.
 
 Please see the commit history to see what changed. This will be updated over time as new information surfaces.
 
