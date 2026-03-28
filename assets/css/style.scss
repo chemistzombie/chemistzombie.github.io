@@ -51,3 +51,9 @@ h3 {font-family: 'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Headi
 h4 {font-family: 'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Heading 4 font. Other stuff that uses the h4 tag is also affected. */
 
 .site-footer-credits{display:none;}
+
+.widescreen-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: 100%;
+}
