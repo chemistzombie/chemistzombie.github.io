@@ -41,6 +41,7 @@ I used to pair this with a GTX 1080 using EXP GDC TH3P4G3 eGPU adapter, but the 
 * CPU: Core U5 235U
 * RAM: 1x16GB DDR5-5600 (it only has 1 RAM slot, and it's not even CAMM)
 * Storage: SK Hynix PVC10 512GB
+
 I hardly ever use this laptop because company-issued laptops are so locked down, and you shouldn't do personal things with it.
 
 #### Peripherals
@@ -68,12 +69,14 @@ I wanted a keyset with purple colorway because it's one of my favorite colors be
   * AliExpress Grape Smoothie keycaps (MOA profile, dye sub PBT)
 
 I used to have a PressPlay Essential75, but decided to sell it just a few months later because I was disappointed by how it keeps chattering when I use the Durock T1 switches. This doesn't happen with the older ZX84 board I have since 2024, so it's very likely to be a PCB issue. If only I learned that Keychron sells V series barebone kits for about the same price before I made the purchase...
+
 ### Former hardware
 #### ThinkPad L13 Gen 3 - work laptop
 * CPU: i5-1245U
 * RAM: 2x4GB DDR4-3200 (soldered)
 * Storage: Micron MTFDKCD512TFK 512GB
 Lease period has ended, so this has been returned to the vendor. It was available for purchase, but I declined because it's only got 8GB RAM and it's soldered, which isn't enough for me, and it doesn't come with the SSD for data security reasons. Considering how fucked storage prices are now, this was just a bad deal.
+
 #### PC in my parents' house (retired)
 * CPU: Intel Xeon X5650
 * CPU cooler: Deepcool Gammaxx 400
@@ -98,6 +101,7 @@ As of September 2025, this PC has been retired and will no longer be used for an
 * RAM: 1x4GB DDR4-2400 (soldered) + 1x4GB Teamgroup Elite DDR4-2400
 * Storage: Samsung 970 Evo 256GB + WD Blue 1TB 5400RPM (WD10SPZX)
 POS laptop with the most fragile barrel plug ever. I kept burning through new chargers because of that, and the USB-C port didn't even support power delivery. Also had some of the most incredibly fragile plastic I've ever seen, I had to literally duct tape the chassis so it doesn't come off. The cooler struggled to do any kind of cooling, so the GPU constantly thermal throttled to 400MHz when running any GPU-intensive tasks, and the CPU temps didn't fare any better. Probably the worst laptop I've ever owned. Get a Thinkpad if you want durability, or Macbook if you want power efficiency.
+
 #### 2016 build (sold)
 * CPU: i5-4460
 * CPU cooler: Stock
@@ -141,6 +145,7 @@ It's been so long since my parents threw this PC away, so I could only remember 
 * CPU: Pentium? (unknown clock speed)
 * GPU, RAM, Storage: Unknown
 This was even older than that late 90s custom PC, and it was thrown away when I was 4 or so. I barely remembered anything other than the fact that it was a Compaq Deskpro running Windows 98 (unsure if it's the FE or SE). Yes, I'm one of the few zoomers who experienced W98 as their first OS.
+
 ### Wishlist
 **New laptop:** At least a ThinkPad P52 with Xeon and Quadro P2000. ThinkPad T15g or P1 (if prices come down, preferably with Xeon instead of i7). Alternatively, a MacBook Neo or Air 512GB.
 
@@ -153,6 +158,7 @@ I'm also considering the recently released Macbook Neo because it's quite a comp
 **New peripherals**
 * Mic: Rode NT-1
 May not happen in the near future because I'm not really in dire need of a mic anyway.
+
 ### Phones I've owned
 1. **Xperia L (2013 - 2016)**. First ever Android phone I've owned. Upgraded to 4.4.4 and then 6.0 with a custom ROM as it only received a single version update throughout its life from 4.1.2 to 4.2.2. Its modem became faulty in 2015 or so, frequently throwing "[Sorry, the phone crashed!](https://i72.photobucket.com/albums/i199/t5chav/DSC_0009.jpg)" errors, with the log indicating that the modem crashed. The phone eventually became unusable in 2016, after the screen went purple sometime during a lunch break back in high school.
 2. **Galaxy J1 (2016 - 2017)**. Handed down from my parents. Sold in exchange for a Oneplus One.
@@ -161,5 +167,4 @@ May not happen in the near future because I'm not really in dire need of a mic a
 5. **Galaxy Note FE (2021 - 2023)**. Bought this phone due to it having Android 9 despite technically being part of the same generation as the S7, which only received updates up to Android 8 (it is in fact just a Note 7 with a less explosive battery) as it was released in 2017 like the S8 and Note8. Because of this, it has One UI 1.0 which was also used on the S10 lineup at launch.
 6. **Galaxy S10+ (2023 - present)**. I initially wanted the S10e due to its compact size, but realized that battery life might be an issue due to it approaching 4 years old. The last good Samsung flagship because it still has a 3.5mm jack and micro SD slot. Currently using this as a secondary device as I now daily drive an iPhone 15, but I still miss those two features and YouTube Revanced.
 7. **Galaxy Note 4 (2025 - present)**. Despite being over 11 years old at this point, I bought this phone to fulfill my broken childhood dream of owning a Galaxy Note 4 from a state-owned mobile carrier sweepstakes campaign. This sounds stupid, but it means a lot to me that it probably deserves its own post. I'm using this alongside the iPhone 15 and the S10+ as a secondary device as the Indonesian model is 3G only, and 3G has been phased out in here since 2022, effectively making it 2G-only.
-8. **iPhone 15 (2025 - present)**. This is my first ever phone that I bought brand new in box. I decided to jump ship to iOS after almost 12 years of using Android because I got sick of app developers and Google mistreating users with modded devices by preventing their apps from running and patching the methods to circumvent the restriction, which caused Android to lose the only thing that made it unique. Then there's also the app sideloading restriction bullshit that made me even more sick of Android than I already am. If I wanna get fucked over by a walled garden, I might as well use iOS because at least they're not even trying to hide it.
-Meanwhile, app developers tend to prioritize iOS to the point where new apps and updates are usually delivered there first and there's a lot of iOS-exclusive apps I can't get on Android, which made me feel like I was being treated as a second-class citizen. I should probably make a detailed post about this later. I was initially planning to get the 16e, but after reading the reviews, its poor low-light video performance is a dealbreaker for me, so I ended up getting this instead.
+8. **iPhone 15 (2025 - present)**. This is my first ever phone that I bought brand new in box. I decided to jump ship to iOS after almost 12 years of using Android because I got sick of app developers and Google mistreating users with modded devices by preventing their apps from running and patching the methods to circumvent the restriction, which caused Android to lose the only thing that made it unique. Then there's also the app sideloading restriction bullshit that made me even more sick of Android than I already am. If I wanna get fucked over by a walled garden, I might as well use iOS because at least they're not even trying to hide it. Meanwhile, app developers tend to prioritize iOS to the point where new apps and updates are usually delivered there first and there's a lot of iOS-exclusive apps I can't get on Android, which made me feel like I was being treated as a second-class citizen. I should probably make a detailed post about this later. I was initially planning to get the 16e, but after reading the reviews, its poor low-light video performance is a dealbreaker for me, so I ended up getting this instead.
