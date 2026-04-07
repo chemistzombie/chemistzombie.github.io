@@ -2,16 +2,16 @@
 layout: default
 title: About
 ---
-I'm usually known as "Chemist", even though I'm not a chemist IRL. A 24 year old nobody. Former content creator and streamer. He/him.
+I'm usually known as "Chemist", even though I'm not actually a chemist. A 25 year old nobody. Former content creator and streamer. He/him.
 
-I have no real coding experience as I never had the time to do it, and I wasn't accepted into CS back in college. I have an environmental health degree, which is part of public health, though I currently have a boring desk job that doesn't really make use of what I learned in college all that much. It's a good thing though, as I struggle to interact with people, and my current job avoids that kind of interaction. And in hindsight, not taking the CS path was probably for better, as the job market for software engineering is terrible in here.
+I have no real coding experience as I never had the time to do it, and I wasn't accepted into CS back in college. I have an environmental health degree, which is part of public health, though I currently have a boring desk job that doesn't really make use of what I learned in college all that much. It's a good thing though, as I struggle to interact with people, and my current job avoids that kind of interaction. And in hindsight, not taking the CS path was probably for the best, as the job market for software engineering is terrible in here.
 
 I used to be more present on social media but realized that this isn't worth the hassle. If you need to contact me, join the Floral Federation discord [here](https://discord.gg/pvz) and send me a DM with the message "I found your Discord from your blog and would like to ask you something". I don't usually respond to strangers due to increasing amounts of DM spam, so please do this if you'd like to reach out. You need to join the server as I don't accept friend requests from strangers, and Discord doesn't allow you to interact with people not on your friends list who don't share mutual servers.
 
 Discord: @chemistzombie (may not respond immediately)
 
 ### Hardware spec sheet
-#### New rig in the apartment
+#### Desktop PC
 * CPU: Ryzen 5 7500F
 * CPU cooler: AMD Wraith Stealth stock cooler
 * GPU: Zotac RTX 3060 Twin Edge 12GB
@@ -31,49 +31,52 @@ I wanted 16:10 as it offers more vertical space while not being so tall it cuts 
 
 Also, I was extremely lucky to have built this back in early September 2025. That was literally just a month before the DRAM shortage happened. Had I delayed building the PC, I wouldn't have been able to finish the build, as I'm NOT willing to pay that much for RAM sticks, which are now hitting over 3x the normal price.
 
-#### ThinkPad T480 - current daily driver in my apartment
+#### ThinkPad T480 - personal laptop
 * CPU: i5-8350U
 * RAM: mismatched 1x16GB Samsung DDR4-2133 + 1x4GB Teamgroup Elite DDR4-2400
 * Storage: ADATA SX8200 Pro 2TB
 
-I used to pair this with a GTX 1080 with the EXP GDC TH3P4G3 eGPU adapter, but the card broke, and I simply don't really find this setup to be useful anymore, now that I have a modern desktop PC.
+I used to pair this with a GTX 1080 using EXP GDC TH3P4G3 eGPU adapter, but the card died, and I simply don't really find this setup to be useful anymore, now that I have a modern desktop PC.
+#### Dell Pro 13 Plus PB13250 - work laptop
+* CPU: Core U5 235U
+* RAM: 1x16GB DDR5-5600 (it only has 1 RAM slot, and it's not even CAMM)
+* Storage: SK Hynix PVC10 512GB
 
-#### ThinkPad L13 Gen 3 - work laptop
-* CPU: i5-1245U
-* RAM: 2x4GB DDR4-3200 (soldered)
-* Storage: 512GB SSD
+I hardly ever use this laptop because company-issued laptops are so locked down, and you shouldn't do personal things with it.
 
 #### Peripherals
 **At home**
 * Mouse: Logitech G304 Lightspeed
   * Also known as the G305 in the Western market
-* Keyboard: Foxhound Paradox Gaming ZX84
-  * Kailh Box Navy switch (originally came with Gateron Blue)
-  * "Grape Smoothie" purple keycaps (MOA profile, dye-subbed PBT)
-  * Foam modded
-* Earbuds: Sennheiser HD 560S, Salnotes Zero
+* Keyboard: Keychron V3
+  * Barebones kit
+  * Kailh Box Navy switch
+  * PressPlayID PPBT UBE (Cherry profile, dye sub PBT)
+* Headphones: Sennheiser HD 560S
+* IEMs: Salnotes Zero
 * Controller: 8BitDo Ultimate 2 with Mobile Gaming Clip
 
-These are budget peripherals that are usable enough to pass as gaming and production hardware. In the case of the keyboard, it's the cheapest one I could find that does NOT use Outemu switches as they tend to use Outemu's proprietary hotswap sockets and would not support most switches from other brands without filing or clipping the pins.
+I recently scored a barebones V3 for just $45, which is quite a bargain for a QMK-compatible board, likely because the original V series appears to have been discontinued and superseded by the V Max series and this is a new old stock (other V-series models have gone completely out of stock).
 
-I bought the board for just IDR 600k (approx. $35), and presumably these are so cheap because they didn't sell well. The manufacturing date on the back of it says December 2021, and I bought this in May 2024. That's 2.5 years of this thing sitting in the warehouse, and it's no wonder they desperately tried to sell these for a low price, and presumably at a loss.
+I only bought this because it's literally the only QMK-compatible board under $60 (IDR 1m), and I plan on using my own BOX Navies and keycap set anyway.
 
-For this price, I got a 75% board with Gateron Blue switches, non-proprietary hotswap sockets, doubleshot PBT keycaps, detachable USB-C cable, and wireless over 2.4G and Bluetooth, though the chassis is still cheap plastic. This is just insane value as I don't think any keyboard in the Western market could hit a price point this low while offering this many premium features.
-
-I upgraded from the stock Gateron Blue to Kailh Box Navy as these have insanely satisfying clicks that sound deep, a ridiculously sharp tactile bump, and they're quite heavy, which I prefer over lighter switches, requiring 75g of actuation force and 90g of bottom-out force. It could take some time to get used to the stiffness for gaming, but these are great for typists. It's probably the closest you could get to the Model M's buckling springs with MX-style switches.
+I wanted a keyset with purple colorway because it's one of my favorite colors besides teal, cyan, and navy blue as they're quite rare, but finding a decent one on a budget is a bitch, so I bought this PPBT UBE set from a local company (PressPlayID) for just $20. The legends are a bit crooked, but you get what you paid for. At least the colors are consistent.
 
 **At work**
 * Mouse: Logitech G203 Lightsync
-* Keyboard: Press Play Essential75
-  * JWK (Durock) T1 switch (originally came with Flashquark Quark Matte)
-  * Unofficial Furina keycaps (Cherry profile, dye-subbed PBT)
+* Keyboard: Foxhound Paradox Gaming ZX84
+  * JWK Durock T1 switch (originally came with Gateron Blue)
+  * AliExpress Grape Smoothie keycaps (MOA profile, dye sub PBT)
 
-The keyboard is one of the cheapest VIA-compatible keyboards, at just IDR 600k, the same price as my ZX84, though it seems to use a proprietary firmware as opposed to just using QMK which is FOSS (and [violates their license](https://docs.qmk.fm/license_violations) as they use GPLv2). It's also wired-only instead of tri-band, which, had the firmware not been proprietary, was supposed to be common on QMK-compatible keyboards as wireless implementation is flaky on QMK due to them normally relying on proprietary wireless firmware. I suspect that this uses the same OEM as the Cidoo V65 as they use the same Quark Matte switches (which are [officially licensed](https://old.reddit.com/r/switchmodders/comments/10k50xx/where_can_i_find_quark_matte_switches/j6aki2t/) from Flashquark) not sold publicly outside of these keyboards, and the V65 looks similar to the Essential75, except the latter has a function row, and both violate the QMK license, which seems to be a recurring theme with these budget boards.
+I used to have a PressPlay Essential75, but decided to sell it just a few months later because I was disappointed by how it keeps chattering when I use the Durock T1 switches. This doesn't happen with the older ZX84 board I have since 2024, so it's very likely to be a PCB issue. If only I learned that Keychron sells V series barebone kits for about the same price before I made the purchase...
 
-If you're in Indonesia, I'd recommend buying Keychron boards from their official store instead if you want a fully-compliant keyboard, though they also cost more than the Essential75. This is only meant to be used at work so I didn't bother paying the extra premium for full compliance.
-
-I've always preferred 75% keyboards over 65% ones as having a function row (and an actual tilde key) can come in handy for productivity without resorting to layers.
 ### Former hardware
+#### ThinkPad L13 Gen 3 - work laptop
+* CPU: i5-1245U
+* RAM: 2x4GB DDR4-3200 (soldered)
+* Storage: Micron MTFDKCD512TFK 512GB
+Lease period has ended, so this has been returned to the vendor. It was available for purchase, but I declined because it's only got 8GB RAM and it's soldered, which isn't enough for me, and it doesn't come with the SSD for data security reasons. Considering how fucked storage prices are now, this was just a bad deal.
+
 #### PC in my parents' house (retired)
 * CPU: Intel Xeon X5650
 * CPU cooler: Deepcool Gammaxx 400
@@ -97,6 +100,7 @@ As of September 2025, this PC has been retired and will no longer be used for an
 * GPU: Nvidia MX150 (1D10) 4GB GDDR5
 * RAM: 1x4GB DDR4-2400 (soldered) + 1x4GB Teamgroup Elite DDR4-2400
 * Storage: Samsung 970 Evo 256GB + WD Blue 1TB 5400RPM (WD10SPZX)
+POS laptop with the most fragile barrel plug ever. I kept burning through new chargers because of that, and the USB-C port didn't even support power delivery. Also had some of the most incredibly fragile plastic I've ever seen, I had to literally duct tape the chassis so it doesn't come off. The cooler struggled to do any kind of cooling, so the GPU constantly thermal throttled to 400MHz when running any GPU-intensive tasks, and the CPU temps didn't fare any better. Probably the worst laptop I've ever owned. Get a Thinkpad if you want durability, or Macbook if you want power efficiency.
 
 #### 2016 build (sold)
 * CPU: i5-4460
@@ -109,39 +113,52 @@ As of September 2025, this PC has been retired and will no longer be used for an
 
 This build was really ass because I didn't really know the best PC parts at the time, nor would my parents let me buy anything too expensive. The GPU was pretty much DOA because the 1050 Ti was already released by then, but they were out of stock and me being an impatient guy, I impulsively bought an RX 460 instead of the much better value RX 470. The case was a no-name, garbage-tier case with poor airflow, no cable management, poor build quality, and a power button that broke after I tried to take out the front panel for maintenance. I can't even find any documentation for it anymore, because news flash, no one cares about these cheap cases nine years later.
 
-I initially wanted to buy a Xeon E3-1231 v3 which was bsaically just an i7 without the iGPU, but it too was out of stock, and I impulsively bought an i5 just because I didn't wanna wait any longer to play GTA V back then.
+I initially wanted to buy a Xeon E3-1231 v3 which was basically just an i7 without the iGPU, but it too was out of stock, and I impulsively bought an i5 just because I didn't wanna wait any longer to play GTA V back then.
 
 Needless to say, it wasn't a great experience. The RX 460 struggled in GTA V at 1080p max settings, but I still insisted on playing it at those settings anyway because I wanted to play the game with the best possible settings, FPS be damned. I've been waiting for *years* to play the game at that point, and I wanted to max it out so I'm not stuck with potato quality. ENB tanked the performance badly and that's where the cracks were starting to show. Minecraft absolutely crapped out when I tried to install demanding shaders like Sildur's Extreme or SEUS. Also, the i5, while adequate for its time, wasn't the best value option (that would go to the Xeon), and for software rendering on PCSX2 (required for compatibility with specific games), I think I could've gotten better results with even more rendering threads had I gotten the Xeon instead.
 
-#### ThinkCentre M58e (broken)
+#### ThinkCentre M58e
 * CPU: Core 2 Duo E7500
 * GPU: GeForce 210
 * RAM: 2x1GB DDR2 (unknown speed and timing)
 * Storage: WD AV-GP 160GB 7200RPM
 
-My father tricked me with this one. He told me that this was the "best in class" PC. Yeah, "best in class" my ass. This was 2014, and that CPU had been around since 2008, not to mention that it's got the dreaded GT 210 (which is more accurately referred to as the GeForce 210). The RAM was faulty and actively corrupting the data stored on anything attached to the PC, and somehow the local computer repair shop didn't notice this, so they just went with the reinstall path which solved nothing. It wasn't until the corruption was so severe that they finally replaced the RAM.
+My father tricked me with this one. He told me that this was the "best in class" PC. Yeah, "best in class" my ass. This was 2014, and that CPU had been around since 2008, not to mention that it's got the dreaded GT 210 (which is more accurately referred to as the GeForce 210). The RAM was faulty and actively corrupting the data stored on anything attached to the PC, and somehow the local repair shop didn't notice this, so they just went with the reinstall path which solved nothing. It wasn't until the corruption was so severe that they finally replaced the RAM.
 
-#### 2008 netbook (broken)
+#### 2008 netbook
 * CPU: Intel Atom N270
 * GPU: Intel GMA
 * RAM: 1x1GB DDR2 (unknown speed and timing)
 * Storage: Fujitsu 160GB 5400RPM
 
 A POS netbook that came with Xandros Linux preinstalled, but was reinstalled and replaced by Windows XP. Painfully slow. Got a nasty case of malware infection back in 2012 (Sality + Ramnit + Slugin). Couldn't even run most games as they would simply crash due to the underpowered GMA iGPU, and if they *did* run, the performance would be so terrible it's actually worse than even a very old GPU like the Radeon 9700 Pro.
+
+#### Late 90s Custom PC
+* CPU: Celeron (unknown model)
+* GPU: Samsung SVB-????
+	* I only remember the model number having an SVB on it, but this card is so obscure it has pretty much lost to time
+* RAM: Unknown
+* Storage: Maxtor + Samsung SpinPoint (unknown models)
+It's been so long since my parents threw this PC away, so I could only remember the brands but not any of the specifics. It was probably bought sometime in 2006. I recall it using Windows XP SP1 though (as it still had the "Professional" branding on the boot logo) even though I had it until 2009, in which SP3 had already been released a year earlier. I didn't have internet at home back then, and I wasn't aware of the existence of service packs back then, so I couldn't even update it anyway.
+
+#### Compaq Deskpro
+* CPU: Pentium? (unknown clock speed)
+* GPU, RAM, Storage: Unknown
+This was even older than that late 90s custom PC, and it was thrown away when I was 4 or so. I barely remembered anything other than the fact that it was a Compaq Deskpro running Windows 98 (unsure if it's the FE or SE). Yes, I'm one of the few zoomers who experienced W98 as their first OS.
+
 ### Wishlist
-**New laptop:** At least a ThinkPad P52 with Xeon and Quadro P2000. Thinkpad T15g or P1 (if prices come down, preferably with Xeon instead of i7).
+**New laptop:** At least a ThinkPad P52 with Xeon and Quadro P2000. ThinkPad T15g or P1 (if prices come down, preferably with Xeon instead of i7). Alternatively, a MacBook Neo or Air 512GB.
 
 These days, I prefer mobile workstations to gaming laptops, as they offer better performance than non-gaming laptops while having the durability of business laptops. I prefer Xeons over i7s just because they sound cool (Xeon just screams "serious business" as they're typically used in servers), even though my main use cases will be gaming, music production, and boring office tasks. Sure, they don't offer as much performance as gaming laptops at the same price point, but I'll be buying these used anyway, and I really only play less demanding games like Genshit these days.
 
 I care more about durability and reliability over raw performance as I need a laptop that can withstand some abuse, as I'll be constantly bringing it to work, and I often just carelessly toss my laptop into my backpack. I've been bummed by consumer-grade laptops as the plastic tends to become very brittle after a few years, as was the case with my Acer Swift 3 from 2018 that had its hinges broken after 4 years, and the plastic on the bezels and bottom chassis was already falling apart long before that. Meanwhile, my T480, while used and being as old as my Acer, is still in pretty good shape, aside from minor blemishes.
 
+I'm also considering the recently released Macbook Neo because it's quite a compelling laptop if all you do is basic office tasks like me. It can probably run Genshit via [YAAGL](https://github.com/yaagl/yet-another-anime-game-launcher) too, which is really the only game I care about when I'm away from home. Yes, they're not as durable as Thinkpads, but they have better battery life, which seems to be a good tradeoff if I don't have access to a charger for extended periods of time. The only drawback is that it's only got 8GB RAM, so I may consider the Air despite its much higher price tag.
+
 **New peripherals**
 * Mic: Rode NT-1
-* Headphones: Sennheiser HD 600/HD 650/HD 6XX or Audio-Technica ATH-M50X
+May not happen in the near future because I'm not really in dire need of a mic anyway.
 
-I mainly produce DnB, so these open-back headphones will roll off the subs quite hard, which sounds less than ideal at first, but this is a hidden strength, because 90% of consumer audio equipments won't be able to reproduce subs anyway, and that's what I should be mixing for. On the flip side, these headphones are known for their neutral sound, which makes them perfect for mixing.
-
-Alternatively, I could get the M50x which is a fair bit cheaper, has better bass response, and isolates noise better due to the closed-back design, but is less neutral. This might be a better choice for where I currently live as this is a fairly busy neighborhood and it rains frequently, things that may leak into the cans if they're loud enough.
 ### Phones I've owned
 1. **Xperia L (2013 - 2016)**. First ever Android phone I've owned. Upgraded to 4.4.4 and then 6.0 with a custom ROM as it only received a single version update throughout its life from 4.1.2 to 4.2.2. Its modem became faulty in 2015 or so, frequently throwing "[Sorry, the phone crashed!](https://i72.photobucket.com/albums/i199/t5chav/DSC_0009.jpg)" errors, with the log indicating that the modem crashed. The phone eventually became unusable in 2016, after the screen went purple sometime during a lunch break back in high school.
 2. **Galaxy J1 (2016 - 2017)**. Handed down from my parents. Sold in exchange for a Oneplus One.
@@ -149,6 +166,5 @@ Alternatively, I could get the M50x which is a fair bit cheaper, has better bass
 4. **Redmi Note 4 (2018 - 2021)**. Another hand-me-down device. The phone became very slow over time likely due to the internal storage wearing out.
 5. **Galaxy Note FE (2021 - 2023)**. Bought this phone due to it having Android 9 despite technically being part of the same generation as the S7, which only received updates up to Android 8 (it is in fact just a Note 7 with a less explosive battery) as it was released in 2017 like the S8 and Note8. Because of this, it has One UI 1.0 which was also used on the S10 lineup at launch.
 6. **Galaxy S10+ (2023 - present)**. I initially wanted the S10e due to its compact size, but realized that battery life might be an issue due to it approaching 4 years old. The last good Samsung flagship because it still has a 3.5mm jack and micro SD slot. Currently using this as a secondary device as I now daily drive an iPhone 15, but I still miss those two features and YouTube Revanced.
-7. **Galaxy Note 4 (2025 - present)**. Despite being over 10 years old at this point, I bought this phone to fulfill my broken childhood dream of owning a Galaxy Note 4 from a state-owned mobile carrier sweepstakes campaign. This sounds stupid, but it means a lot to me that it probably deserves its own post. I'm using this alongside the iPhone 15 and the S10+ as a secondary device as the Indonesian model is 3G only, and 3G has been phased out in here since 2022, effectively making it 2G-only.
-8. **iPhone 15 (2025 - present)**. This is my first ever phone that I bought brand new in box. I decided to jump ship to iOS after almost 12 years of using Android because I got sick of app developers and Google mistreating users with modded devices by preventing their apps from running and patching the methods to circumvent the restriction, which caused Android to lose the only thing that made it unique.  
-Meanwhile, app developers tend to prioritize iOS to the point where new apps and updates are usually delivered there first and there's a lot of iOS-exclusive apps I can't get on Android, which made me feel like I was being treated as a second-class citizen. I should probably make a detailed post about this later. I was initially planning to get the 16e, but after reading the reviews, its poor low-light video performance is a dealbreaker for me, so I ended up getting this instead.
+7. **Galaxy Note 4 (2025 - present)**. Despite being over 11 years old at this point, I bought this phone to fulfill my broken childhood dream of owning a Galaxy Note 4 from a state-owned mobile carrier sweepstakes campaign. This sounds stupid, but it means a lot to me that it probably deserves its own post. I'm using this alongside the iPhone 15 and the S10+ as a secondary device as the Indonesian model is 3G only, and 3G has been phased out in here since 2022, effectively making it 2G-only.
+8. **iPhone 15 (2025 - present)**. This is my first ever phone that I bought brand new in box. I decided to jump ship to iOS after almost 12 years of using Android because I got sick of app developers and Google mistreating users with modded devices by preventing their apps from running and patching the methods to circumvent the restriction, which caused Android to lose the only thing that made it unique. Then there's also the app sideloading restriction bullshit that made me even more sick of Android than I already am. If I wanna get fucked over by a walled garden, I might as well use iOS because at least they're not even trying to hide it. Meanwhile, app developers tend to prioritize iOS to the point where new apps and updates are usually delivered there first and there's a lot of iOS-exclusive apps I can't get on Android, which made me feel like I was being treated as a second-class citizen. I should probably make a detailed post about this later. I was initially planning to get the 16e, but after reading the reviews, its poor low-light video performance is a dealbreaker for me, so I ended up getting this instead.
