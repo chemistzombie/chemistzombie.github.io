@@ -75,6 +75,7 @@ I used to have a PressPlay Essential75, but decided to sell it just a few months
 * CPU: i5-1245U
 * RAM: 2x4GB DDR4-3200 (soldered)
 * Storage: Micron MTFDKCD512TFK 512GB
+
 Lease period has ended, so this has been returned to the vendor. It was available for purchase, but I declined because it's only got 8GB RAM and it's soldered, which isn't enough for me, and it doesn't come with the SSD for data security reasons. Considering how fucked storage prices are now, this was just a bad deal.
 
 #### PC in my parents' house (retired)

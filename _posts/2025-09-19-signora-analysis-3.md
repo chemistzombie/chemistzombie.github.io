@@ -4,19 +4,19 @@ title: "We're so back: A further analysis of Signora's resurrection and playabil
 description: "With the release of 5.8 and 6.0, Hoyo has given us further evidence that Signora will be playable despite her not returning in 5.8 as I've predicted. We take a look into what's new, and what this means for Signora mains."
 image: /images/signora/aww.png
 ---
-**Last updated: 2026-03-28**. After having to deal with things at work that has been piling up during the last few weeks, I finally added my thoughts on everything that happened in 6.3 and 6.4. Sorry for the wait.
+**Last updated: 2026-05-14**. Added some thoughts regarding the upcoming 6.6 patch.
 
-Please see the commit history to see what changed. This will be updated over time as new information surfaces.
+Please see the commit history to see what changed. This will be updated over time as new information surfaces. **Additionally, you can now check out the table of contents to find out what's new and updated.**
 
 Okay, so 6.0 is out, and I admit I was wrong about Signora being playable in 5.8. However, there have been some MASSIVE developments lately, and all of them suggests that she will be playable soon. In fact, I'm glad I didn't post this earlier in 5.8 as I was planning to do that as some kind of "postmortem analysis" of the lack of her return in that version, but pushing this back ended up giving me more arguments in favor of her resurrection.
 
-If you haven't seen the last two posts yet, then you should check [part 1](https://chemistzombie.github.io/2025/04/24/genshin-impact-signora-launch-speculations.html) and [part 2](https://chemistzombie.github.io/2025/08/16/signora-analysis-2.html), as they both give some context for this one. This post simply expands on part 1 as it was becoming too long, and some of the arguments in there are no longer valid.
+If you haven't seen the last two posts yet, then you should check [part 1](https://chemistzombie.github.io/2025/04/24/genshin-impact-signora-launch-speculations.html) and [part 2](https://chemistzombie.github.io/2025/08/16/signora-analysis-2.html), as they both give some context for this one. This post simply expands on part 1 as it was becoming too long, and some of the arguments in there are no longer valid. Also check out my unhinged rant and crackpot theories [here](https://chemistzombie.github.io/2026/04/07/signora-crack-theories) where I just vent my frustrations and spit out everything I could think of into one single post.
 
 <h2>Table of contents</h2>
 <!-- TOC -->
   * [Why I'm still certain that Signora will be playable](#why-im-still-certain-that-signora-will-be-playable)
     * [She finally received a bunch of official merchandise after 4 years](#she-finally-received-a-bunch-of-official-merchandise-after-4-years)
-    * [She was mentioned by her real name many times in a row throughout 6.x](#she-was-mentioned-by-her-real-name-many-times-in-a-row-throughout-6x)
+    * [She was mentioned many times in a row throughout 6.x](#she-was-mentioned-many-times-in-a-row-throughout-6x)
       * [Version 6.0](#version-60)
       * [Version 6.1](#version-61)
       * [Version 6.2](#version-62)
@@ -26,9 +26,8 @@ If you haven't seen the last two posts yet, then you should check [part 1](https
     * [Arlecchino's and Columbina's lines about her dropped the quest unlock requirements](#arlecchinos-and-columbinas-lines-about-her-dropped-the-quest-unlock-requirements)
     * [Varka's story quest reopens the chapter on Signora's backstory through adjacent lore](#varkas-story-quest-reopens-the-chapter-on-signoras-backstory-through-adjacent-lore)
     * [We only got a glimpse of Mare Jivari in 5.8](#we-only-got-a-glimpse-of-mare-jivari-in-58)
-    * [The Pyro gnosis still hasn't been stolen yet](#the-pyro-gnosis-still-hasnt-been-stolen-yet)
+    * (UPDATED) [The Pyro gnosis still hasn't been stolen yet](#the-pyro-gnosis-still-hasnt-been-stolen-yet)
     * [She was featured unusually frequently in Hoyofair 2025](#she-was-featured-unusually-frequently-in-hoyofair-2025)
-    * [There are two unknown IDs that don't belong to anyone in 6.x](#there-are-two-unknown-ids-that-dont-belong-to-anyone-in-6x)
     * [Signora being irrelevant to the story means nothing](#signora-being-irrelevant-to-the-story-means-nothing)
     * [Arlecchino's rerun in 5.3 was quite popular, even outperforming Mavuika's rerun](#arlecchinos-rerun-in-53-was-quite-popular-even-outperforming-mavuikas-rerun)
     * [Columbina's and Sandrone's release might be intended to test the waters before releasing Signora](#columbinas-and-sandrones-release-might-be-intended-to-test-the-waters-before-releasing-signora)
@@ -37,12 +36,17 @@ If you haven't seen the last two posts yet, then you should check [part 1](https
     * [The "surprising reunion with a Harbinger"](#the-surprising-reunion-with-a-harbinger)
     * [Her resurrection arc might have already been in development](#her-resurrection-arc-might-have-already-been-in-development)
     * [Zibai and Sandrone's resurrections are proofs of concept for Signora's resurrection](#zibai-and-sandrones-resurrections-are-proofs-of-concept-for-signoras-resurrection)
-    * [The possible existence of version 6.9 (nice)](#the-possible-existence-of-version-69-nice)
     * [Varka's model is "too tall", and yet he's playable anyway](#varkas-model-is-too-tall-and-yet-hes-playable-anyway)
+    * (NEW) [The Irminsul burning scene has been confirmed to be part of the 6.6 Archon Quest](#the-irminsul-burning-scene-has-been-confirmed-to-be-part-of-the-66-archon-quest)
+    * (NEW) [The Snezhnaya preview teaser is suspiciously nondescript](#the-snezhnaya-preview-teaser-is-suspiciously-nondescript)
   * [Speculations that may or may not be related to Signora](#speculations-that-may-or-may-not-be-related-to-signora)
     * [The connection between moths and angels' feathers](#the-connection-between-moths-and-angels-feathers)
     * [The similarities between the symbol in her boss fight and the Eroded Sunfire](#the-similarities-between-the-symbol-in-her-boss-fight-and-the-eroded-sunfire)
     * ["Ruzicka" being mentioned in a 3.6 event](#ruzicka-being-mentioned-in-a-36-event)
+  * (NEW) [Disproven speculations](#disproven-speculations)
+    * [6.x Unknown IDs](#6x-unknown-ids)
+    * [The possible existence of version 6.9](#the-possible-existence-of-version-69)
+  * (NEW) [What to do now?](#what-to-do-now)
   * [Analogies to help people understand the reality of business strategies](#analogies-to-help-people-understand-the-reality-of-business-strategies)
     * [The BMW M1 analogy](#the-bmw-m1-analogy)
     * [The enthusiast trap](#the-enthusiast-trap)
@@ -85,14 +89,14 @@ The Google translated image is still somewhat nonsensical, so here's one from Ch
 
 This is HUGE because not only is Signora included in this blind box unlike Crucabena (which implies the latter won't be playable), she's being marketed as the *rarest* figure. Normally, merch blind boxes make the "hidden" characters fan-favorites or hype characters, to ensure the rarest item generates the most demand. It's easy to guess why Scaramouche is one of the hidden figures, because he's wildly popular in CN, and his fans are willing to donate insane amounts of money to spread the word out of passion, like [this](https://old.reddit.com/r/Genshin_Impact/comments/1q2va1h/wanderers_birthday_in_china_13_buildings). However, Signora's is less obvious, as she doesn't get discussed as frequently anymore, so the only explanation would be that putting her as the big hidden figure is a deliberate choice Hoyo made.
 
-If they really wanted her to "stay irrelevant", they would've just left her out. Instead, they’ve made her the ultimate chase figure. This artificially drives up secondary market prices and creates demand for her. Also, this feels like a signal from Hoyo that they still remember her, and that she's likely to be relevant again soon.
+If they really wanted her to "stay irrelevant", they would've just left her out. Instead, they've made her the ultimate chase figure. This artificially drives up secondary market prices and creates demand for her. Also, this feels like a signal from Hoyo that they still remember her, and that she's likely to be relevant again soon.
 
 <div style="text-align: center;font-size:small"><img src="/images/signora/aww.png"/><br />Aww, look how adorable she is</div>
 
 If Hoyo just wanted "generic hype", they would've made Capitano, Dottore, or Columbina the rarest ones, since they're top-ranking and "mysterious", and that would've been the obvious move. Alternatively, they could've chosen Sandrone and Columbina as the "small hidden" and "big hidden" figures respectively, which are the playable Harbingers in 6.x, perhaps as an effort to promote them outside the game. But instead they chose Scaramouche and Signora, which are ranked far lower, and in the latter's case, wasn't even involved in Nod-Krai's quests.
 
-From a business standpoint, making them the rarest achieves two things. They could use this as some sort of market testing, as their rarity creates artificial scarcity, driving up demand. If resale prices spike and collectors obsess over them, Hoyo can measure how much "pulling power" these characters still have. Also, this allows them to generate free publicity and spark up conversations about her once again. Signora mains who've been silent for years now suddenly have a reason to reenter the conversation: "Why make her the rarest if she’s irrelevant?" That's exactly the kind of buzz a company wants.
-
+From a business standpoint, making them the rarest achieves two things. They could use this as some sort of market testing, as their rarity creates artificial scarcity, driving up demand. If resale prices spike and collectors obsess over them, Hoyo can measure how much "pulling power" these characters still have. Also, this allows them to generate free publicity and spark up conversations about her once again. Signora mains who've been silent for years now suddenly have a reason to reenter the conversation: "Why make her the rarest if she's irrelevant?" That's exactly the kind of buzz a company wants.
+****
 I've seen some comments that "she won't be playable because she and Scara are the rare figures and neither of them really became playable (Scara became Wanderer and switched to a different model)", or "Hoyo hates Signora because they made her the rarest one". Well, that's not how marketing psychology works, and this shows a clear lack of understanding of how big businesses usually operate. Scarcity = value. They made her rare _because_ she's valuable, not because Hoyo hates her and wants people to forget her. This is especially considering how this merch will be available in CN, the market people have argued to carry the most weight for Hoyo's decision-making. If Signora wasn't popular among CN players, she wouldn't be _anywhere_ in this merch lineup, let alone as the rarest.
 
 For four years she was treated almost like a taboo character, with no official artwork, no merch, and barely any narrative presence except her death. If Hoyo truly wanted her to stay discarded, the path of least resistance would've been to just keep ignoring her. But instead, they chose to do the exact opposite by giving her a merch debut after 4 years, and not just any merch, but in a _premium slot_ (the rarest figure).
@@ -107,7 +111,7 @@ As an aside, I decided to purchase the acrylic stand from an AliExpress listing 
 
 <div style="text-align: center;font-size:small"><a href="/images/signora/standee.jpg"><img width="384" src="/images/signora/standee.jpg"/></a><br />Her mask looks elegant</div>
 
-### She was mentioned by her real name many times in a row throughout 6.x
+### She was mentioned many times in a row throughout 6.x
 This is the second-biggest argument in favor of her return, and supports the pity-baiting theory I've mentioned in [part 1](https://chemistzombie.github.io/2025/04/24/genshin-impact-signora-launch-speculations.html#the-placement-of-about-the-fair-lady-voice-lines-in-the-playable-harbingers-voice-lines-and-arlecchinos-pity-baiting).
 
 #### Version 6.0
@@ -133,7 +137,7 @@ In [one of the Selenic Chronicles](https://genshin-impact.fandom.com/wiki/Her_Pa
 > 
 > **Traveler:** Don't mention it...
 
-This is important, because unlike the other two Harbingers she mentioned (Arlecchino and Sandrone), she mentioned Signora by her *real name*, Rosalyne. You see, the Harbingers are usually introduced and referred to by their codenames, because that's what reinforces their role as the Harbingers, not as vulnerable human beings. Using her true name like this is a deliberate way to reframe her in a more positive way, as it strips away the intimidating Harbinger persona and instead humanizes her as _the woman behind the mask_. Also, notice how she still seems to be shaken by her death, as evidenced by her pausing and telling the MC to give her their hand before mentioning Rosalyne. That's a clear sign of pity-baiting, and it’s essentially Hoyo nudging the audience to empathize with her on a personal level, not just as a villain archetype.
+This is important, because unlike the other two Harbingers she mentioned (Arlecchino and Sandrone), she mentioned Signora by her *real name*, Rosalyne. You see, the Harbingers are usually introduced and referred to by their codenames, because that's what reinforces their role as the Harbingers, not as vulnerable human beings. Using her true name like this is a deliberate way to reframe her in a more positive way, as it strips away the intimidating Harbinger persona and instead humanizes her as _the woman behind the mask_. Also, notice how she still seems to be shaken by her death, as evidenced by her pausing and telling the MC to give her their hand before mentioning Rosalyne. That's a clear sign of pity-baiting, and it's essentially Hoyo nudging the audience to empathize with her on a personal level, not just as a villain archetype.
 
 After the huge blunder they did with Signora, Hoyo seems to have developed a formula on how to turn "morally grey" characters into sympathetic, playable ones:
 1. **Antagonistic introduction.** Each of these characters is first positioned as a threat or obstacle to the Traveler or their allies. At first, the player is meant to view them with suspicion or fear.
@@ -286,7 +290,7 @@ Now this is HUGE. It finally confirmed [my theory](https://chemistzombie.github.
 
 <div style="text-align: center;font-size:small"><img width="100%" src="/images/signora/aboutrosalyne.png"/></div>
 
-The fact that this happened the second time in row means that this was a deliberate decision. Why would they put her line 
+The fact that this happened the second time in row means that this was a deliberate decision. Why would they put her line in the 10th place instead of at the bottom, and why don't they just put it in the correct 8th spot instead? This is starting to look like a very subtle hint that only the most dedicated Signora fans would notice, which minimizes suspicions as most players would simply chalk it off to minor inconsistencies, while giving Signora mains some form of reassurance that it's not what it seems.
 
 Also notice how it says "About Rosalyne" instead of "About The Fair Lady". She's literally the only Harbinger who was mentioned by her real name in the VOs section, while others either use their codenames (The Doctor, Childe) or their commedia dell'arte names (Arlecchino and Sandrone, the other female harbingers). This is further evidence that nothing is as it seems, and they might be giving us subtle hints that she's returning in the near future. While the line itself doesn't explicitly hint towards her future revival, the fact that there are subtle oddities like these that outside observers would overlook, strongly implies that they want us to read between the lines instead of taking things at face value.
 
@@ -436,7 +440,7 @@ That's exactly Rosalyne's story told through a different character. Roland lost 
 
 The parallel is so precise it can't be accidental. The writers are using Roland's arc to restate and emotionally prime the audience for Rosalyne's arc, in a quest that prominently features Rostam, released in the same version as the Venti dialogue that mentions Signora.
 
-The framing around Roland is particularly significant for how it repositions grief-driven transformation. Rosaria's line, "It's hard to say whether the loss of an important figure in his life is what drove him to the point of obsession, or whether he was already too far gone to save", applies directly to Rosalyne. And crucially, the quest's resolution isn't condemnation. Varka doesn't judge Roland. He delivers Rostam's letter. He says "Rostam and Arundolyn never forgot you." The emotional register is one of compassion for someone consumed by loss, not contempt for someone who chose evil.
+The framing around Roland is particularly significant for how it repositions grief-driven transformation. Rosaria's line, "It's hard to say whether the loss of an important figure in his life is what drove him to the point of obsession, or whether he was already too far gone to save", applies directly to Rosalyne. And crucially, the quest's resolution isn't condemnation. Varka doesn't judge Roland. He delivers Rostam's letter. He says "Rostam and Arundolyn never forgot you". The emotional register is one of compassion for someone consumed by loss, not contempt for someone who chose evil.
 
 That compassionate framing of grief-driven transformation, applied to a character directly parallel to Rosalyne, in a quest that features Rostam prominently, in the same major version where Rosalyne is being mentioned more than ever... I think this is the writers establishing the emotional and moral framework through which the audience should understand her.
 
@@ -494,6 +498,8 @@ This ties to the previous point and is something that some detractors hilariousl
 The entirety of the Harbingers were all focused on dealing with Columbina's problems, and now they have to deal with Dottore after he literally attacked her, so none of them seem to be interested in retrieving the final gnosis as of now. Having her return in Mare Jivari and steal the gnosis while everyone else is distracted would be a good way to reestablish her relevance and reinstate her position as the 8th Harbinger, which could satisfy the part of the community who wants her back as a Harbinger and with her original design.
 
 We currently don't know how they're gonna do this, given how Nod-Krai is already filled with so many major plot points, but given how the developers themselves said that Nod-Krai was meant to tie up the story's loose ends, one possible theory is that this will be similar to HSR's Amphoreus where they push the main storyline throughout tne entirety of 6.x versions, and one of them may involve us returning to Natlan where the gnosis heist can finally take place.
+
+There has been some leaks that the [Pyro gnosis will appear in 6.6](https://www.reddit.com/r/Genshin_Impact_Leaks/comments/1stc5db/certain_render_via_jelena/), and that Mavuika is among the characters who show up in there. However, because the dialogues for the quest won't be available until the preload, as of now, we don't know for sure if Dottore will steal the pyro gnosis in 6.6 instead of having Signora steal it instead after she reemerges in Mare Jivari, so until this is confirmed one way or the other, this theory stays for now.
 ### She was featured unusually frequently in Hoyofair 2025
 Hoyofair features "fanarts" from various artists and they've been doing this annually since 2021. One interesting thing about 2025's Hoyofair is that, unlike the previous years, Signora (or her moth) were prominently featured in this one. This is curious, because prior to this, she was only featured *once*, and that was [in 2023](https://old.reddit.com/r/SignoraMains/comments/zz51zu/a_fanmade_harbinger_anime_short_for_hoyofair/) in a very brief section, but in this one, she literally appeared on [multiple scenes](https://old.reddit.com/r/SignoraMains/comments/1nmjda9/signora_in_hoyofair_we_all_cheered/).
 
@@ -523,38 +529,6 @@ Notice how they put a disclaimer saying that it's "not related to the game's con
 
 If fans start speculating that her return is coming, Hoyo can just shrug it off with something like "Oh, that's just community creativity. This isn't canon". But internally, it lets them test audience response (if fans react positively, they know the timing is right for a revival arc), and rebuild emotional connections around her without having to confirm anything officially. This is basically marketing disguised as community engagement. After all, why would multiple different artists feature a character that was deemed "irrelevant", when they could've absolutely featured someone else instead? Given what we know, a plausible explanation for this is that Hoyo has control over which characters are featured, and that just implies they're probably planning to do something with her in-game.
 
-### There are two unknown IDs that don't belong to anyone in 6.x
-HomDGCat, a reliable Genshin leaker with a good track record, has published a [playable character ID list](http://web.archive.org/web/20260210070250/https://homdgcat.wiki/gi/change?lang=EN) for Nod-Krai, and we can make some educated guesses as to how they could possibly release Signora in 6.x.
-
-* Alice "Crimson Chronicle": Non-playable NPC ID only
-* Possible unknown IDs 134 - 135 (6.7 - 6.9?)
-* 133 Marionette (6.7?)
-* Unknown ID 132 (6.6?) - likely the [short female character](https://old.reddit.com/r/Genshin_Impact_Leaks/comments/1s52fhm/last_nod_krai_silhouette_character_revealed/) from the 6.5 special program
-* 131 Nicole - 6.6
-* 130 Linnea - 6.5
-* 129 Lohen - (appears to have been delayed from 6.4 to an unknown version)
-* 128 Varka - 6.4
-* 127 Illuga "Burning Heart Amidst the Nightmare" - 6.3
-* 126 Zibai "White Horse's Fleeting Spring" - 6.3
-* 125 Columbina "Welkin Moon’s Homecoming" - 6.3
-* 124 Jahoda "Windthreading Shadow" - 6.2
-* 123 Durin "The Undying Fire" - 6.2
-* 122 Nefer "Secret Beneath the Sands" - 6.1
-* 121 Aino "Clinky-Clank Gadgets-A-Gogo" - 6.0
-* 120 Flins "Shadowy Lights, Stranger Wights" - 6.0
-* 119 Lauma "Evermoon's Sacrament Song" - 6.0
-* 118 Manekina (UGC)
-* 117 Manekin (UGC)
-
-Hoyo has always consistently released 17 characters for each major version, so we can make an assumption that there will be 17 characters released in 6.x. The UGC characters likely won't count towards this as while they are usable in free roam, they can't be used in endgame modes, which is the whole point of pulling for characters. This means that there are two potential unknown IDs 134 and 135 following Sandrone.
-
-Additionally, they've posted another silhouette teaser for the upcoming playable characters in 6.x. Two of the silhouettes have been identified to be Varka and Nicole, and ther is a missing silhouette right next to the fifth one, only reflecting a shadow underneath.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The story of Teyvat continues. <a href="https://twitter.com/hashtag/GenshinImpact?src=hash&amp;ref_src=twsrc%5Etfw">#GenshinImpact</a> <br><br>Even though they don&#39;t appear in the picture, Our fates could still become intertwined in the future. <a href="https://t.co/WdClVrWAIO">pic.twitter.com/WdClVrWAIO</a></p>&mdash; Genshin Impact (@GenshinImpact) <a href="https://twitter.com/GenshinImpact/status/2006978768871583808?ref_src=twsrc%5Etfw">January 2, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-We currently still don't know who these two IDs belong to, but it's possible that any of these could be Signora, perhaps with the release of Mare Jivari expansion. After all, out of the 11 Harbingers, only 5 are playable or will be playable as of now, and they'd probably want to release the lower-ranking Harbingers as soon as possible before the higher-ranking ones like Pierro, Capitano, Dottore and Columbina start to cannibalize on their sales too much as players who are indifferent to the Harbingers may be psychologically more likely to focus on the highest-ranking characters than lower ones as they give the impression of being the "best".
-
-There has been a leak regarding the potential existence of version 6.9 (which I explained [here](#the-possible-existence-of-version-69-nice)). This could mean that IDs 134 and 135 could actually be 5-star characters released in 6.8 and 6.9 respectively, instead of having one of them be a 4-star character, and thus, a slightly higher chance of her banner in Nod-Krai. She's more likely to be in 7.x, but we still cannot discount the possibility of a 6.x playability because of this, as having an unexpected x.9 patch is suspicious, to say the least.
 ### Signora being irrelevant to the story means nothing
 This ties to my previous point about Mare Jivari. Some argue that Signora's return would be pointless as she's no longer relevant to the story, which makes her playability very unlikely. Well, guess what? Bennett has been pretty much irrelevant in the main story for a while, and yet he got an entire lore dump in 5.8 anyway, with Hoyo exploring his Natlan background and his constellation showing up in the fake Mare Jivari.
 
@@ -655,22 +629,15 @@ According to this interview, shorter versions take around 6 months, while longer
 There's actual in-game evidence of this too. "[The Little Witch and the Undying Fire](https://genshin-impact.fandom.com/wiki/The_Little_Witch_and_the_Undying_Fire)", which is a book about Simulanka Durin, was first seen in 4.7 beta (during 4.6). That was from April 2024. Durin himself became a playable character in 6.2, which was in December 2025. That's almost a 20-month gap between the foreshadowing of his playability and him becoming playable. We use the betas as our reference for starting dates, since we can assume that was when they first began the development of the content, not when the final version is out.
 
 If we assume that the first instance of Signora's pity-baiting under her real name and the merch drops in 6.0 beta are a foreshadowing for her return, then we can expect her being playable, depending on whether or not [version 6.9](#the-possible-existence-of-version-69-nice) exists, as early as 7.1/7.2 in December 2026 (almost 17 months later), and as late as 7.3/7.4 in March 2027 (20 months later, just like Durin's release). Do keep in mind that these are just estimates, as we could only make educated guesses on when the development started based on in-game and marketing hints, so her actual banner may come out earlier or later than these.
+
+In addition to this, 
 ### Zibai and Sandrone's resurrections are proofs of concept for Signora's resurrection
 With the release of Zibai in 6.3 and the accompanying permanent event quest that brings her back after she had died thousands of years ago, along with Sandrone's supposed death in spite of her having a playable ID, Hoyo has now demonstrated, within a single version, that resurrection is a narrative tool they're actively willing to use _and_ a commercial tool they're willing to market around. Sandrone's situation is particularly significant because they're not even hiding it. A missing silhouette with a visible ground reflection in an official teaser is about as explicit as you can get without a direct announcement. They want people to know she's coming back. That's a deliberate marketing choice.
 
 This completely neutralizes the "Hoyo never resurrects dead characters" argument at its foundation. It was always a weak argument by extrapolation from other games, but now it's not even extrapolation... it's just factually wrong within Genshin itself.
 
 The "turned to ash" counterargument dying alongside it is also significant. Zibai materializing from the Three Deadly Selves (basically collected souls) is a much more complicated resurrection than anything Signora would require, where Hoyo could easily pivot to Mare Jivari + liquid fire or her busting that coffin open in Snezhnaya, compared to Zibai which involves some convoluted Istaroth lore we hadn't even heard of previously. If that's acceptable to the writers, physical destruction of a body is clearly not a hard barrier. The game has now established that the _manner_ of death doesn't necessarily determine the possibility of return. Remember that her liquid fire lore was never elaborated on, and thus, it's an easy entry point for them to bring her back, while not contradicting any existing lore.
-### The possible existence of version 6.9 (nice)
-Recently, there has been a [discovery](https://old.reddit.com/r/Genshin_Impact_Leaks/comments/1reg0mu/potential_version_69_via_miruko/) on the textmap that mentions "6.9", which might hint of a potential existence of said version. This comes up as a surprise, because releasing version 6.9 would mean that Genshin's anniversary would land on that version instead of 7.0. However, given how they're now using the gimmicky marketing version number ("Luna I/II/III/..."), perhaps this could mean that the marketing version number will reset in 6.9 instead of 7.0.
 
-It could be a prelude to Snezhnaya of some sort that would justify a new marketing version number, or alternatively, it might have been added to finally release the full Mare Jivari and its accompanying quest. If true, this would solidify the theory that Signora's resurrection arc could be released several patches before she actually becomes playable, in order to prevent her banner from becoming a walking spoiler. The fact that they added an extra version when most people were not expecting that to happen could only mean one thing: something big is about to happen, and with it, they're probably trying to tease a hyped character, which I suspect is Rosalyne, given everything we've known so far.
-
-Funnily enough, the placeholder text translates to "Plants vs. Zombies Level 5". You see, I've been in the PvZ community for over a decade now, so seeing this in the textmap is just kinda hilarious. FYI, level 5 is the "roof" stage. It's currently unknown what this means, or whether this even means anything. I don't think we're literally gonna be doing a battle on the roof of a house. However, the 6.9 reference is just way too obvious to ignore.
-
-I'm starting to wonder if the only reason why this whole marketing version number exists is that they've planned this way in advance, and they're doing this to make it feel less jarring to not have the game's anniversary in the new region, especially since top-up bonuses always reset during that time (which so far had always been in the latest region), all while revealing the full Mare Jivari before we finally get to Snezhnaya. After all, it would also line up with how the whole Rosalyne mentions only started during 6.0 beta, when 5.8 was current, and exactly the same version where a small potion of Mare Jivari was revealed.
-
-Hoyo now only mentions the marketing version number in their publications, while the real version number is only used internally and in the main menu, so players may not even notice at first that we're still in 6.x by the time we're in 6.9, because for the average player (most of which don't even bother checking out leaks), the version is officially being marketed as, say, "Terra I", marking the end of "Luna" versions, the last of which being "Luna IX" (6.8).
 ### Varka's model is "too tall", and yet he's playable anyway
 One of the arguments frequently thrown around when detractors argue why Signora wouldn't be playable is that she's "too tall" compared to the regular tall lady models, to the point where she's approaching the height of standard tall male characters. This had always been a pretty weak excuse, considering how Hoyo could've simply added a new nonstandard model type for her, just like what they've been doing since Natlan. However, despite there being custom models for tall female characters, there hadn't been a single model whose height is so tall like her (which is within the same ballpark as tall male characters) that it necessitates a change in camera angle. Even Lauma still retains the same camera position despite being the new tallest playable lady character, because she's still shorter than Signora when compared side-by-side.
 
@@ -686,6 +653,29 @@ Character height has been growing rapidly since 5.x, as these pictures show (cli
 <div style="text-align: center;font-size:small"><a href="/images/signora/height.jpg"><img width="512" src="/images/signora/height.jpg"/></a><br />Lisa (1.0 character) for comparison</div>
 
 <div style="text-align: center;font-size:small"><a href="/images/signora/height2.jpg"><img width="512" src="/images/signora/height2.jpg"/></a><br />Lauma (current tallest playable lady) for comparison</div>
+
+### The Irminsul burning scene has been confirmed to be part of the 6.6 Archon Quest
+
+Related to "the surprising reunion with a Harbinger" point, Xiao Luohao also said in the same statement that the Irminsul burning scene will happen later, and that both Dottore and the Tsaritsa will do something unexpected in the future. The former has now been officially confirmed to be the case, which means that the OP who originally posted this on NGA is indeed telling the truth, and that the "surprising reunion" could genuinely refer to Signora's return.
+
+<div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/Tq9rQtiHg5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+This statement also implies that Dottore never really dies, both in 6.3 and the upcoming 6.6, and given the way it's worded, one theory is that this might be part of the Tsaritsa's plan all along.
+
+For more info on this, check out my "unhinged rant and crack theories" post [here](https://chemistzombie.github.io/2026/04/07/signora-crack-theories), where I describe these new findings in more detail. I haven't put it on here because some of the details might turn out to be untrue, and we still have to wait until the preload to confirm some of my theories.
+### The Snezhnaya preview teaser is suspiciously nondescript
+
+Hoyo has released the Snezhnaya preview teaser during the 6.6 Special Program VOD. However, unlike the preview teasers of past regions, this looks incredibly bland by comparison. It only focused on the Traveler with a gun taking out some enemies, and we don't even get a good look of other characters as they were too distant to make out any clear details of.
+
+This is a stark contrast to the past preview teasers, where they were willing to showcase the other characters in detail. Natlan had Mualani, Kachina, and Kinich. Nod-Krai showcased some of the major factions' characters, including Dottore, Varka, and Alice.
+
+<div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/_0WRFJFhtTI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/XOK1F9TLEH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/k1U2LnXd5GE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+Hoyo's sudden refusal to elaborate any further than "Traveler with a gun" is incredibly suspicious, and the only logical explanation is that they're hiding something big from us. Why else would you not showcase any of the upcoming characters that would show up in the Archon Quest otherwise, especially given how Snezhnaya was supposed to be a *very important* region, more so than the previous ones? They could've shown some Harbingers like Pulcinella or Pantalone, but they chose not to.
+
+It's likely that they did this in order to leave the audience speculating about what will happen and which characters will appear in the AQ, generating hype and engagement and maintaining it until they're ready to reveal it. I'm willing to bet that they're withholding any important details because it's likely that this region will feature multiple playable Harbingers, as they're way behind the schedule when it comes to releasing them, with there only being 5 Harbingers that are or will be playable so far. This leaves us with 6 left, and it's likely they'll have to resort to releasing three or more harbingers in Snezhnaya, especially given how the Fatui is headquartered in there. Given how Rosalyne has been constantly mentioned in Nod-Krai, it's extremely likely that she will be among the playable units, and given how that's a huge spoiler that cannot be avoided, it makes sense that they remain awkwardly silent like this.
 
 ## Speculations that may or may not be related to Signora
 ### The connection between moths and angels' feathers
@@ -710,6 +700,49 @@ This is an older theory that's worth mentioning simply because most people have 
 [Cyrus](https://genshin-impact.fandom.com/wiki/Cyrus_(Sumeru)) refers to an NPC in Sumeru which is a retired Akademiya professor. Lisa and Cyno are obviously the playable characters, but who is Ruzicka? She doesn't appear to correspond to any NPCs in the game, and was only mentioned in this event dialogue and never again. This is suspicious, because [Růžička](https://en.wikipedia.org/wiki/R%C5%AF%C5%BEi%C4%8Dka) means "little rose" in Czech. And guess what Rosalyne means? That's right, "beautiful rose". Ruzicka also sounds a bit like an abbreviated form of **Ros**alyne-Kruz**chka**. Then there's also the fact that Signora studied at the Akademiya prior to her Crimson Witch transformation, so this may or may not be a subtle hint of Signora under a different name.
 
 If this really refers to Signora, then they can't just name-drop Rosalyne because that would've been way too obvious, so they settled with Ruzicka as a nod to her, in order to minimize suspicion and get people to shrug it off and not to think too hard about it.
+## Disproven speculations
+Here we have the "hall of shame" of theories I made in this post that were disproven, for the sake of transparency.
+
+### 6.x Unknown IDs
+HomDGCat, a reliable Genshin leaker with a good track record, published a [playable character ID list](http://web.archive.org/web/20260210070250/https://homdgcat.wiki/gi/change?lang=EN) for Nod-Krai, and initially, I made some educated guesses as to how they could possibly release Signora in 6.x.
+
+* Alice "Crimson Chronicle": Non-playable NPC ID only
+* **Was suspected to be possible unknown IDs 134 - 135 (6.7 - 6.9?)**
+* 133 Marionette - 6.7
+* 132 Prune - 6.6
+* 131 Nicole - 6.6
+* 130 Linnea - 6.5
+* 129 Lohen - 6.6, likely meant to go with Varka but was delayed
+* 128 Varka - 6.4
+* 127 Illuga "Burning Heart Amidst the Nightmare" - 6.3
+* 126 Zibai "White Horse's Fleeting Spring" - 6.3
+* 125 Columbina "Welkin Moon's Homecoming" - 6.3
+* 124 Jahoda "Windthreading Shadow" - 6.2
+* 123 Durin "The Undying Fire" - 6.2
+* 122 Nefer "Secret Beneath the Sands" - 6.1
+* 121 Aino "Clinky-Clank Gadgets-A-Gogo" - 6.0
+* 120 Flins "Shadowy Lights, Stranger Wights" - 6.0
+* 119 Lauma "Evermoon's Sacrament Song" - 6.0
+* 118 Manekina (UGC)
+* 117 Manekin (UGC)
+
+Hoyo has always consistently released 17 characters for each major version, and the UGC characters were initially assumed to not count towards this as while they are usable in free roam, they can't be used in endgame modes, which is the whole point of pulling for characters, and thus there was the possibility that she could be in late 6.x. However, Hoyo has all but disproved this with the release of Snezhnaya BTS VOD, as it confirmed that Snezhnaya's release will be on August 12, which is where 6.8 *would've been*.
+
+<div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/2iu7xGqiNzM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+
+### The possible existence of version 6.9
+There was a [discovery](https://old.reddit.com/r/Genshin_Impact_Leaks/comments/1reg0mu/potential_version_69_via_miruko/) on the textmap that mentions "6.9", which might hint of a potential existence of said version. This came up as a surprise, because releasing version 6.9 would mean that Genshin's anniversary would land on that version instead of 7.0. But just like the above theory of playable IDs, this too was disproven by the Snezhnaya BTS implying there will be no 6.8, and that 7.0 will release in August instead of September had the version existed.
+
+Funnily enough, the placeholder text translates to "Plants vs. Zombies Level 5". You see, I've been in the PvZ community for over a decade now, so seeing this in the textmap is just kinda hilarious. FYI, level 5 is the "roof" stage. It's currently unknown what this means, or whether this even means anything. I don't think we're literally gonna be doing a battle on the roof of a house. and with the version not really existing, I wonder if this was meant as an inside joke or something.
+
+## What to do now?
+Given how Nod-Krai's final patch will be in 6.7, this means that Hoyo will drip market the characters that will appear in the Snezhnaya AQ, and there will be a playable ID leak in the same version, which coincides with Sandrone's banner. For those of you who have been waiting for both Sandrone and Signora, I'd suggest you should wait until the leakers get a hold of 7.0's playable IDs, as it would determine whether you should pull Sandrone or skip her and wait for Signora instead to get her constellations or signature weapon. **Watch for any missing playable IDs in the leak**, because it means that a character will appear in a future quest, but has yet to appear in the next version. Signora will almost certainly fall into this category, as I doubt her resurrection would take place that early in 7.0, so any missing playable IDs should be treated as a Signora-shaped hole we should pay attention to.
+
+Also, because 7.0 will have the first batch of playable characters, and said characters are placed very early in the playable ID list, if there's any missing IDs that immediately follow 7.0's playable characters, then it can be said with absolute certainty that she'll be playable in 7.1.
+
+Similarly, the drip marketing may also confirm her return. If there's a suspicious silhouette in the midst of the drip marketed roster, then suffice to say it will be her, as there would be no reason to hide other characters, even the Harbingers or Tsaritsa, unless if said character is a walking spoiler, which she *does qualify* as such. Alternatively, Hoyo could be stupid and just outright reveal her in the drip marketing, which would completely spoil her resurrection. That might be a but disappointing as it kills the hype a little, but hey, at least that would be the most obvious confirmation of her return.
+
 ## Analogies to help people understand the reality of business strategies
 Everything after this whole point is just an extra, and you can stop here if you don't wanna hear me rambling about why Signora's resurrection makes sense from a business perspective, and the caveats with the analysis I've presented. However, I'd like to put this here because I feel like the detractors who argue against Signora's return don't get how marketing actually works. I'm not expecting them to change or anything, but it's evident that they only rely on the low-hanging fruits like "she's turned into ashes" or "her death was deserved because she kicked Venti" rather than looking at how businesses work and the workplace politics surrounding them. Companies spend millions or even billions of dollars on marketing to ensure their product sells, and Hoyo is no exception. If they deem a past strategy to be a failure or unsustainable, they will pivot and change course to one that's more likely to be successful. Expecting Hoyo to stay true to their original plans is unrealistic from a financial perspective, and their marketing department is unlikely to keep this decision forever when there's an overwhelming amount of data that suggests this is a bad business move.
 
@@ -796,7 +829,7 @@ The marketing and product management teams can just go to the writing team and s
 
 And this is how a business decision overrides a creative one. The reluctance of a writer to revisit a past plot point is gonna be less powerful than the company's need to create products that the majority of its customers actually want to buy. This, once again, proves that in the end, the market always decides.
 
-In fact, this could actually be the reason why they've been introducing five major characters who are likely to be playable in Nod-Krai: Columbina, Sandrone, Nicole, Varka and Durin. They probably realized that releasing too many filler or side characters like Varesa or Lauma isn't going to be sustainable as their sales tend to be mediocre or poor even when compared to reruns of Archons or Harbingers, and the story is so far along that Hoyo doesn’t have room for another filler every patch without players feeling cheated. People have been sitting on years of unanswered teasers (Varka, Harbingers, Hexenzirkel), and if they didn't start cashing in those promises now, they’d risk alienating players who've been waiting since the game's launch.
+In fact, this could actually be the reason why they've been introducing five major characters who are likely to be playable in Nod-Krai: Columbina, Sandrone, Nicole, Varka and Durin. They probably realized that releasing too many filler or side characters like Varesa or Lauma isn't going to be sustainable as their sales tend to be mediocre or poor even when compared to reruns of Archons or Harbingers, and the story is so far along that Hoyo doesn't have room for another filler every patch without players feeling cheated. People have been sitting on years of unanswered teasers (Varka, Harbingers, Hexenzirkel), and if they didn't start cashing in those promises now, they'd risk alienating players who've been waiting since the game's launch.
 
 ## Cautious confidence: Some caveats with every resurrection theory
 I gotta admit, even with all the evidence we have so far, I can still be wrong, and there's always the chance that we might simply be overanalyzing. I recently watched these videos by Veritasium on why most experts aren't actually "experts" and the dangers of overconfidence, and these actually give a very good insight on why predicting Signora's resurrection is so difficult.
@@ -821,7 +854,7 @@ The second video explains the dangers of overconfidence and the factors that inf
 
 Most people tend to be overconfident, and those who claim to have very high confidence is only correct about half the time. One of the factors at play is the complexity and unpredictability of a situation, an issue of feedback. In a controlled environment, where the rules are clear and the results are consistent, there is clear feedback. In a noisy environment where consistency or timeliness are nonexistent, however, this feedback becomes unreliable.
 
-In the case of Signora's revival theories, there's a ton of inconsistencies on what we thought as "patterns." The order of characters on the Harbinger wheel doesn't necessarily imply which one of them would come up next (Capitano appeared before Columbina). Character mentions at the end of AQs don't necessarily mean playability. Symbolism is unreliable (does Signora's moth symbolism represent "moth to a flame" or rebirth?). Harbingers aren't guaranteed to be playable in the same region they're introduced in, unlike archons. So on and so forth.
+In the case of Signora's revival theories, there's a ton of inconsistencies on what we thought as "patterns". The order of characters on the Harbinger wheel doesn't necessarily imply which one of them would come up next (Capitano appeared before Columbina). Character mentions at the end of AQs don't necessarily mean playability. Symbolism is unreliable (does Signora's moth symbolism represent "moth to a flame" or rebirth?). Harbingers aren't guaranteed to be playable in the same region they're introduced in, unlike archons. So on and so forth.
 
 There are things we can do to mitigate these. One of them is to not make statements that sound too confident, being aware of our confidence calibration (e.g. instead of "she will return in 6.x", make it "there's a 60% chance she'll return in 6.x"). Also, listen to those who disagree with you and try to figure out their best arguments against yours. Fill in the blind spots in your decision-making process with those. "True wisdom lies not in being certain, but in knowing the limits of your own certainty".
 
