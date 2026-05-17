@@ -4,7 +4,7 @@ title: "We're so back: A further analysis of Signora's resurrection and playabil
 description: "With the release of 5.8 and 6.0, Hoyo has given us further evidence that Signora will be playable despite her not returning in 5.8 as I've predicted. We take a look into what's new, and what this means for Signora mains."
 image: /images/signora/aww.png
 ---
-**Last updated: 2026-05-14**. Added some thoughts regarding the upcoming 6.6 patch.
+**Last updated: 2026-05-17**. Last-minute addition of a theory on Scara and Signora's chibi merch rarity I've suspected since September, on top of the previous addition of some thoughts regarding the upcoming 6.6 patch.
 
 Please see the commit history to see what changed. This will be updated over time as new information surfaces. **Additionally, you can now check out the table of contents to find out what's new and updated.**
 
@@ -15,7 +15,7 @@ If you haven't seen the last two posts yet, then you should check [part 1](https
 <h2>Table of contents</h2>
 <!-- TOC -->
   * [Why I'm still certain that Signora will be playable](#why-im-still-certain-that-signora-will-be-playable)
-    * [She finally received a bunch of official merchandise after 4 years](#she-finally-received-a-bunch-of-official-merchandise-after-4-years)
+    * **(UPDATED)** [She finally received a bunch of official merchandise after 4 years](#she-finally-received-a-bunch-of-official-merchandise-after-4-years)
     * [She was mentioned many times in a row throughout 6.x](#she-was-mentioned-many-times-in-a-row-throughout-6x)
       * [Version 6.0](#version-60)
       * [Version 6.1](#version-61)
@@ -96,6 +96,14 @@ If they really wanted her to "stay irrelevant", they would've just left her out.
 If Hoyo just wanted "generic hype", they would've made Capitano, Dottore, or Columbina the rarest ones, since they're top-ranking and "mysterious", and that would've been the obvious move. Alternatively, they could've chosen Sandrone and Columbina as the "small hidden" and "big hidden" figures respectively, which are the playable Harbingers in 6.x, perhaps as an effort to promote them outside the game. But instead they chose Scaramouche and Signora, which are ranked far lower, and in the latter's case, wasn't even involved in Nod-Krai's quests.
 
 From a business standpoint, making them the rarest achieves two things. They could use this as some sort of market testing, as their rarity creates artificial scarcity, driving up demand. If resale prices spike and collectors obsess over them, Hoyo can measure how much "pulling power" these characters still have. Also, this allows them to generate free publicity and spark up conversations about her once again. Signora mains who've been silent for years now suddenly have a reason to reenter the conversation: "Why make her the rarest if she's irrelevant?" That's exactly the kind of buzz a company wants.
+
+**Update 2026-05-17:** In addition to this, it's possible that the chibi merch rarity implies that Scaramouche and Signora will have something big happen that revolves around them. I speculate that Scara is in the "small hidden" category because it's more predictable: the different reflection, showing his past Balladeer appearance instead of the Wanderer in the Nod-Krai teaser, foreshadows the 6.6 AQ's conclusion of people remembering him again (i.e. his past catching up to him). Meanwhile, Signora is in the "big hidden" category because having a dead character be resurrected and playable *after 5 years* is gonna be a huge deal and something not many players would anticipate, especially for the detractors who have always questioned it.
+
+I've been suspecting this since September, and this has been pretty much implied in this section, but I didn't add it at first as this was too speculative. However, now that we know that Scara will be remembered by the other harbingers once again, it strengthened this theory that I could now explicitly state it here. I did mention this in [a tweet](https://twitter-thread.com/t/2045073143849800046) last month, but this post wasn't updated until much later.
+
+<img width="100%" src="/images/signora/prediction.jpg"/>
+
+<div style="text-align: center;font-size:small"><img width="50%" src="/images/signora/cantproveit.jpg"/><br />This was me before the 6.6 AQ leaks dropped</div>
 ****
 I've seen some comments that "she won't be playable because she and Scara are the rare figures and neither of them really became playable (Scara became Wanderer and switched to a different model)", or "Hoyo hates Signora because they made her the rarest one". Well, that's not how marketing psychology works, and this shows a clear lack of understanding of how big businesses usually operate. Scarcity = value. They made her rare _because_ she's valuable, not because Hoyo hates her and wants people to forget her. This is especially considering how this merch will be available in CN, the market people have argued to carry the most weight for Hoyo's decision-making. If Signora wasn't popular among CN players, she wouldn't be _anywhere_ in this merch lineup, let alone as the rarest.
 
@@ -103,7 +111,7 @@ For four years she was treated almost like a taboo character, with no official a
 
 This, to me, looks like an attempt at corporate course correction. Companies don't openly admit "we screwed up", but they signal it through moves like this. For years detractors used the "no merch = she's irrelevant" argument, and now that shield is gone. The CN market getting this first is no accident either; if CN fans have indeed been consistently pushing for her, this is Hoyo's way of showing: "We're listening. We're giving her value again". If anything, this makes her future playability more plausible than ever. They don't throw marketing weight at someone they've written off. They only do this when they see untapped demand worth capitalizing on.
 
-And not only that, she also received [other official merchandise](https://old.reddit.com/r/SignoraMains/comments/1ne12jy/official_signora_art_and_merch/) in the form of cards and standees, further solidifying her relevance, especially when compared to Crucabena who isn't featured in any of them. This just shows that unlike Crucabena, which only served as a backstory element for Arlecchino whose rank wasn't even elaborated on, Signora is a notable character as she's part of that "set of 11 characters".
+And not only that, she also received [other official merchandise](https://old.reddit.com/r/SignoraMains/comments/1ne12jy/official_signora_art_and_merch/) in the form of cards and standees, further solidifying her relevance, especially when compared to Crucabena who isn't featured in any of them. This just shows that unlike Crucabena, which only served as a backstory element for Arlecchino whose rank wasn't even elaborated on, Signora is a notable character as she's part of that "set of 11 characters", and thus it's far more likely for her lore to be expanded upon.
 
 <div style="text-align: center;font-size:small"><img width="384" src="/images/signora/cards.jpeg"/></div>
 
