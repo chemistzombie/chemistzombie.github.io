@@ -15,12 +15,12 @@ It's highly recommended to read the [Wikipedia article](https://en.wikipedia.org
 
 These unzip-protected files always start with the magic number 50 4B 05 06, which implies EOCD, instead of the usual 50 4B 03 04 structure a normal ZIP file would expect, but it's an invalid structure as it's immediately followed by 50 4B 03 04 which is the local file header for the actual files.
 
-<img width="50%" src="/images/fakeeocd.png"/><img width="50%" src="/images/nofakeeocd.png"/>
+<img width="50%" src="/images/fakeEOCD.png"/><img width="50%" src="/images/nofakeEOCD.png"/>
 <div style="text-align: center;font-size:small">Start-of-file comparison between a protected (left) and normal ZIP file (right)</div>
 
 The EOCD that's expected to be at the end of the file uses ``50 4B 05 06 FF FF 00 00`` instead of ``50 4B 05 06 00 00 00 00``.
 
-<img width="50%" src="/images/eocdprotected.png"/><img width="50%" src="/images/eocdunprotected.png"/>
+<img width="50%" src="/images/EOCDprotected.png"/><img width="50%" src="/images/EOCDunprotected.png"/>
 
 Attempting to remove the fake EOCD magic number at the beginning of the file and changing FF FF 00 00 with the EOCD at the end of file doesn't do much; WinRAR thinks the archive is corrupt. without fixing those, it instead thinks that it's both corrupt AND is missing a second zip file.
 
