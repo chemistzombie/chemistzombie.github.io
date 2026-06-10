@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Removing unzip protection from resource packs and datapacks in TrixyBlox's maps
-description: TrixyBlox's paywalled maps has a weird protection in their resource and data packs that prevents unzipping, likely intended as some form of counter-forensics. This post explains how you can remove it and make your maps truly yours.
+description: TrixyBlox's paywalled maps have a weird protection in their resource and data packs that prevents unzipping, likely intended as some form of counter-forensics. This post explains how you can remove it and make your downloaded maps truly yours.
 ---
 When downloading TrixyBlox's paywalled maps on Patreon, I noticed that every single resource pack and datapack they use has this weird protection that tricks WinRAR into thinking it's a multi-archive ZIP file, while 7-Zip straight up refuses to read it:
 
@@ -26,13 +26,13 @@ Attempting to remove the fake EOCD magic number at the beginning of the file and
 
 Some file names are weirdly in ALL CAPS when using a hex editor to view it, but the CDFH towards the end uses the correct capitalizations. WinRAR, however, sees them as all lowercase.
 
-I'm not really sure which tool he used to achieve this, but it doesn't really matter for the scope of this post, as this protection is easily removable anyway.
+There might be other tricks up his sleeves that I haven't discovered yet to further tighten the protection, and I'm not really sure what tool he used to achieve this, but it doesn't really matter for the scope of this post, as this protection is easily removable anyway. I tried searching online for "fake zip eocd" or "fake multi-archive zip file" but I couldn't really find any resources for this, so suffice to say it's probably a proprietary tool he made that's never distributed anywhere.
 
 ## How to extract the files
 
 **TL;DR: use ``jar xvf file.zip`` and compress the extracted files into a fresh ZIP file.**
 
-I tried a couple of tools under WSL (because I don't have a Linux installation on this machine), and none of them worked. 
+I tried a couple of tools under WSL (because I don't have a Linux installation on this machine), but none of them worked. 
 
 ``zip -FF file.zip --out out.zip`` thinks it's an empty ZIP file when you try to extract the archive, with or without modifying the ZIP to try and match the correct expectations, with errors ``could not open input archive: file.zip``, followed by ``could not find: file.z01``. Attempting to end the archive results in a warning ``zip file empty``.
 
@@ -77,4 +77,4 @@ The protection essentially weaponized spec compliance against the extractors. Th
 
 Honestly, the fact that he even did this is shady as hell. This is a similar method that's frequently used by Android malware developers to hide malicious APKs (since APKs are just ZIP files) from antivirus scanners and decompilers. And all of this just to prevent people from stealing his content? If anything, this only hurts legitimate patrons who actually support him. The fact that this is used as a DRM for his USW map, which might literally break if a new Minecraft update drops, all while giving an ominous error saying "It's unlikely that the world is recoverable" if the datapack has been tampered with, could potentially harm players who actually played his map as a serious survival world, wiping out their progress just because some functions are broken in the latest version.
 
-Like GabeN said, "Piracy is almost always a service problem". Legit players can get locked out of the map because the author has added some command blocks and a datapack that acts as a shoddy DRM, preventing them from exceeding 10 or 25 players and potentially breaking when a new update gets released, all while protecting the resource and data packs from being modified. Meanwhile, the pirates can enjoy the map for free with absolutely no restrictions whatsoever just like any other Minecraft map, with no arbitrary player caps and no killswitches when the datapack is broken by a new update. **I'd honestly suggest he should stop doing this for his future projects** because this is just wrong on so many levels; it's simply ineffective because even someone with no experience in coding could easily defeat this protection if they know what to look for, and you can't make the protection any stricter because the packs would otherwise refuse to work as Minecraft wouldn't be able to read it.
+Like GabeN said, "Piracy is almost always a service problem". Legit players can get locked out of the map because the author has added some command blocks and a datapack that acts as a shoddy DRM, preventing them from exceeding 10 or 25 players and potentially breaking when a new update gets released, all while the resource and data packs are protected from being modified, preventing players from trying to fix it themselves and leaving them at the mercy of the map author. Meanwhile, the pirates can enjoy the map for free with absolutely no restrictions whatsoever just like any other Minecraft map, with no arbitrary player caps and no killswitches when the datapack is broken by a new update. **I'd honestly suggest he should stop doing this for his future projects** because this is just wrong on so many levels; not only is this a similar method used by malware developers for obfuscation, it's simply ineffective because even someone with no experience in coding could easily defeat this protection if they know what to look for, and you can't make the protection any stricter because the packs would otherwise refuse to work as Minecraft wouldn't be able to read it.
