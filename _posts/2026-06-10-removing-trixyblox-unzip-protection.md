@@ -22,7 +22,7 @@ The EOCD that's expected to be at the end of the file uses ``50 4B 05 06 FF FF 0
 
 <img width="50%" src="/images/EOCDprotected.png"/><img width="50%" src="/images/EOCDunprotected.png"/>
 
-Attempting to remove the fake EOCD magic number at the beginning of the file and changing ``FF FF 00 00`` with ``00 00 00 00`` with the EOCD at the end of file doesn't do much; WinRAR thinks the archive is corrupt. Without fixing those, it instead thinks that it's both corrupt AND is missing a second zip file.
+Attempting to remove the fake EOCD magic number at the beginning of the file and changing ``FF FF 00 00`` with ``00 00 00 00`` for the EOCD at the end of file doesn't do much; WinRAR thinks the archive is corrupt. Without fixing those, it instead thinks that it's both corrupt AND is missing a second zip file.
 
 Some file names are weirdly in ALL CAPS when using a hex editor to view it, but the CDFH towards the end uses the correct capitalizations. WinRAR, however, sees them as all lowercase.
 
