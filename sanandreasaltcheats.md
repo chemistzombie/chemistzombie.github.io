@@ -165,7 +165,7 @@ It's highly recommended to not save the game after using cheats, as some of them
  <tr><td>Thunderstorm</td><td>SCOTTISHSUMMER<br />MGHXYRM</td><td>ScottishSummer</td><td>MGHXYRM</td><td>F'FQGG<br />LMXV;V</td><td>&nbsp;</td></tr>
  <tr><td>Sandstorm</td><td>CWJXUOC</td><td>SandInMyEars</td><td>CWJXUOC</td><td>CWJXUOC</td><td>Interestingly, this is the only cheat code in which there are no 6-character combos even with the US QWERTY symbols thrown into the mix</td></tr>
 </tbody></table>
-# PS2 (and possibly Xbox) alternative cheat codes
+## PS2 (and possibly Xbox) alternative cheat codes
 
 I also found out that the cheat code finder also works for PS2 cheat codes. It uses the exact same hashing method as the PC version, and the PS2 buttons are simulated using 1234-UDLR-TSCX, in which 1234 is L1, L2, R1, R2; UDLR is up, down, left, right; and TSCX is triangle, square, circle, X. It does cause a bit of a headache though trying to turn those button icons into text forms, so mistakes can be quite common.
 

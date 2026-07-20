@@ -6,8 +6,6 @@ This post, along with the [SA alternative cheats](sanandreasaltcheats) were feat
 
 <div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/W_eFZ4HzU7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-# GTA SA cheat codes discovery timeline
-In YYYY-MM-DD format
 ## 2004-10
 Initial cheat codes released on some sites, such as [GTANet's GTA San Andreas site](http://web.archive.org/web/20041028163232/http://www.gtasanandreas.net/cheats/). These only consist of cheat codes from GTA VC/GTA 3 that still works in GTA SA, as Rockstar hadn't released any cheat codes yet.
 
@@ -38,7 +36,7 @@ There are actually two "cars fly" cheat codes that he found (see below). The for
 >
 >New cheat code: :U: :D: :L1: :R1: :L1: :R: :L: :L1: :L:
 
-![edisoncarter's DIY setup](http://www.maxbot.com/misc/ScanPad.jpg)
+![edisoncarter's DIY setup](/images/ScanPad.jpg)
 ## 2005-01-09
 Edisoncarter found some more new cheat codes
 
@@ -156,7 +154,7 @@ I discovered all [205,586 button combinations](/files/allcheatsPS2.txt) for the 
 ## 2024-03-07
 Vadim M [discovered](https://www.youtube.com/watch?v=PPsqoyiqWh0&t=697s) the intended combination for the PS2's "do nothing" cheat code, which turned out to be an unused "spawn Predator" cheat.
 
-<div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/PPsqoyiqWh0?start=697s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/PPsqoyiqWh0?start=697" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 <script type="text/javascript">
  
