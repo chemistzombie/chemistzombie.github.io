@@ -1,7 +1,10 @@
 ---
 layout: default
-title: GTA SA cheat codes discovery timeline
+title: GTA SA cheat code discovery timeline
 ---
+This post, along with the [SA alternative cheats](sanandreasaltcheats) were featured on Vadim M's video.
+
+<div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/W_eFZ4HzU7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 # GTA SA cheat codes discovery timeline
 In YYYY-MM-DD format

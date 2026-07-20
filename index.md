@@ -12,4 +12,11 @@ This is a place to showcase the stuff I've worked with. Had to update some thing
 ## _[In Defense of Signora](/in-defense-of-signora)_
 A series where I take a deep dive into theories and speculations of Signora's revival and playability from a realistic business perspective.
 
+## GTA San Andreas Alternative cheat codes
+
+* [Alternative cheats](/sanandreasaltcheats)
+* [Cheat code discovery timeline](sa-cheat-codes-timeline)
+
+Featured on [Vadim M's video](https://www.youtube.com/watch?v=W_eFZ4HzU7Q).
+
 # Posts
