@@ -36,122 +36,124 @@ I've managed to download edisoncarter's cheat codes dumps he published on his si
 
 It's highly recommended to not save the game after using cheats, as some of them, such as the riot cheat code, can't be disabled and can cause severe glitches such as the infamous "Madd Dogg glitch". However, some of them, such as weapon, health, wanted level, and spawn vehicle cheat codes appear to have no side effects to the save file, so those are safe to use.
 
+**Use the middle mouse button to horizontally scroll. These Markdown tables cannot be adjusted very easily unlike HTML, and I'm trying to fix it.**
+
 ## Weapons, Health, Armor, Money
 
-| Effect                            | Commonly known cheat code | Intended code    | Shortest code (A-Z, 0-9, Spacebar) | Shortest code (incl. US QWERTY keyboard symbols) | Notes                                                                                                                                                                                                                                                                                                                                                      |
-| --------------------------------- | ------------------------- | ---------------- | ---------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Weapon set 1/Thug's Tools         | LXGIWYL                   | ThugsArmoury     | LXGIWYL                            | G5S-GP                                           | &nbsp;                                                                                                                                                                                                                                                                                                                                                     |
-| Weapon set 2/Professional's tools | PROFESSIONALSKITKJKSZPJ   | ProfessionalsKit | 64MQ6Z                             | 64MQ6Z                                           | &nbsp;                                                                                                                                                                                                                                                                                                                                                     |
-| Weapon set 3/Nutter's tools       | UZUMYMW                   | NuttersToys      | JQJIP3                             | JQJIP3                                           | &nbsp;                                                                                                                                                                                                                                                                                                                                                     |
-| Health, armor, $250k              | HESOYAM                   | INeedSomeHelp    | HESOYAM                            | IOCA;E                                           | &nbsp;                                                                                                                                                                                                                                                                                                                                                     |
-| Infinite health                   | BAGUVIXCAINEMVHZC         | NoOneCanHurtMe   | TA97RV                             | TA97RV                                           | I didn't know some people used CAINEMVHZC until I checked out [GameFAQs](https://gamefaqs.gamespot.com/pc/924362-grand-theft-auto-san-andreas/cheats). I don't really trust that site though since some people there were just trolls and put nonexistent cheat codes such as spawning Sanchez with "Dirt bikez". This particular cheat code works though. |
-| Infinite oxygen                   | CVWKXAM                   | ManFromAtlantis  | H6YBFT                             | H6YBFT                                           | &nbsp;                                                                                                                                                                                                                                                                                                                                                     |
-| Adrenaline mode                   | MUNASEFANOSEONGLASS       | TakeAChillPill   | MUNASEF                            | RT;\[\]G                                         | ANoseOnGlass doesn't make much sense, and my suspicions were confirmed when it was supposed to be TakeAChillPill. Bad dictionary attack guesswork                                                                                                                                                                                                          |
-| Infinite ammo                     | FULLCLIPWANRLTW           | FullClip         | WANRLTW                            | XY',YY                                           |                                                                                                                                                                                                                                                                                                                                                            |
-| Mega punch                        | STINGLIKEABEEIAVENJQ      | StingLikeABee    | IAVENJQ                            | 0J-\]'D                                          | &nbsp;                                                                                                                                                                                                                                                                                                                                                     |
+| Effect | Commonly known cheat code | Intended code | Shortest code (A-Z, 0-9, Spacebar) | Shortest code (incl. US QWERTY keyboard symbols) | Notes |
+|---|---|---|---|---|---|
+| Weapon set 1/Thug's Tools | LXGIWYL | ThugsArmoury | LXGIWYL | G5S-GP | &nbsp; |
+| Weapon set 2/Professional's tools | PROFESSIONALSKIT<br>KJKSZPJ | ProfessionalsKit | 64MQ6Z | 64MQ6Z | &nbsp; |
+| Weapon set 3/Nutter's tools | UZUMYMW | NuttersToys | JQJIP3 | JQJIP3 | &nbsp; |
+| Health, armor, $250k | HESOYAM | INeedSomeHelp | HESOYAM | IOCA;E | &nbsp; |
+| Infinite health | BAGUVIX<br>CAINEMVHZC | NoOneCanHurtMe | TA97RV | TA97RV | I didn't know some people used CAINEMVHZC until I checked out [GameFAQs](https://gamefaqs.gamespot.com/pc/924362-grand-theft-auto-san-andreas/cheats). I don't really trust that site though since some people there were just trolls and put nonexistent cheat codes such as spawning Sanchez with "Dirt bikez". This particular cheat code works though. |
+| Infinite oxygen | CVWKXAM | ManFromAtlantis | H6YBFT | H6YBFT | &nbsp; |
+| Adrenaline mode | MUNASEF<br>ANOSEONGLASS | TakeAChillPill | MUNASEF | RT;\[\]G | ANoseOnGlass doesn't make much sense, and my suspicions were confirmed when it was supposed to be TakeAChillPill. Bad dictionary attack guesswork |
+| Infinite ammo | FULLCLIP<br>WANRLTW | FullClip | WANRLTW | XY',YY |  |
+| Mega punch | STINGLIKEABEE<br>IAVENJQ | StingLikeABee | IAVENJQ | 0J-\]'D | &nbsp; |
 
 ## Police, stats, gangs
 
-| Effect                        | Commonly known cheat code             | Intended code      | Shortest code (A-Z, 0-9, Spacebar) | Shortest code (incl. US QWERTY keyboard symbols) | Notes                                                                                                                                                 |
-| ----------------------------- | ------------------------------------- | ------------------ | ---------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Raise wanted level by 2 stars | TURNUPTHEHEATOSRBLHH                  | TurnUpTheHeat      | OSRBLHH                            | TN1\]\]6                                         | &nbsp;                                                                                                                                                |
-| Clear wanted level            | TURNDOWNTHEHEATASNAEB                 | TurnDownTheHeat    | ASNAEB                             | ASNAEB                                           | &nbsp;                                                                                                                                                |
-| Never wanted                  | AEZAKMITESTEDUCATIONALSKILLSIFIRSTDOZ | IDoAsIPlease       | AEZAKMI                            | JFUIH\\                                          | TESTEDUCATIONALSKILLS sounds like another wrong guess at the intended cheat codeI didn't know some people used IFIRSTDOZ until I checked out GameFAQs |
-| 6-star wanted level           | BRINGITONLJSPQK                       | BringItOn          | LJSPQK                             | LJSPQK                                           | &nbsp;                                                                                                                                                |
-| Max fat                       | BTCDBCB                               | WhoAteAllThePies   | ZFDV1U                             | ZFDV1U                                           | &nbsp;                                                                                                                                                |
-| Max muscle                    | BUFFMEUPJYSDSOD                       | BuffMeUp           | LWRHUSH                            | WJ1WD-                                           | I don't think anyone uses LWRHUSH, but this one's neat because of that "HUSH" at the end                                                              |
-| Skinny                        | KVGYZQK                               | LeanAndMean        | KVGYZQK                            | 0\`WX5U                                          | &nbsp;                                                                                                                                                |
-| Max respect                   | WORSHIPMEOGXSDAG                      | WorshipMe          | PQNCSOD                            | MB,PD-                                           | &nbsp;                                                                                                                                                |
-| Max sex appeal                | HELLOLADIESEHIBXQS                    | HelloLadies        | MCR40H                             | MCR40H                                           | &nbsp;                                                                                                                                                |
-| Max stamina                   | VKYPQCF                               | ICanGoAllNight     | YYZ0C2                             | YYZ0C2                                           | &nbsp;                                                                                                                                                |
-| Hitman in all weapon stats    | PROFESSIONALKILLERQUEWSOD             | ProfessionalKiller | QUEWSOD                            | A\\JJX,                                          | $nbsp;                                                                                                    |
-| Max all vehicle skill stats   | NATURALTALENTVQIMAHA                  | NaturalTalent      | VQIMAHA                            | K,02E2                                           | &nbsp;                                                                                                                                                |
-| Never get hungry              | AEDUWNV                               | IAmNeverHungry     | AEDUWNV                            | I␣DO,O                                           | &nbsp;                                                                                                                                                |
+| Effect | Commonly known cheat code | Intended code | Shortest code (A-Z, 0-9, Spacebar) | Shortest code (incl. US QWERTY keyboard symbols) | Notes |
+|---|---|---|---|---|---|
+| Raise wanted level by 2 stars | TURNUPTHEHEAT<br>OSRBLHH | TurnUpTheHeat | OSRBLHH | TN1\]\]6 | &nbsp; |
+| Clear wanted level | TURNDOWNTHEHEAT<br>ASNAEB | TurnDownTheHeat | ASNAEB | ASNAEB | &nbsp; |
+| Never wanted | AEZAKMI<br>TESTEDUCATIONALSKILLS<br>IFIRSTDOZ | IDoAsIPlease | AEZAKMI | JFUIH\\ | TESTEDUCATIONALSKILLS sounds like another wrong guess at the intended cheat code<br><br>I didn't know some people used IFIRSTDOZ until I checked out GameFAQs |
+| 6-star wanted level | BRINGITON<br>LJSPQK | BringItOn | LJSPQK | LJSPQK | &nbsp; |
+| Max fat | BTCDBCB | WhoAteAllThePies | ZFDV1U | ZFDV1U | &nbsp; |
+| Max muscle | BUFFMEUP<br>JYSDSOD | BuffMeUp | LWRHUSH | WJ1WD- | I don't think anyone uses LWRHUSH, but this one's neat because of that "HUSH" at the end |
+| Skinny | KVGYZQK | LeanAndMean | KVGYZQK | 0\`WX5U | &nbsp; |
+| Max respect | WORSHIPME<br>OGXSDAG | WorshipMe | PQNCSOD | MB,PD- | &nbsp; |
+| Max sex appeal | HELLOLADIES<br>EHIBXQS | HelloLadies | MCR40H | MCR40H | &nbsp; |
+| Max stamina | VKYPQCF | ICanGoAllNight | YYZ0C2 | YYZ0C2 | &nbsp; |
+| Hitman in all weapon stats | PROFESSIONALKILLER<br>QUEWSOD | ProfessionalKiller | QUEWSOD | A\\JJX, |  |
+| Max all vehicle skill stats | NATURALTALENT<br>VQIMAHA | NaturalTalent | VQIMAHA | K,02E2 | &nbsp; |
+| Never get hungry | AEDUWNV | IAmNeverHungry | AEDUWNV | I␣DO,O | &nbsp; |
 
 ## Spawns
 
 | Effect | Commonly known cheat code | Intended code | Shortest code (A-Z, 0-9, Spacebar) | Shortest code (incl. US QWERTY keyboard symbols) | Notes |
 |---|---|---|---|---|---|
 | Spawn Rhino | AIWPRTON | TimeToKickAss | GS␣DMAX | LZERI, | &nbsp; |
-| Spawn Bloodring Banger | OLDSPEEDDEMONCQZIJMB | OldSpeedDemon | CQZIJMB | \\3.RYK\[C\]\[9\[ | I prefer \\3.RYK as it's faster, but \[C\]\[9\[ deserves an honorable mention for being more memorized with those brackets |
+| Spawn Bloodring Banger | OLDSPEEDDEMON<br>CQZIJMB | OldSpeedDemon | CQZIJMB | \\3.RYK<br>\[C\]\[9\[ | I prefer \\3.RYK as it's faster, but \[C\]\[9\[ deserves an honorable mention for being more memorable with those brackets |
 | Spawn Rancher | JQNTDMH | DoughnutHandicap (not working, was supposed to be unused with its hash nullified) | K5E65Q | K5E65Q | Spawns the "rnchlure" variant that's not moddable in Transfender |
-| Spawn Hotring Racer A | VROCKPOKEYPDNEJOH | NotForPublicRoads | PDNEJOH | 8KZ=CF | Another bad dictionary attack guesswork |
+| Spawn Hotring Racer A | VROCKPOKEY<br>PDNEJOH | NotForPublicRoads | PDNEJOH | 8KZ=CF | Another bad dictionary attack guesswork |
 | Spawn Hotring Racer B | VPJTQWV | JustTryAndStopMe | YE9GJF | YE9GJF | &nbsp; |
-| Spawn Romero | WHERESTHEFUNERALAQTBCODX | WheresTheFuneral | XX3S99D | ,␣NZVN | &nbsp; |
-| Spawn Stretch | CELEBRITYSTATUSKRIJEBR | CelebrityStatus | KRIJEBR | ␣UIL'C | &nbsp; |
-| Spawn Trashmaster | TRUEGRIMEUBHYZHQ | TrueGrime | H8AUWR | H8AUWR | A jab on Activision's True Crime series, which is a GTA clone |
+| Spawn Romero | WHERESTHEFUNERAL<br>AQTBCODX | WheresTheFuneral | XX3S99D | ,␣NZVN | &nbsp; |
+| Spawn Stretch | CELEBRITYSTATUS<br>KRIJEBR | CelebrityStatus | KRIJEBR | ␣UIL'C | &nbsp; |
+| Spawn Trashmaster | TRUEGRIME<br>UBHYZHQ | TrueGrime | H8AUWR | H8AUWR | A jab on Activision's True Crime series, which is a GTA clone |
 | Spawn Caddy | RZHSUEW | 18Holes | 18HOLES | MQWW\\; | Intended cheat code was never found probably because Edisoncarter didn't think numbers would work as well |
 | Spawn Hydra | JUMPJET | JumpJet | JHDDT5 | JHDDT5 | JumpJet can be typed faster, so technically it's faster than JHDDT5 despite being a character longer |
 | Spawn Vortex | KGGGDKP | IWantToHover | KGGGDKP | ASQU;. | &nbsp; |
 | Give parachute | AIYPWZQP | LetsGoBASEJumping | BQ␣PSML | ''X'\[A | &nbsp; |
-| Give jetpack | ROCKETMANYECGAA | Rocketman | YECGAA | YECGAA | &nbsp; |
+| Give jetpack | ROCKETMAN<br>YECGAA | Rocketman | YECGAA | YECGAA | &nbsp; |
 | Spawn Hunter | OHDUDE | OhDude | OHDUDE | OHDUDE | The only cheat code in which the intended one is 6 characters long, the fastest way of activating the cheat, AND has been known since the game's early days |
-| Spawn Quad | FOURWHEELFUNAKJJYGLC | FourWheelFun | SHMC49 | SHMC49 | &nbsp; |
+| Spawn Quad | FOURWHEELFUN<br>AKJJYGLC | FourWheelFun | SHMC49 | SHMC49 | &nbsp; |
 | Spawn Tanker | AMOMHRER | HitTheRoadJack | S␣YMBCV | KJCLG\` | &nbsp; |
-| Spawn Dozer | ITSALLBULLEEGCYXT | ItsAllBull | EEGCYXT | O2PP;9 | &nbsp; |
-| Spawn Stunt Plane | FLYINGTOSTUNTURKQSRK | FlyingToStunt | URKQSRK | 4M6\\\`D | &nbsp; |
-| Spawn Monster | MONSTERMASHAGBDLCID | MonsterMash | M3TOA5 | M3TOA5.2URE1 | &nbsp; |
+| Spawn Dozer | ITSALLBULL<br>EEGCYXT | ItsAllBull | EEGCYXT | O2PP;9 | &nbsp; |
+| Spawn Stunt Plane | FLYINGTOSTUNT<br>URKQSRK | FlyingToStunt | URKQSRK | 4M6\\\`D | &nbsp; |
+| Spawn Monster | MONSTERMASH<br>AGBDLCID | MonsterMash | M3TOA5 | M3TOA5<br>.2URE1 | &nbsp; |
 
 ## Vehicles
 
-| Effect | Commonly known cheat code | Intended code | Shortest code (A-Z, 0-9, Spacebar) | Shortest code (incl. US QWERTY keyboard symbols) | Notes  |
-| -------------------------------------------------- | --------------------------- | ---------------------- | ---------------------------------- | ------------------------------------------------ | ------ |
+| Effect | Commonly known cheat code | Intended code | Shortest code (A-Z, 0-9, Spacebar) | Shortest code (incl. US QWERTY keyboard symbols) | Notes |
+|---|---|---|---|---|---|
 | Blow up all cars | CPKTNWT | AllCarsGoBoom | CPKTNWT | D=1I07 | &nbsp; |
-| Invisible car | WHEELSONLYPLEASE, XICWMD | WheelsOnlyPlease | XICWMD | XICWMD | &nbsp; |
-| Perfect/insane handling | STICKLIKEGLUEPGGOMOY | StickLikeGlue | VIFCKSU | KPNN\[M |        |
+| Invisible car | WHEELSONLYPLEASE<br>XICWMD | WheelsOnlyPlease | XICWMD | XICWMD | &nbsp; |
+| Perfect/insane handling | STICKLIKEGLUE<br>PGGOMOY | StickLikeGlue | VIFCKSU | KPNN\[M |  |
 | All green lights | ZEIIVG | DontTryAndStopMe | ZEIIVG | ZEIIVG | &nbsp; |
 | Aggressive drivers | YLTEICZ | AllDriversAreCriminals | YLTEICZ | \]MKTHO | &nbsp; |
 | Pink traffic | LLQPFBN | PinkIsTheNewCool | RPWN3H | RPWN3H | &nbsp; |
 | Black traffic | IOWDLAC | SoLongAsItsBlack | LYQO19 | LYQO19 | &nbsp; |
-| Boats fly | FLYINGFISHAFSNMSMW | FlyingFish | VS62E1 | KZ-FEC | &nbsp; |
-| Traffic is Cheap Cars | EVERYONEISPOORBGKGTJH | EveryoneIsPoor | KKZRPKW | 'R21AB | &nbsp; |
-| Traffic is Fast Cars | EVERYONEISRICHGUSNHDE | EveryoneIsRich | GB0DQH | GB0DQH | &nbsp; |
-| Cars Fly | CHITTYCHITTYBANGBANGRIPAZHA | ChittyChittyBangBang | RIPAZHA | B.D0B3 | &nbsp; |
+| Boats fly | FLYINGFISH<br>AFSNMSMW | FlyingFish | VS62E1 | KZ-FEC | &nbsp; |
+| Traffic is Cheap Cars | EVERYONEISPOOR<br>BGKGTJH | EveryoneIsPoor | KKZRPKW | 'R21AB | &nbsp; |
+| Traffic is Fast Cars | EVERYONEISRICH<br>GUSNHDE | EveryoneIsRich | GB0DQH | GB0DQH | &nbsp; |
+| Cars Fly | CHITTYCHITTYBANGBANG<br>RIPAZHA | ChittyChittyBangBang | RIPAZHA | B.D0B3 | &nbsp; |
 | Smash n' Boom | JCNRUAD | TouchMyCarYouDie | JY75BQ | JY75BQ | &nbsp; |
-| All Cars Have Nitro | SPEEDFREAKCOXEFGU | SpeedFreak | COXEFGU | SL=FJX | &nbsp; |
-| Cars Float Away When Hit | BUBBLECARSBSXSGGC | BubbleCars | BSXSGGC | 3'Z6BX | &nbsp; |
+| All Cars Have Nitro | SPEEDFREAK<br>COXEFGU | SpeedFreak | COXEFGU | SL=FJX | &nbsp; |
+| Cars Float Away When Hit | BUBBLECARS<br>BSXSGGC | BubbleCars | BSXSGGC | 3'Z6BX | &nbsp; |
 | Free Aim While Driving | OUIQDMW | IWannaDriveBy | OUIQDMW | \[Q2D\`P | &nbsp; |
-| Reduced Traffic | GHOSTTOWNTHGLOJ | GhostTown | THGLOJ | THGLOJ | &nbsp; |
-| Country Vehicles and Peds, Get Born 2 Truck Outfit | FVTMNBZ | Hicksville | FVTMNBZ | BWK\\ON |        |
+| Reduced Traffic | GHOSTTOWN<br>THGLOJ | GhostTown | THGLOJ | THGLOJ | &nbsp; |
+| Country Vehicles and Peds, Get Born 2 Truck Outfit | FVTMNBZ | Hicksville | FVTMNBZ | BWK\\ON |  |
 
 ## Gameplay
 
 | Effect | Commonly known cheat code | Intended code | Shortest code (A-Z, 0-9, Spacebar) | Shortest code (incl. US QWERTY keyboard symbols) | Notes |
 |---|---|---|---|---|---|
-| Faster Gameplay | SPEEDITUPPPGWJHT | SpeedItUp | PMNCT8 | PMNCT8 | &nbsp; |
-| Slower Gameplay | SLOWITDOWNLIYOAAY | SlowItDown | LIYOAAY | JK'\[5\` | &nbsp; |
+| Faster Gameplay | SPEEDITUP<br>PPGWJHT | SpeedItUp | PMNCT8 | PMNCT8 | &nbsp; |
+| Slower Gameplay | SLOWITDOWN<br>LIYOAAY | SlowItDown | LIYOAAY | JK'\[5\` | &nbsp; |
 | Peds Attack Each Other, Get Golf Club (can't be disabled, breaks save games) | AJLOJYQY | RoughNeighbourhood | UYKJA␣M | 7RZY'␣ | &nbsp; |
 | Have a bounty on your head | BAGOWPG | StopPickingOnMe | PWE6KO | PWE6KO | &nbsp; |
-| Everyone is armed | FOOOXFT | SurroundedByNutters | FOOOXFT | \[\[\]/FDFRF\[F6 | &nbsp; |
-| Suicide | GOODBYECRUELWORLDSZCMAWO | GoodbyeCruelWorld | SZCMAWO | J;,7ZQ | &nbsp; |
-| Elvis is Everywhere | BLUESUEDESHOESASBHGRB | BlueSuedeShoes | YAEZ4D | YAEZ4D | &nbsp; |
+| Everyone is armed | FOOOXFT | SurroundedByNutters | FOOOXFT | \[\[\]/FD<br>FRF\[F6 | &nbsp; |
+| Suicide | GOODBYECRUELWORLD<br>SZCMAWO | GoodbyeCruelWorld | SZCMAWO | J;,7ZQ | &nbsp; |
+| Elvis is Everywhere | BLUESUEDESHOES<br>ASBHGRB | BlueSuedeShoes | YAEZ4D | YAEZ4D | &nbsp; |
 | Peds Attack You With Weapons | BGLUAWML | AttackOfTheVillagePeople | WDKR␣␣␣ | U5\]UN4 | &nbsp; |
-| Beach party | LIFESABEACHCIKGCGX | LifesABeach | CIKGCGX | R9F,'H | &nbsp; |
-| Gang members everywhere | ONLYHOMIESALLOWEDMROEMZH | OnlyHomiesAllowed | MROEMZH | 5N-GX␣ | &nbsp; |
+| Beach party | LIFESABEACH<br>CIKGCGX | LifesABeach | CIKGCGX | R9F,'H | &nbsp; |
+| Gang members everywhere | ONLYHOMIESALLOWED<br>MROEMZH | OnlyHomiesAllowed | MROEMZH | 5N-GX␣ | &nbsp; |
 | Gangs control the streets | BIFBUZZ | BetterStayIndoors | FHYSTV | FHYSTV | &nbsp; |
-| Ninja theme | NINJATOWNAFPHULTL | NinjaTown | URNUHO␣ | \]IFUZJ | &nbsp; |
+| Ninja theme | NINJATOWN<br>AFPHULTL | NinjaTown | URNUHO␣ | \]IFUZJ | &nbsp; |
 | Slut magnet | BEKKNQV | LoveConquersAll | BEKKNQV | J␣KQ5P | &nbsp; |
-| Huge bunny hop | CJPHONEHOMEJHJOECW | CJPhoneHome | 6BTVH9 | 6BTVH9 | &nbsp; |
-| Mega jump | KANGAROOLFGMHAL | Kangaroo | LFGMHAL | 3IWG␣/ | &nbsp; |
-| Riot/chaos mode (can't be disabled, breaks save games) | STATEOFEMERGENCYIOJUFZN | StateOfEmergency | WSLK3P | WSLK3P | &nbsp; |
-| Funhouse theme | CRAZYTOWNPRIEBJ | CrazyTown | PRIEBJ | PRIEBJ | &nbsp; |
+| Huge bunny hop | CJPHONEHOME<br>JHJOECW | CJPhoneHome | 6BTVH9 | 6BTVH9 | &nbsp; |
+| Mega jump | KANGAROO<br>LFGMHAL | Kangaroo | LFGMHAL | 3IWG␣/ | &nbsp; |
+| Riot/chaos mode (can't be disabled, breaks save games) | STATEOFEMERGENCY<br>IOJUFZN | StateOfEmergency | WSLK3P | WSLK3P | &nbsp; |
+| Funhouse theme | CRAZYTOWN<br>PRIEBJ | CrazyTown | PRIEBJ | PRIEBJ | &nbsp; |
 | Recruit anyone (9mm) | SJMAHPE | WannaBeInMyGang | SJMAHPE | =FBXIY | &nbsp; |
-| Recruit anyone (rocket launcher) | ROCKETMAYHEMZSOXFSQ | RocketMayhem | MCXS7X | MCXS7X | &nbsp; |
+| Recruit anyone (rocket launcher) | ROCKETMAYHEM<br>ZSOXFSQ | RocketMayhem | MCXS7X | MCXS7X | &nbsp; |
 | Recruit anyone (AK-47) | BMTPWHR | NoOneCanStopUs | JKUK1M | JKUK1M |  |
 
 ## Weather
 
 | Effect | Commonly known cheat code | Intended code | Shortest code (A-Z, 0-9, Spacebar) | Shortest code (incl. US QWERTY keyboard symbols) | Notes |
 |---|---|---|---|---|---|
-| Sunny Weather | PLEASANTLYWARMAFZLLQLL | PleasantlyWarm | AZTR1M | AZTR1M | &nbsp; |
-| Very Sunny Weather | TOODAMNHOTICIKPYH | TooDamnHot | OW1␣AU | OW1␣AU | &nbsp; |
+| Sunny Weather | PLEASANTLYWARM<br>AFZLLQLL | PleasantlyWarm | AZTR1M | AZTR1M | &nbsp; |
+| Very Sunny Weather | TOODAMNHOT<br>ICIKPYH | TooDamnHot | OW1␣AU | OW1␣AU | &nbsp; |
 | Overcast Weather | ALNSFMZO | DullDullDay | UGFXKY␣ | \]\\NXY\\ | &nbsp; |
 | Rainy Weather | AUIFRVQS | StayInAndWatchTV | RF␣YSER | \]0RKUP | &nbsp; |
 | Foggy Weather | CFVFGMJ | CantSeeWhereImGoing | 4RNCWV | 4RNCWV | &nbsp; |
 | Faster Clock | YSOHNUL | TimeJustFliesBy | YSOHNUL | B--VB/ | &nbsp; |
-| Always midnight | NIGHTPROWLERXJVSNAJ | NightProwler | XJVSNAJ | \\L91F- | &nbsp; |
+| Always midnight | NIGHTPROWLER<br>XJVSNAJ | NightProwler | XJVSNAJ | \\L91F- | &nbsp; |
 | Orange sky, lock time at 21:00 | OFVIAC | DontBringOnTheNight | OFVIAC | OFVIAC | &nbsp; |
-| Thunderstorm | SCOTTISHSUMMERMGHXYRM | ScottishSummer | MGHXYRM | F'FQGGLMXV;V | &nbsp; |
+| Thunderstorm | SCOTTISHSUMMER<br>MGHXYRM | ScottishSummer | MGHXYRM | F'FQGG<br>LMXV;V | &nbsp; |
 | Sandstorm | CWJXUOC | SandInMyEars | CWJXUOC | CWJXUOC | Interestingly, this is the only cheat code in which there are no 6-character combos even with the US QWERTY symbols thrown into the mix |
 
 # PS2 (and possibly Xbox) alternative cheat codes
