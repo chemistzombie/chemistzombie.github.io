@@ -153,6 +153,11 @@ tuxxor/rot13's [cheat code finder](https://tuxxor.siedziba.pl/cheat_code_finder/
 ## 2019-02-12
 I discovered all [205,586 button combinations](/files/allcheatsPS2.txt) for the PS2 version with the help of Tuxxor's cheat code finder (see the last commit date [here](https://github.com/chemistzombie/chemistzombie.github.io/tree/master/files) for proof)
 
+## 2024-03-07
+Vadim M [discovered](https://www.youtube.com/watch?v=PPsqoyiqWh0&t=697s) the intended combination for the PS2's "do nothing" cheat code, which turned out to be an unused "spawn Predator" cheat.
+
+<div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/PPsqoyiqWh0?start=697s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 <script type="text/javascript">
  
     var emoticons = {
