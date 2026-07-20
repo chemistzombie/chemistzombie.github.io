@@ -36,8 +36,7 @@ I've managed to download edisoncarter's cheat codes dumps he published on his si
 
 It's highly recommended to not save the game after using cheats, as some of them, such as the riot cheat code, can't be disabled and can cause severe glitches such as the infamous "Madd Dogg glitch". However, some of them, such as weapon, health, wanted level, and spawn vehicle cheat codes appear to have no side effects to the save file, so those are safe to use.
 
-## Weapons, Health, Armor, Money
-
+<h2>Weapons, Health, Armor, Money</h2>
 <style type="text/css">
 	table.tableizer-table {
 		font-size: 13px;
@@ -67,8 +66,7 @@ It's highly recommended to not save the game after using cheats, as some of them
  <tr><td>Infinite ammo</td><td>FULLCLIP<br />WANRLTW</td><td>FullClip</td><td>WANRLTW</td><td>XY',YY</td><td></td></tr>
  <tr><td>Mega punch</td><td>STINGLIKEABEE<br />IAVENJQ</td><td>StingLikeABee</td><td>IAVENJQ</td><td>0J-]'D</td><td>&nbsp;</td></tr>
 </tbody></table>
-## Police, stats, gangs
-
+<h2>Police, stats, gangs</h2>
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Effect</th><th>Commonly known cheat code</th><th>Intended code</th><th>Shortest code (A-Z, 0-9, Spacebar)</th><th>Shortest code (incl. US QWERTY keyboard symbols)</th><th>Notes</th></tr></thead><tbody>
  <tr><td>Raise wanted level by 2 stars</td><td>TURNUPTHEHEAT<br />OSRBLHH</td><td>TurnUpTheHeat</td><td>OSRBLHH</td><td>TN1]]6</td><td>&nbsp;</td></tr>
@@ -85,8 +83,7 @@ It's highly recommended to not save the game after using cheats, as some of them
  <tr><td>Max all vehicle skill stats</td><td>NATURALTALENT<br />VQIMAHA</td><td>NaturalTalent</td><td>VQIMAHA</td><td>K,02E2</td><td>&nbsp;</td>
  <tr><td>Never get hungry</td><td>AEDUWNV</td><td>IAmNeverHungry</td><td>AEDUWNV</td><td>I&#9251;DO,O</td><td>&nbsp;</td></tr>
 </tbody></table>
-## Spawns
-
+<h2>Spawns</h2>
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Effect</th><th>Commonly known cheat code</th><th>Intended code</th><th>Shortest code (A-Z, 0-9, Spacebar)</th><th>Shortest code (incl. US QWERTY keyboard symbols)</th><th>Notes</th></tr></thead><tbody>
  <tr><td>Spawn Rhino</td><td>AIWPRTON</td><td>TimeToKickAss</td><td>GS&#9251;DMAX</td><td>LZERI,</td><td>&nbsp;</td></tr>
@@ -109,8 +106,7 @@ It's highly recommended to not save the game after using cheats, as some of them
  <tr><td>Spawn Stunt Plane</td><td>FLYINGTOSTUNT<br />URKQSRK</td><td>FlyingToStunt</td><td>URKQSRK</td><td>4M6\`D</td><td>&nbsp;</td></tr>
  <tr><td>Spawn Monster</td><td>MONSTERMASH<br />AGBDLCID</td><td>MonsterMash</td><td>M3TOA5</td><td>M3TOA5<br />.2URE1</td><td>&nbsp;</td></tr>
 </tbody></table>
-## Vehicles
-
+<h2>Vehicles</h2>
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Effect</th><th>Commonly known cheat code</th><th>Intended code</th><th>Shortest code (A-Z, 0-9, Spacebar)</th><th>Shortest code (incl. US QWERTY keyboard symbols)</th><th>Notes</th></tr></thead><tbody>
  <tr><td>Blow up all cars</td><td>CPKTNWT</td><td>AllCarsGoBoom</td><td>CPKTNWT</td><td>D=1I07</td><td>&nbsp;</td></tr>
@@ -155,8 +151,7 @@ It's highly recommended to not save the game after using cheats, as some of them
  <tr><td>Recruit anyone (rocket launcher)</td><td>ROCKETMAYHEM<br />ZSOXFSQ</td><td>RocketMayhem</td><td>MCXS7X</td><td>MCXS7X</td><td>&nbsp;</td></tr>
  <tr><td>Recruit anyone (AK-47)</td><td>BMTPWHR</td><td>NoOneCanStopUs</td><td>JKUK1M</td><td>JKUK1M</td><td></td></tr>
 </tbody></table>
-## Weather
-
+<h2>Weather</h2>
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Effect</th><th>Commonly known cheat code</th><th>Intended code</th><th>Shortest code (A-Z, 0-9, Spacebar)</th><th>Shortest code (incl. US QWERTY keyboard symbols)</th><th>Notes</th></tr></thead><tbody>
  <tr><td>Sunny Weather</td><td>PLEASANTLYWARM<br />AFZLLQLL</td><td>PleasantlyWarm</td><td>AZTR1M</td><td>AZTR1M</td><td>&nbsp;</td></tr>
