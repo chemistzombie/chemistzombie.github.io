@@ -96,8 +96,8 @@ Edison found the "[do nothing](https://gtaforums.com/topic/172825-newly-discover
 Edison found the "[infinite health](https://gtaforums.com/topic/172825-newly-discovered-button-cheats/?do=findComment&comment=2686789)" cheat code
 ## 2005-03-25
 Edison found the "hookers pay you" cheat code.
-## 2005-03
-Tips & Tricks Magazine published some [new cheat codes](https://gtaforums.com/topic/187777-new-cheat-from-r/) along with a "mystery" cheat code, all straight from Rockstar. They said that the cheat code "[didn't do what they were told it was going to do](https://gtaforums.com/topic/187777-new-cheat-from-r/?do=findComment&comment=2750530)", and it turned out to be the intended cheat code for "[all taxis have nitrous](https://gtaforums.com/topic/187777-new-cheat-from-r/?do=findComment&comment=2750456)", which was already discovered by Edison 2 months earlier (albeit with a different combination due to hash collisions). Other cheat codes that were released include ["Elvis is everywhere"](https://gtaforums.com/topic/187777-new-cheat-from-r/?do=findComment&comment=2750726) and the intended cheat code for ["never get hungry"](https://gtaforums.com/topic/187777-new-cheat-from-r/?do=findComment&comment=2756956).
+## 2005-05(?)
+Tips & Tricks published some [new cheat codes](https://gtaforums.com/topic/187777-new-cheat-from-r/) along with a "mystery" cheat code, all straight from Rockstar, in the 123rd issue of the magazine. They said that the cheat code "[didn't do what they were told it was going to do](https://gtaforums.com/topic/187777-new-cheat-from-r/?do=findComment&comment=2750530)", and it turned out to be the intended cheat code for "[all taxis have nitrous](https://gtaforums.com/topic/187777-new-cheat-from-r/?do=findComment&comment=2750456)", which was already discovered by Edison 2 months earlier (albeit with a different combination due to hash collisions). Other cheat codes that were released include ["Elvis is everywhere"](https://gtaforums.com/topic/187777-new-cheat-from-r/?do=findComment&comment=2750726) and the intended cheat code for ["never get hungry"](https://gtaforums.com/topic/187777-new-cheat-from-r/?do=findComment&comment=2756956).
 
 >### All taxis have nitrous
 >Edison's cheat code: :U: :X: :T: :X: :T: :X: :S: :R2: :R:
@@ -109,17 +109,21 @@ Tips & Tricks Magazine published some [new cheat codes](https://gtaforums.com/to
 >
 >Intended cheat code: :U: :D: :D: :L: :R: :L1: :L1: :L2: :R1: :R1: :R2: 
 
-It also contained an interview with Craig Filshie, the game's lead level designer.
+<div style="text-align: center;font-size:small"><a href="/images/tipstricks123pg98.jpg"><img width="50%" src="/images/tipstricks123pg98.jpg"/></a><br />The intended "all taxis have nitrous" cheat code, page 98</div>
+
+It also contains an interview with Craig Filshie, the game's lead level designer, that mentioned about edisoncarter's cheat code discoveries.
 
 >T&T: Are there any cheat codes that haven't yet been released or discovered?
 >
 >CF: One enterprising player [edisoncarter] hooked a third-party PlayStation 2 controller to his computer and programmed it to input random button combinations. Ingenious... and with that method he discovered a number of cheats. There are still some to unearth, however, so keep looking!
 
-<s>This is most likely from Tips & Tricks issue 121 (March 2005) as issue 122 from April 2005 doesn't have this.</s> Nope, I've checked out issue 121 on Retromags, which was uploaded only recently, and there's no mentions of interviews or mystery SA cheat codes. Must be from issue 120 (February 2005), which hasn't been uploaded yet, sadly.
-## 2005-05-03
-Skiller and CMX found the 12 last unknown cheat codes. We dubbed this the "L1 cheat codes" since every single one of them ends with L1 due to the brute-force method they used.
+<div style="text-align: center;font-size:small"><a href="/images/tipstricks123pg45.jpg"><img width="50%" src="/images/tipstricks123pg45.jpg"/></a><br />The intended "never get hungry" cheat code and Craig Filshie's interview, page 45</div>
 
-Most of these cheat codes are 12 buttons long and can be substituted with the alternative ones: Riot mode, Spawn Hunter, Spawn Tanker, All cars have nitros, Max all vehicle stats, Hitman in all weapons, Max respect, Max sex appeal, Traffic is cheap cars, overcast weather, Peds attack you with guns, Country traffic + Born 2 Truck outfit, and Infinite ammo. The tool and its source code were available for download but the links are now dead and no one seems to have reuploaded it.
+What's weird is that this magazine was published in May 2005, but the aforementioned GTAForums posts were from April 2005. I'm not sure if the forum posts' timestamps shifted by a month earlier due to a glitch, and this definitely confused me as the earlier issues from January - April didn't have these.
+## 2005-05-03
+Skiller and CMX found the [12 last unknown cheat codes](https://gtaforums.com/topic/190495-here-are-the-button-cheats). We dubbed this the "L1 cheat codes" since every single one of them ends with L1 due to the brute-force method they used.
+
+Most of these cheat codes are 12 buttons long and can be substituted with the alternative ones: Riot mode, Spawn Hunter, Spawn Tanker, All cars have nitrous, Max all vehicle stats, Hitman in all weapons, Max respect, Max sex appeal, Traffic is cheap cars, overcast weather, Peds attack you with guns, Country traffic + Born 2 Truck outfit, and Infinite ammo. The tool and its source code [were available for download](http://web.archive.org/web/20050503101919/http://www.cmgsccc.com/dl/index.php?item=3) but the links are now dead and no one seems to have reuploaded it.
 
 Supposedly, it was claimed that all the cheat codes have been found, but in fact, it's not! It turns out that the overcast weather cheat code they found has the exact same hash as the original one, so it didn't count. The cheat code they missed was the thunderstorm cheat code, that they actually found, but misinterpreted as another rainy weather cheat code when in fact it's an entirely different one since it has its own cheat ID (although both seem to have the same effect) so it was ignored.
 ## 2005-05-07
@@ -129,23 +133,25 @@ A post on GTASanAndreas.net wrote:
 
 >If all goes well, perhaps we will soon have all the working combinations. At this tempo (17159*12) that should be well over 200,000 working combinations! Don't forget these are not all unique cheat codes, it simply means there are 200,000+ combinations for the 91 in-game cheats.
 
-Which is true. I've managed to find all of them and there are 205,586 working combinations in total.
+Which is true. I've managed to find [all of them](/files/allcheatsPS2.txt) and there are 205,586 working combinations in total.
 ## 2005-06-08
 Just two days after the game's release on PC and Xbox, edisoncarter managed to find all the PC cheat codes, albeit in the short code form (e.g. HESOYAM) as the intended cheat codes hadn't been found yet, except the spawn Hunter (OHDUDE) and Hydra (JUMPJET) as those are already the shortest ones.
 ## 2005-06-23
 Last edited date of edisoncarter's PC cheats thread. Some of the intended cheat codes have been found but many were still missing.
 ## 2015-03-13
-Fast forward to 2015, nick7, a user on GTAForums posted a pair of intended cheats they found for PC: ThugsArmoury and NuttersToys. They noted these codes have a similarity to the ProfessionalsKit cheat code and GTA VC's ThugsTools, ProfessionalsTools and NuttersTools cheat codes.
+Fast forward to 2015, nick7, a user on GTAForums [posted](https://gtaforums.com/topic/194199-documenting-gta-sa-memory-addresses/?do=findComment&comment=1067115912) a pair of intended cheats they found for PC: ThugsArmoury and NuttersToys. They noted these codes have a similarity to the ProfessionalsKit cheat code and GTA VC's ThugsTools, ProfessionalsTools and NuttersTools cheat codes.
 ## 2015-03-31
-Alexander Blade, another GTAForums user, hinted the presence of all the intended PC cheat codes in the Android version.
+Alexander Blade, another GTAForums user, [hinted at](https://gtaforums.com/topic/194199-documenting-gta-sa-memory-addresses/?do=findComment&comment=1067226123) the presence of all the intended PC cheat codes in the Android version.
 ## 2015-04-01
-Alexander Blade hinted the location of the intended cheat codes in the Android version.
+Alexander Blade [hinted at]() the location of the intended cheat codes in the Android version.
 ## 2015-04-06
-Deji found the intended Spawn Rhino cheat code (TimeToKickAss)
+Deji [found](https://gtaforums.com/topic/194199-documenting-gta-sa-memory-addresses/?do=findComment&comment=1067259758) the intended Spawn Rhino cheat code (TimeToKickAss)
 
-Alexander Blade published all the intended PC cheat codes hidden in the Android version of the game. By the time he published this, it's been almost 10 years since edisoncarter's last edit to the PC cheats thread.
+Alexander Blade [published](https://gtaforums.com/topic/194199-documenting-gta-sa-memory-addresses/?do=findComment&comment=1067260022) all the intended PC cheat codes hidden in the Android version of the game. By the time he published this, it's been almost 10 years since edisoncarter's last edit to the PC cheats thread.
 ## 2015
-tuxxor/rot13's cheat code finder was released. So far this is the only SA cheat code finder that's available on the internet.
+tuxxor/rot13's [cheat code finder](https://tuxxor.siedziba.pl/cheat_code_finder/) was released. So far this is the only SA cheat code finder that's available on the internet.
+## 2019-02-12
+I discovered all [205,586 button combinations](/files/allcheatsPS2.txt) for the PS2 version with the help of Tuxxor's cheat code finder (see the last commit date [here](https://github.com/chemistzombie/chemistzombie.github.io/tree/master/files) for proof)
 
 <script type="text/javascript">
  
