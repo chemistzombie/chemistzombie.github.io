@@ -21,14 +21,13 @@
 title: The Chemist Zombie
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Commentaries about things I find interesting
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chemistzombie.github.io"
 twitter_username: jekyllrb
 github_username:  chemistzombie
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

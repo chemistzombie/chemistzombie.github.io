@@ -1,59 +1,85 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "{{ site.theme }}";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize",
+  url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
 
-.page-header{background:url("/files/background.jpg"); background-position: center;}
-.project-name{
-	text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000; 
-}
-
-@font-face {
-    font-family: Proxima Nova Regular;
-    src: url('/files/ProximaNova-Regular.ttf') format('truetype');
-}
-@font-face {
-    font-family: Proxima Nova Regular;
-    src: url('/files/ProximaNova-RegularItalic.ttf') format('truetype');
-    font-style: italic;
-}
-@font-face {
-    font-family: Proxima Nova Regular;
-    src: url('/files/ProximaNova-RegularItalic.ttf') format('truetype');
-    font-style: oblique;
-}
-@font-face {
-    font-family: Proxima Nova Regular;
-    src: url('/files/ProximaNova-Bold.ttf') format('truetype');
-    font-weight: bold;
-}
-@font-face {
-    font-family: Proxima Nova Regular;
-    src: url('/files/ProximaNova-BoldIt.ttf') format('truetype');
-    font-weight: bold;
-    font-style: italic;
-}
-@font-face {
-    font-family: Proxima Nova Regular;
-    src: url('/files/ProximaNova-BoldIt.ttf') format('truetype');
-    font-weight: bold;
-    font-style: oblique;
+  
+/* gives the site that late 2000s-early 2010s look */
+body {
+  font-family: "Atkinson Hyperlegible Next", Helvetica, Arial, sans-serif;
+  font-size: 14px; 
+  line-height: 20px;
+  background-color: #c0deed;
+  color: #333333;
 }
 
-body {font-family:'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Default font */
-h1 {font-family: 'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Page title font. Other stuff that uses the h1 tag is also affected. */
-h2 {font-family: 'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Heading 2 font. Other stuff that uses the h2 tag is also affected. */
-h3 {font-family: 'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Heading 3 font. Other stuff that uses the h3 tag is also affected. */
-h4 {font-family: 'Proxima Nova Regular', Arial, Helvetica, sans-serif;} /* Heading 4 font. Other stuff that uses the h4 tag is also affected. */
+blockquote { font-size: 14px; }
 
-.site-footer-credits{display:none;}
+.wrapper {
+  width: 960px !important;
+  max-width: none !important;
+  margin: 20px auto;
+  background: #ffffff;
+  border-radius: 6px;
+  padding: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
 
-.widescreen-video {
-  aspect-ratio: 16 / 9;
-  width: 100%;
-  height: 100%;
+.wrapper-header {
+  width: 960px !important;
+  max-width: none !important;
+  margin: 5px auto;
+  padding: 5px;
+  @extend %clearfix;
+}
+
+.site-title {font-weight:500;}
+
+.header-links {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 20px;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Atkinson Hyperlegible Next", Helvetica, Arial, sans-serif;
+  color: #222222;
+  text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.8);
+}
+
+.btn, a.button {
+  display: inline-block;
+  padding: 6px 14px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #333333 !important;
+  text-decoration: none;
+  border: 1px solid #bbbbbb;
+  border-radius: 4px;
+  
+  background: linear-gradient(to bottom, #f9f9f9 0%, #e3e3e3 100%);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 1), 0 1px 2px rgba(0, 0, 0, 0.1);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+}
+
+.btn:active, a.button:active {
+  background: #e3e3e3;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+
+header.site-header {
+  background: linear-gradient(to bottom, #7abcff 0%, #4096ee 100%);
+  border-bottom: 1px solid #2874bc;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+header.site-header a, header.site-header .site-title {
+  color: #ffffff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3); /* Dark shadow for light text */
 }
