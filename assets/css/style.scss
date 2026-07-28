@@ -83,3 +83,15 @@ header.site-header a, header.site-header .site-title {
   color: #ffffff !important;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3); /* Dark shadow for light text */
 }
+
+.widescreen-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  height: 100%;
+}
+
+.image {
+  padding: 20px;
+  text-align: center;
+  font-size:small;
+}
