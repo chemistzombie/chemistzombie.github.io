@@ -4,7 +4,7 @@ title: "We're so back: A further analysis of Signora's resurrection and playabil
 description: "With the release of 5.8 and 6.0, Hoyo has given us further evidence that Signora will be playable despite her not returning in 5.8 as I've predicted. We take a look into what's new, and what this means for Signora mains."
 image: /images/signora/aww.png
 ---
-**Last updated: 2026-05-17**. Last-minute addition of a theory on Scara and Signora's chibi merch rarity I've suspected since September, on top of the previous addition of some thoughts regarding the upcoming 6.6 patch.
+**Last updated: 2026-07-30**. Even more developments throughout 7.0 beta, and fixed some incorrect information. Almost everything is looking really good for Signora fans.
 
 Please see the commit history to see what changed. This will be updated over time as new information surfaces. **Additionally, you can now check out the table of contents to find out what's new and updated.**
 
@@ -97,8 +97,6 @@ If Hoyo just wanted "generic hype", they would've made Capitano, Dottore, or Col
 
 From a business standpoint, making them the rarest achieves two things. They could use this as some sort of market testing, as their rarity creates artificial scarcity, driving up demand. If resale prices spike and collectors obsess over them, Hoyo can measure how much "pulling power" these characters still have. Also, this allows them to generate free publicity and spark up conversations about her once again. Signora mains who've been silent for years now suddenly have a reason to reenter the conversation: "Why make her the rarest if she's irrelevant?" That's exactly the kind of buzz a company wants.
 
-**Update 2026-05-17:** In addition to this, it's possible that the chibi merch rarity is a foreshadowing for something big that will happen to Scaramouche and Signora. I speculate that Scara is in the "small hidden" category because it's more predictable: the different reflection, showing his past Balladeer appearance instead of the Wanderer in the Nod-Krai teaser, foreshadows the 6.6 AQ's conclusion of people remembering him again (i.e. his past catching up to him). Meanwhile, Signora is in the "big hidden" category because having a dead character be resurrected and playable *after 5 years* is gonna be a huge deal and something not many players would anticipate, especially for the detractors who have always questioned it.
-
 I've been suspecting this since September, when the chibi merch was first announced, and this has been pretty much implied in this section, but I didn't add it at first as this was too speculative. However, now that we know that Scara will be remembered by the other harbingers once again, it strengthened this theory that I could now explicitly state it here. I did mention this in [a tweet](https://twitter-thread.com/t/2045073143849800046) last month, but this post wasn't updated until much later.
 
 <img width="100%" src="/images/signora/prediction.jpg"/>
@@ -147,17 +145,11 @@ In [one of the Selenic Chronicles](https://genshin-impact.fandom.com/wiki/Her_Pa
 
 This is important, because unlike the other two Harbingers she mentioned (Arlecchino and Sandrone), she mentioned Signora by her *real name*, Rosalyne. You see, the Harbingers are usually introduced and referred to by their codenames, because that's what reinforces their role as the Harbingers, not as vulnerable human beings. Using her true name like this is a deliberate way to reframe her in a more positive way, as it strips away the intimidating Harbinger persona and instead humanizes her as _the woman behind the mask_. Also, notice how she still seems to be shaken by her death, as evidenced by her pausing and telling the MC to give her their hand before mentioning Rosalyne. That's a clear sign of pity-baiting, and it's essentially Hoyo nudging the audience to empathize with her on a personal level, not just as a villain archetype.
 
-After the huge blunder they did with Signora, Hoyo seems to have developed a formula on how to turn "morally grey" characters into sympathetic, playable ones:
-1. **Antagonistic introduction.** Each of these characters is first positioned as a threat or obstacle to the Traveler or their allies. At first, the player is meant to view them with suspicion or fear.
-   * Wanderer: Manipulative, arrogant, and dangerous.
-   * Arlecchino: Cold and ruthless, intimidating towards Furina.
-   * Skirk: Tied to the abyss and enigmatic.
-2. **Tragic backstory reveal.** We then dive into why they became this way, and the player begins to empathize. Each story is devastating:
-   * Wanderer: "Betrayed" by everyone he tried to love, manipulated by the Fatui.
-   * Arlecchino: Raised under cruel conditions, forced to suppress her emotions due to her cursed bloodline.
-   * Skirk: Survivor of a genocide, haunted by trauma, and forced to bury her past.
-3. **Re-contextualization.** Now that we know the pain, the cold exterior is reframed as a defense mechanism. They're not necessarily "evil", just morally grey, and they only appear to be villains because it's their coping mechanism after everything they've been through. Their flaws are humanized, and Hoyo builds them up not as antagonists, but as people.
-4. **Path to playability.** They finally go through a redemption path and be on good terms with the Traveler. Then the banner hits. This creates emotional investment, which translates directly into sales.
+After the huge blunder they did with Signora, Hoyo seems to have developed a formula on how to turn "morally grey" characters into sympathetic, playable ones. At first, they're introduced as a threat to the Traveler or their allies, so the player is primed to react to them negatively. Many Harbingers and people with ties to the Abyss are positioned like this, such as Wanderer, Arlecchino, Sandrone, or Skirk.
+
+Later on, they begin to reveal their tragic backstory, why things are the way they are, so the player would empathize to them. If you look at the animated shorts, quests, or character stories of these characters, you'll figure out why. Wanderer thinks he was "betrayed", Arlecchino was an orphan of the House of the Hearth, Sandrone couldn't let go of the thoughts of Alain (her creator), while Skirk survived a planet-scale genocide.
+
+Now that we know the pain, the cold exterior is then reframed as a coping mechanism, revealing the qualities that make them human (or at least in the case of Wanderer and Sandrone, machines with human emotions). Their flaws are humanized, and Hoyo builds them up not as antagonists, but as people. Eventually, they have a redemption arc and be on good terms with the Traveler, and they drop the banner.
 
 Columbina explicitly ties Rosalyne to a positive value: "It's important to always express gratitude to others". That is not something you write about a villain you intend to keep buried, and it's exactly what "Step 3" of the pity-bait formula looks like: re-contextualizing negative traits by highlighting a sympathetic core. This also means that Arlecchino's voice line wasn't a fluke, but rather foreshadowing, and now we've got another Harbinger reinforcing the same narrative shift. You don't just pity-bait her like this and then double down on it *years* after the fact unless if you're setting up a payoff.
 
@@ -390,7 +382,103 @@ Here's where things get interesting, because it confirmed that the Traveler isn'
 
 <div style="text-align: center;font-size:small"><img width="100%" src="/images/signora/stop_her.png"/></div>
 
-At first glance, this sounded like a massive mood whiplash after everything they've built up so far about Rosalyne being this warm and caring woman behind the mask, and that they might be backpedaling on that framing. However, I doubt Hoyo would be stupid enough to throw away all the pity-baiting effort they've made so far, and given how Hoyo likes to bring up things that could only be inferred by reading between the lines, this brings us to the next point, which is...
+At first glance, this sounded like a massive mood whiplash after everything they've built up so far about Rosalyne being this warm and caring woman behind the mask, and that they might be backpedaling on that framing. However, I doubt Hoyo would be stupid enough to throw away all the pity-baiting effort they've made so far. I'll explain this further down below, but recently, they've returned to portraying Rosalyne as the warm and caring woman once again, in full force.
+#### Sandrone's animated short
+
+"The Final Gift" animated short returns to portraying her in a positive light, this time with her being physically present in there, unlike the previous occasions in which she was only mentioned by name.
+
+<div style="text-align: center;font-size:small"><iframe class="widescreen-video" src="https://youtube.com/embed/RoxVeTxKnpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+The trailer also reveals a subtle but very important detail. For some reason, Signora is shown to have split hair, something that mostly only happens with playable characters. When Columbina was shown to have split hair in the Nod-Krai teaser, she was eventually confirmed to be playable just a few patches later. For them to suddenly show her with split hair like this is very suspicious, because her in-game model had never shown her with split hair like this, as she only had her rose buns. This is the kind of visual language detail that the Genshin community has learned to read accurately, and the fact that it's showing up in a trailer rather than gameplay makes it more significant rather than less. Trailers are carefully art-directed. Nothing in a trailer is accidental, especially something as specific as hair length and style.
+
+Also, notice how everything else also suspiciously focuses too much on her. In a scene where they showed all harbingers in a meeting, the camera was focused on her, while others, including Sandrone, were out of focus. And for something that's supposedly focused on Sandrone, Signora had an unusually high amount of lines in this teaser. The direction of animations like this is intentional at every level. Where the camera focuses, who is in sharp versus soft focus and who has more dialogue, are decisions made by directors who know exactly what they're communicating. The fact that Signora received more focus than Sandrone in Sandrone's own character teaser is almost certainly a deliberate decision, intended as a nod to Signora fans that "yes, we're bringing her back soon". It's almost as if this was Signora's teaser under the guise of Sandrone's. 
+
+#### 6.7 Special Program
+
+The special program further emphasizes the Rosalyne mentions by having the voice actors *directly* mention her as such. 
+
+<div class="image"><iframe class="widescreen-video" src="https://youtube.com/embed/4_hU8t3waig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+There's a fundamental difference between in-universe characters using "Rosalyne" and real-world voice actors using "Rosalyne" when addressing the audience directly. In-universe, the name choice can be explained as characterization. The female Harbingers knew her personally, they use her real name, and that's a deliberate narrative choice about how those characters relate to her identity. Audiences can engage with that reading without it necessarily implying anything about her future status. But voice actors speaking to the live audience in a special program stream are operating entirely outside the fiction. They're real people, presumably given talking points or a script by Hoyo's communications team, addressing viewers directly about the game's content. When those real people, in that real-world context, consistently use "Rosalyne" rather than "Signora", the name that has been her primary identifier for four years of in-game content, that's a communications decision made by Hoyo's PR and marketing teams.
+
+Special program streams are carefully managed, because these are scripted, not improvised. Someone wrote those talking points and decided that the VAs should call her Rosalyne when speaking to the audience. That decision was made by the same people who decide what goes into trailers or what narrative content appears in which versions. This isn't a coincidence or an emergent pattern anymore. It's a coordinated communications strategy that has now crossed the boundary from fiction into reality. Hoyo's own VAs, speaking as themselves to the audience, are using the name that represents her humanity rather than her role.
+
+In a production context, telling your VAs to refer to a character by a specific name when addressing the audience is the kind of decision that gets made when that character's framing is being actively managed for a specific purpose. You don't give them that kind of specific instruction for a dead character with no planned future, there's no reason to. You give that instruction when you're building toward something and you want the audience to be primed with a specific emotional and conceptual relationship to the character before the reveal. The most obvious reason to tell your VAs "call her Rosalyne, not Signora" in the special program is that you're preparing the audience for content where she will be Rosalyne. Not the antagonist, not the Harbinger who died, but the person underneath.
+
+#### Sandrone's teaser
+
+The teaser for Sandrone follows up on the animated short by also putting Signora in it. One very interesting detail is the blue butterfly that landed on her heels. This is in contrast to her pyro moths (which have been confirmed to symbolize "moth to a flame" in 7.0 beta leaks). In certain cultures, butterflies [symbolize rebirth](http://staugustine.com/living/religion/2015-04-16/church-releases-butterflies-symbol-rebirth#.Ve77UZdUWHg), so to have a blue butterfly as opposed to the usual moth could be treated as subtle hint that she's returning.
+
+If they were to emphasize that she's dead, they could've kept using the moth symbolism. But they chose *not* to do that here. The butterfly in here isn't something that has appeared before, as it's not something that came from her CWOF powers, and Hoyo would've absolutely had no reasons to put it in here unless if they're trying to give a hint towards something. Remember that animations like this are carefully directed and everything that transpires isn't a coincidence, so the only possible explanation is that this symbolizes her future return, given how the Rosalyne mentions are back in full force lately.
+
+<div class="image"><iframe class="widescreen-video" src="https://youtube.com/embed/rHJapi6mvmI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+#### Version 6.7
+
+This version *finally* put Signora's model in a quest, with her VA speaking 3 lines in it. In addition, **Childe** now also mentions her by her real name, so this has now started to expand to other Harbingers as well. Her appearance in this version is VERY clever, because by not putting her model in 7.x, they were able to avoid having to possibly spoil her resurrection by revealing her model in a real-time cutscene and putting her in the playable ID list.
+
+<div class="image"><img width="100%" src="/images/signora/67event1.png"/></div><div class="image"><img width="100%" src="/images/signora/67event2.png"/></div><div class="image"><img width="100%" src="/images/signora/67event3.png"/></div>
+
+In addition, Sandrone has a voice line about her, and it mentions her by her real name too, with the placement staying at #10. I'm starting to wonder if a resurrected Rosalyne would actually occupy the 10th spot and that the 8th place would be replaced with someone else instead, presumably Odette in the future, as implied by some of the dialogues in [this version's WQ](https://genshin-impact.fandom.com/wiki/Fire_and_Ice) accessed via Sandrone's tea table.
+
+> She always lived for herself. She loved in her own way, and hated in her own way, too. No wonder she burned out so fast. Still, her flame shone with a unique hue until the moment it flickered into nothing.
+
+The aforementioned dialogue is as follows:
+
+> **The Knave:** Thanks for the invitation, Sandrone. This food tastes just like I remember. It really brings back memories.
+> 
+> **Marionette:** You're welcome. If you like, we can get together more often when I'm back in Snezhnaya. It'll be just like the old days.
+> 
+> **The Knave:** Of course.
+> 
+> **Marionette:** Speaking of [Snezhnaya](https://genshin-impact.fandom.com/wiki/Snezhnaya "Snezhnaya"), how's everything going on your end?
+> 
+> **The Knave:** Her Majesty the [Tsaritsa](https://genshin-impact.fandom.com/wiki/Tsaritsa "Tsaritsa")'s plans have made some initial progress, but [Project Stuzha](https://genshin-impact.fandom.com/wiki/Project_Stuzha "Project Stuzha") is proving more difficult to implement than the [Mayor](https://genshin-impact.fandom.com/wiki/Pulcinella "Pulcinella") anticipated.
+> 
+> **Marionette:** Then it appears we'll both be busy from now on.
+> 
+> **The Knave:** Though we should still have time to stop for a cup of tea every now and then, or even catch a performance by the Korolevskiy Troupe.
+> 
+> **Marionette:** Is [Odette](https://genshin-impact.fandom.com/wiki/Odette "Odette") still performing ballet?
+> 
+> **The Knave:** Yes. Every time I see her, she seems to keep getting better.
+> 
+> **Marionette:** Amazing. I'd love to see her perform again when I'm back.
+> 
+> **Marionette:** I find it really quite fascinating. Despite learning her craft under [Rosalyne](https://genshin-impact.fandom.com/wiki/Signora "Signora"), their temperaments and styles couldn't be more different.
+> 
+> **The Knave:** That's not necessarily a bad thing.
+> 
+> **Marionette:** True... Rosalyne danced with a fiery passion, whereas Odette is as frosty and opaque as a block of solid ice.
+> 
+> **The Knave:** She appears to be carrying a heavy burden.
+> 
+> **Marionette:** And yet, when she performs on stage, her movements are so pure, as though her heart were free from even the tiniest of blemishes.
+> 
+> **The Knave:** Or perhaps she's sealed such things away where no one will see them.
+> 
+> **Marionette:** Perhaps. In the end, isn't that what ice does — freeze over the cracks? But she's not fragile, she's resolute. If anything, I'd say she's dangerous.
+> 
+> **The Knave:** At least in that regard, she resembles Rosalyne.
+> 
+> **Marionette:** Because she's dangerous?
+> 
+> **The Knave:** Because of her resolve.
+> 
+> **Marionette:** I suppose you're right. No wonder there are rumors that she's the favorite to inherit the "La Signora" title.
+> 
+> **Marionette:** Hah... Once we get to know her better, we could invite her to our tea parties. I hope she won't refuse.
+> 
+> **The Knave:** Me too.
+
+If this turns out to be the case, then it would make sense to refer to Signora as Rosalyne as she'd be stripped of that title, forcing her to go by her own real name, or under a new codename if she returns and becomes the 10th Harbinger.
+
+#### Version 7.0
+
+[An upcoming artifact set](https://www.reddit.com/r/Genshin_Impact_Leaks/comments/1v1jad7/fatui_artifact_story_machine_tl/) now also refers to her as Rosalyne.
+
+> "Counseling rooms" was the internal name; outside, they were generally referred to as "conference rooms" or "small rooms," as if needing psychological counseling was some kind of secret ailment. Another name was "little dark room," a term whose origin is unknown, but Capitano vehemently denied it. Initially, the Fatui trained relatively professional counselors to handle various issues. However, in practice, many soldiers were reluctant to open up to strangers; they preferred to seek help from trusted individuals, to confide their unspeakable stories in an undisturbed environment, or simply to have a good cry. So, the kind-hearted Pulcinella relaxed the restrictions somewhat; anyone could talk for hours with a pre-arranged partner, provided an appointment was approved. The executive officers, naturally, also enjoyed this privilege. Capitano once saw Lohefalter patting her face with a powder puff as she came out, followed closely by Pulcinella, who held up her handbag for her. He had no intention of intruding on the lady's privacy, and the mayor was also adept at keeping secrets; neither of them mentioned it again.
+
 ### They're separating Rosalyne's identity from Signora
 With the release of 6.4's flagship event, some Signora mains were concerned about the inconsistent portrayal of her personality, as Venti, Varka, and the Traveler viewed her in a negative light, all while the latter failed to make the connection that Rosalyne is Signora.
 
@@ -685,6 +773,14 @@ Hoyo's sudden refusal to elaborate any further than "Traveler with a gun" is inc
 
 It's likely that they did this in order to leave the audience speculating about what will happen and which characters will appear in the AQ, generating hype and engagement and maintaining it until they're ready to reveal it. I'm willing to bet that they're withholding any important details because it's likely that this region will feature multiple playable Harbingers, as they're way behind the schedule when it comes to releasing them, with there only being 5 Harbingers that are or will be playable so far. This leaves us with 6 left, and it's likely they'll have to resort to releasing three or more harbingers in Snezhnaya, especially given how the Fatui is headquartered in there. Given how Rosalyne has been constantly mentioned in Nod-Krai, it's extremely likely that she will be among the playable units, and given how that's a huge spoiler that cannot be avoided, it makes sense that they remain awkwardly silent like this.
 
+#### Her "death" voice lines are not an issue
+
+Sandrone was resurrected, and Arlecchino and Columbina have new lines about her. This means that her death voice lines are no longer an issue, as Hoyo has proven that they could now add new lines about her on the existing Harbingers, such as "About The Fair Lady: II" or "About Rosalyne: II".
+
+> After experiencing so much in [Nod-Krai](https://genshin-impact.fandom.com/wiki/Nod-Krai "Nod-Krai") together, I've come to realize my previous assessment was unfair. She's a reliable comrade and a reassuring companion. On the eve of another harsh winter, every additional pair of hands is welcome, so I'm glad that Sandrone has returned. Her presence provides comfort to the children.
+
+>  Sandrone has returned. I'm so happy. I noticed her wind-up key sometimes turns a bit faster now — it always seemed to turn at the same speed before. She said it's because she's embraced her inner feelings, and that she's different now. But whether she's changed her outfit or her key turns faster, I feel like Sandrone is still Sandrone, my best friend. Whether it's her past or present self, she has my complete admiration. I told her this, and her key turned faster. I don't know why, but it's really interesting.
+
 ## Speculations that may or may not be related to Signora
 ### The connection between moths and angels' feathers
 A datamined 6.5 [local specialty](https://gensh.honeyhunterworld.com/i_n101272/?lang=EN) item has the Etherwing Moth, which looks suspiciously similar to the pyro moths that Signora has. What's even more interesting is that it connects these moths to angels' feathers.
@@ -803,7 +899,7 @@ This is pretty much the same unsustainable business model. The "let her stay dea
 
 They doubled down on her death (Winter Night's Lazzo, [MC's brag lines](https://old.reddit.com/r/SignoraMains/comments/1o1qiu1/i_never_knew_this/) in a Sumeru daily, lack of splash art, etc.), likely as an attempt to assert narrative authority, the same way enthusiast brands often double down on "integrity" when criticized for ignoring the wider market.
 
-This is where they realized too late that they weren't the same kind of company anymore. Hoyo was no longer an "enthusiast brand". It was a multimillion dollar company competing with other major studios.
+Eventually, they realized too late that they weren't the same kind of company anymore. Hoyo was no longer an "enthusiast brand". It was a multimillion dollar company competing with other major studios.
 
 After finally realizing this, they now have three options, none of which is easy:
  
